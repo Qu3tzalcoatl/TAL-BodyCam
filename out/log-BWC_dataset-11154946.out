@@ -1,0 +1,4 @@
+NVIDIA-SMI has failed because it couldn't communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running.
+
+Testing...
+slurmstepd: error: *** JOB 11154946 ON cdr726 CANCELLED AT 2023-09-01T20:32:26 DUE TO TIME LIMIT ***

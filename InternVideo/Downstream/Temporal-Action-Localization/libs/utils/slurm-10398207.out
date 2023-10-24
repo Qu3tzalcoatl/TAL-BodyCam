@@ -1,0 +1,45 @@
+cudnn/8.0.3:
+============================================================================================
+The NVidia software listed above is subject to the terms of the NVidia Software
+License Agreement, which can be obtained via http://developer.nvidia.com.
+By continuing, you accept to be bound by the terms of that license.
+
+Le logiciel NVidia listé ci-dessus est sous réserve des termes de la licence
+NVidia Software License Agreement, qui peut être obtenue via
+http://developer.nvidia.com.
+En continuant, vous acceptez les termes de cette licence.
+============================================================================================
+	 
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cuda/11.0     2) openmpi/4.0.3
+
+Thu Aug 24 13:02:41 2023       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 530.30.02              Driver Version: 530.30.02    CUDA Version: 12.1     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                  Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf            Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Tesla P100-PCIE-12GB            On | 00000000:04:00.0 Off |                    0 |
+| N/A   31C    P0               24W / 250W|      0MiB / 12288MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+/var/spool/slurmd/job10398207/slurm_script: line 19: ../../../../ENV/bin/activate: No such file or directory
+Testing...
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/InternVideo/Downstream/Temporal-Action-Localization/libs/utils/setup.py", line 1, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'

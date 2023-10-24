@@ -1,0 +1,276 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) libfabric/1.10.1     2) openmpi/4.0.3     3) ucx/1.8.0
+
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cuda/11.0     2) openmpi/4.0.3
+
+Mon Sep 18 15:26:42 2023       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 530.30.02              Driver Version: 530.30.02    CUDA Version: 12.1     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                  Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf            Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Tesla P100-PCIE-12GB            On | 00000000:83:00.0 Off |                    0 |
+| N/A   33C    P0               24W / 250W|      0MiB / 12288MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+Testing...
+train_eval.py (L33)
+CUDA is available
+The number of available CUDA devices is 1
+Using device: cuda
+
+Tesla P100-PCIE-12GB
+RAM Used:  22.554412841796875 GB
+GPU Memory Usage:
+Allocated: 0.0 GB
+Cached:    0.0 GB
+
+
+Configuration loaded: 
+
+{'dataset': {'crop_ratio': [0.9, 1.0],
+             'default_fps': None,
+             'downsample_rate': 1,
+             'feat_folder': '/scratch/slee67/bodycam_mp4',
+             'feat_stride': 4,
+             'file_ext': '.mp4',
+             'file_prefix': None,
+             'force_upsampling': False,
+             'input_dim': 2000,
+             'json_file': './data/InternVideo_Police_BWC_Car_v3.json',
+             'max_seq_len': 65536,
+             'num_classes': 1,
+             'num_frames': 16,
+             'trunc_thresh': 0.5},
+ 'dataset_name': 'bodycam',
+ 'devices': ['cuda:0'],
+ 'init_rand_seed': 1234567891,
+ 'loader': {'batch_size': 1, 'num_workers': 4},
+ 'model': {'backbone_arch': (2, 2, 5),
+           'backbone_type': 'convTransformer',
+           'embd_dim': 512,
+           'embd_kernel_size': 3,
+           'embd_with_ln': True,
+           'fpn_dim': 512,
+           'fpn_type': 'identity',
+           'fpn_with_ln': True,
+           'head_dim': 512,
+           'head_kernel_size': 3,
+           'head_num_layers': 3,
+           'head_with_ln': True,
+           'input_dim': 2000,
+           'max_buffer_len_factor': 6.0,
+           'max_seq_len': 65536,
+           'n_head': 4,
+           'n_mha_win_size': 16,
+           'num_classes': 1,
+           'regression_range': [(0, 4),
+                                (4, 8),
+                                (8, 16),
+                                (16, 32),
+                                (32, 64),
+                                (64, 10000)],
+           'scale_factor': 2,
+           'test_cfg': {'duration_thresh': 0.05,
+                        'ext_score_file': None,
+                        'iou_threshold': 0.1,
+                        'max_seg_num': 200,
+                        'min_score': 0.001,
+                        'multiclass_nms': True,
+                        'nms_method': 'soft',
+                        'nms_sigma': 0.5,
+                        'pre_nms_thresh': 0.001,
+                        'pre_nms_topk': 2000,
+                        'voting_thresh': 0.7},
+           'train_cfg': {'center_sample': 'radius',
+                         'center_sample_radius': 1.5,
+                         'clip_grad_l2norm': 1.0,
+                         'cls_prior_prob': 0.01,
+                         'dropout': 0.0,
+                         'droppath': 0.1,
+                         'head_empty_cls': [],
+                         'init_loss_norm': 100,
+                         'label_smoothing': 0.0,
+                         'loss_weight': 1.0},
+           'use_abs_pe': False,
+           'use_rel_pe': False},
+ 'model_name': 'LocPointTransformer',
+ 'opt': {'epochs': 45,
+         'learning_rate': 0.0001,
+         'momentum': 0.9,
+         'schedule_gamma': 0.1,
+         'schedule_steps': [],
+         'schedule_type': 'cosine',
+         'type': 'AdamW',
+         'warmup': True,
+         'warmup_epochs': 5,
+         'weight_decay': 0.05},
+ 'output_folder': './ckpt_bwc/',
+ 'test_cfg': {'duration_thresh': 0.05,
+              'ext_score_file': None,
+              'iou_threshold': 0.1,
+              'max_seg_num': 200,
+              'min_score': 0.001,
+              'multiclass_nms': True,
+              'nms_method': 'soft',
+              'nms_sigma': 0.5,
+              'pre_nms_thresh': 0.001,
+              'pre_nms_topk': 2000,
+              'voting_thresh': 0.7},
+ 'train_cfg': {'center_sample': 'radius',
+               'center_sample_radius': 1.5,
+               'clip_grad_l2norm': 1.0,
+               'cls_prior_prob': 0.01,
+               'dropout': 0.0,
+               'droppath': 0.1,
+               'head_empty_cls': [],
+               'init_loss_norm': 100,
+               'label_smoothing': 0.0,
+               'loss_weight': 1.0},
+ 'train_split': ['train'],
+ 'val_split': ['test']}
+/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/torch/utils/data/dataloader.py:560: UserWarning: This DataLoader will create 4 worker processes in total. Our suggested max number of worker in current system is 1, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+stride = 16
+max_seq_len = 65536
+stride = 32
+max_seq_len = 65536
+stride = 64
+max_seq_len = 65536
+stride = 128
+max_seq_len = 65536
+stride = 256
+max_seq_len = 65536
+stride = 512
+max_seq_len = 65536
+Using model EMA ...
+
+Start training model LocPointTransformer ...
+train_eval.py (L163) 
+ epoch: 0
+Devices:
+cuda:0
+_CudaDeviceProperties(name='Tesla P100-PCIE-12GB', major=6, minor=0, total_memory=12193MB, multi_processor_count=56)
+
+
+------------------------------------------------
+------------------------------------------------
+
+[Train]: Epoch 0 started
+
+train_utils.py L281
+RAM Used:  23.138870239257812 GB
+GPU Memory Usage:
+Allocated: 0.2 GB
+Cached: 0.2 GB
+
+------------------------------------------------
+------------------------------------------------
+
+
+------------------------------------------------
+------------------------------------------------
+
+bodycam.py L160
+RAM Used:  23.226661682128906 GB
+GPU Memory Usage:
+Allocated: 0.0 GB
+Cached:    0.0 GB
+bodycam.py L172 Log 1081642 _ Body_Cam Video 14
+bodycam.py (L178) Filename:  /scratch/slee67/bodycam_mp4/Log 1081642 _ Body_Cam Video 14.mp4
+
+------------------------------------------------
+------------------------------------------------
+
+bodycam.py L160
+RAM Used:  23.231430053710938 GB
+GPU Memory Usage:
+Allocated: 0.0 GB
+Cached:    0.0 GB
+bodycam.py L172 Log 1081642 _ Body_Cam Video 19
+bodycam.py (L178) Filename:  /scratch/slee67/bodycam_mp4/Log 1081642 _ Body_Cam Video 19.mp4
+
+------------------------------------------------
+------------------------------------------------
+
+bodycam.py L160
+RAM Used:  23.238727569580078 GB
+GPU Memory Usage:
+Allocated: 0.0 GB
+Cached:    0.0 GB
+bodycam.py L172 Log 1089608 Body_Worn Camera 1
+bodycam.py (L178) Filename:  /scratch/slee67/bodycam_mp4/Log 1089608 Body_Worn Camera 1.mp4
+
+------------------------------------------------
+------------------------------------------------
+
+bodycam.py L160
+RAM Used:  23.241626739501953 GB
+GPU Memory Usage:
+Allocated: 0.0 GB
+Cached:    0.0 GB
+bodycam.py L172 Log  2020_3121 Body Worn Camera  7
+bodycam.py (L178) Filename:  /scratch/slee67/bodycam_mp4/Log  2020_3121 Body Worn Camera  7.mp4
+
+------------------------------------------------
+------------------------------------------------
+
+bodycam.py L160
+RAM Used:  39.21649932861328 GB
+GPU Memory Usage:
+Allocated: 0.0 GB
+Cached:    0.0 GB
+bodycam.py L172 Log 1087646 _ Body_Worn Camera 1
+bodycam.py (L178) Filename:  /scratch/slee67/bodycam_mp4/Log 1087646 _ Body_Worn Camera 1.mp4
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 1132, in _try_get_data
+    data = self._data_queue.get(timeout=timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/multiprocessing/queues.py", line 113, in get
+    if not self._poll(timeout):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/multiprocessing/connection.py", line 262, in poll
+    return self._poll(timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/multiprocessing/connection.py", line 429, in _poll
+    r = wait([self], timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/multiprocessing/connection.py", line 936, in wait
+    ready = selector.select(timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/selectors.py", line 416, in select
+    fd_event_list = self._selector.poll(timeout)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/torch/utils/data/_utils/signal_handling.py", line 66, in handler
+    _error_if_any_worker_fails()
+RuntimeError: DataLoader worker (pid 25400) is killed by signal: Killed. 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/InternVideo/Downstream/Temporal-Action-Localization/./train_eval.py", line 262, in <module>
+    main(args)
+  File "/project/6003167/slee67/bodycam/InternVideo/Downstream/Temporal-Action-Localization/./train_eval.py", line 172, in main
+    train_one_epoch(
+  File "/project/6003167/slee67/bodycam/InternVideo/Downstream/Temporal-Action-Localization/libs/utils/train_utils.py", line 288, in train_one_epoch
+    for iter_idx, video_list in (enumerate(train_loader, 0)):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 633, in __next__
+    data = self._next_data()
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 1328, in _next_data
+    idx, data = self._get_data()
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 1294, in _get_data
+    success, data = self._try_get_data()
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/torch/utils/data/dataloader.py", line 1145, in _try_get_data
+    raise RuntimeError('DataLoader worker (pid(s) {}) exited unexpectedly'.format(pids_str)) from e
+RuntimeError: DataLoader worker (pid(s) 25400) exited unexpectedly
+slurmstepd: error: Detected 1 oom_kill event in StepId=12477975.batch. Some of the step tasks have been OOM Killed.

@@ -1,0 +1,269 @@
+
+Currently Loaded Modules:
+  1) CCconfig                 5) intel/2020.1.217 (t)   9) StdEnv/2020   (S)
+  2) gentoo/2020     (S)      6) ucx/1.8.0             10) mii/1.1.2
+  3) gcccore/.9.3.0  (H)      7) libfabric/1.10.1      11) libffi/3.3
+  4) imkl/2020.1.217 (math)   8) openmpi/4.0.3    (m)  12) python/3.10.2 (t)
+
+  Where:
+   H:     Hidden Module
+   S:     Module is Sticky, requires --force to unload or purge
+   m:     MPI implementations / Implémentations MPI
+   math:  Mathematical libraries / Bibliothèques mathématiques
+   t:     Tools for development / Outils de développement
+
+ 
+
+[debug] Command-line config: ['--config-locations', '/project/6003167/slee67/bodycam/yt-dlp.conf', 'https://vimeo.com/user51379210/videos']
+[debug] | Config "/project/6003167/slee67/bodycam/yt-dlp.conf": ['--verbose', '--yes-playlist', '--add-metadata', '-f', 'mp4', '--match-filter', 'title ~= (?i)body', '--match-filter', 'title ~= (?i)bwc', '-P', '/project/6003167/slee67/bodycam/videos/', '-o', 'Chicago_raw/%(title)s.%(ext)s', '--legacy-server-connect', '--force-ipv4']
+[debug] Encodings: locale UTF-8, fs utf-8, pref UTF-8, out utf-8 (No ANSI), error utf-8 (No ANSI), screen utf-8 (No ANSI)
+[debug] yt-dlp version stable@2023.07.06 [b532a3481] (pip)
+[debug] Python 3.10.2 (CPython x86_64 64bit) - Linux-3.10.0-1160.90.1.el7.x86_64-x86_64-with-glibc2.30 (OpenSSL 1.1.1s  1 Nov 2022, glibc 2.30)
+[debug] exe versions: ffmpeg 4.2.2, ffprobe 4.2.2
+[debug] Optional libraries: Cryptodome-3.18.0, brotli-1.0.9, certifi-2023.05.07, mutagen-1.46.0, sqlite3-2.6.0, websockets-11.0.3
+[debug] Proxy map: {}
+[debug] Loaded 1855 extractors
+[vimeo:user] Extracting URL: https://vimeo.com/user51379210/videos
+[vimeo:user] user51379210: Downloading page 1
+[download] Downloading playlist: COPA Chicago
+[vimeo:user] user51379210: Downloading page 2
+[vimeo:user] user51379210: Downloading page 3
+[vimeo:user] user51379210: Downloading page 4
+[vimeo:user] user51379210: Downloading page 5
+[vimeo:user] user51379210: Downloading page 6
+[vimeo:user] user51379210: Downloading page 7
+[vimeo:user] user51379210: Downloading page 8
+[vimeo:user] user51379210: Downloading page 9
+[vimeo:user] user51379210: Downloading page 10
+[vimeo:user] user51379210: Downloading page 11
+[vimeo:user] user51379210: Downloading page 12
+[vimeo:user] user51379210: Downloading page 13
+[vimeo:user] user51379210: Downloading page 14
+[vimeo:user] user51379210: Downloading page 15
+[vimeo:user] user51379210: Downloading page 16
+[vimeo:user] user51379210: Downloading page 17
+[vimeo:user] user51379210: Downloading page 18
+[vimeo:user] user51379210: Downloading page 19
+[vimeo:user] user51379210: Downloading page 20
+[vimeo:user] user51379210: Downloading page 21
+[vimeo:user] user51379210: Downloading page 22
+[vimeo:user] user51379210: Downloading page 23
+[vimeo:user] user51379210: Downloading page 24
+[vimeo:user] user51379210: Downloading page 25
+[vimeo:user] user51379210: Downloading page 26
+[vimeo:user] user51379210: Downloading page 27
+[vimeo:user] user51379210: Downloading page 28
+[vimeo:user] user51379210: Downloading page 29
+[vimeo:user] user51379210: Downloading page 30
+[vimeo:user] user51379210: Downloading page 31
+[vimeo:user] user51379210: Downloading page 32
+[vimeo:user] user51379210: Downloading page 33
+[vimeo:user] user51379210: Downloading page 34
+[vimeo:user] user51379210: Downloading page 35
+[vimeo:user] user51379210: Downloading page 36
+[vimeo:user] user51379210: Downloading page 37
+[vimeo:user] user51379210: Downloading page 38
+[vimeo:user] user51379210: Downloading page 39
+[vimeo:user] user51379210: Downloading page 40
+[vimeo:user] user51379210: Downloading page 41
+[vimeo:user] user51379210: Downloading page 42
+[vimeo:user] user51379210: Downloading page 43
+[vimeo:user] user51379210: Downloading page 44
+[vimeo:user] user51379210: Downloading page 45
+[vimeo:user] user51379210: Downloading page 46
+[vimeo:user] user51379210: Downloading page 47
+[vimeo:user] user51379210: Downloading page 48
+[vimeo:user] user51379210: Downloading page 49
+[vimeo:user] user51379210: Downloading page 50
+[vimeo:user] user51379210: Downloading page 51
+[vimeo:user] user51379210: Downloading page 52
+[vimeo:user] user51379210: Downloading page 53
+[vimeo:user] user51379210: Downloading page 54
+[vimeo:user] user51379210: Downloading page 55
+[vimeo:user] user51379210: Downloading page 56
+[vimeo:user] user51379210: Downloading page 57
+[vimeo:user] user51379210: Downloading page 58
+[vimeo:user] user51379210: Downloading page 59
+[vimeo:user] user51379210: Downloading page 60
+[vimeo:user] user51379210: Downloading page 61
+[vimeo:user] user51379210: Downloading page 62
+[vimeo:user] user51379210: Downloading page 63
+[vimeo:user] user51379210: Downloading page 64
+[vimeo:user] user51379210: Downloading page 65
+[vimeo:user] user51379210: Downloading page 66
+[vimeo:user] user51379210: Downloading page 67
+[vimeo:user] user51379210: Downloading page 68
+[vimeo:user] user51379210: Downloading page 69
+[vimeo:user] user51379210: Downloading page 70
+[vimeo:user] user51379210: Downloading page 71
+[vimeo:user] user51379210: Downloading page 72
+[vimeo:user] user51379210: Downloading page 73
+[vimeo:user] user51379210: Downloading page 74
+[vimeo:user] user51379210: Downloading page 75
+[vimeo:user] user51379210: Downloading page 76
+[vimeo:user] user51379210: Downloading page 77
+[vimeo:user] user51379210: Downloading page 78
+[vimeo:user] user51379210: Downloading page 79
+[vimeo:user] user51379210: Downloading page 80
+[vimeo:user] user51379210: Downloading page 81
+[vimeo:user] user51379210: Downloading page 82
+[vimeo:user] user51379210: Downloading page 83
+[vimeo:user] user51379210: Downloading page 84
+[vimeo:user] user51379210: Downloading page 85
+[vimeo:user] user51379210: Downloading page 86
+[vimeo:user] user51379210: Downloading page 87
+[vimeo:user] user51379210: Downloading page 88
+[vimeo:user] user51379210: Downloading page 89
+[vimeo:user] user51379210: Downloading page 90
+[vimeo:user] user51379210: Downloading page 91
+[vimeo:user] user51379210: Downloading page 92
+[vimeo:user] user51379210: Downloading page 93
+[vimeo:user] user51379210: Downloading page 94
+[vimeo:user] user51379210: Downloading page 95
+[vimeo:user] user51379210: Downloading page 96
+[vimeo:user] user51379210: Downloading page 97
+[vimeo:user] user51379210: Downloading page 98
+[vimeo:user] user51379210: Downloading page 99
+[vimeo:user] user51379210: Downloading page 100
+[vimeo:user] user51379210: Downloading page 101
+[vimeo:user] user51379210: Downloading page 102
+[vimeo:user] user51379210: Downloading page 103
+[vimeo:user] user51379210: Downloading page 104
+[vimeo:user] user51379210: Downloading page 105
+[vimeo:user] user51379210: Downloading page 106
+[vimeo:user] user51379210: Downloading page 107
+[vimeo:user] user51379210: Downloading page 108
+[vimeo:user] user51379210: Downloading page 109
+[vimeo:user] user51379210: Downloading page 110
+[vimeo:user] user51379210: Downloading page 111
+[vimeo:user] user51379210: Downloading page 112
+[vimeo:user] user51379210: Downloading page 113
+[vimeo:user] user51379210: Downloading page 114
+[vimeo:user] user51379210: Downloading page 115
+[vimeo:user] user51379210: Downloading page 116
+[vimeo:user] user51379210: Downloading page 117
+[vimeo:user] user51379210: Downloading page 118
+[vimeo:user] user51379210: Downloading page 119
+[vimeo:user] user51379210: Downloading page 120
+[vimeo:user] user51379210: Downloading page 121
+[vimeo:user] user51379210: Downloading page 122
+[vimeo:user] user51379210: Downloading page 123
+[vimeo:user] user51379210: Downloading page 124
+[vimeo:user] user51379210: Downloading page 125
+[vimeo:user] user51379210: Downloading page 126
+[vimeo:user] user51379210: Downloading page 127
+[vimeo:user] user51379210: Downloading page 128
+[vimeo:user] user51379210: Downloading page 129
+[vimeo:user] user51379210: Downloading page 130
+[vimeo:user] user51379210: Downloading page 131
+[vimeo:user] user51379210: Downloading page 132
+[vimeo:user] user51379210: Downloading page 133
+[vimeo:user] user51379210: Downloading page 134
+[vimeo:user] user51379210: Downloading page 135
+[vimeo:user] user51379210: Downloading page 136
+[vimeo:user] user51379210: Downloading page 137
+[vimeo:user] user51379210: Downloading page 138
+[vimeo:user] user51379210: Downloading page 139
+[vimeo:user] user51379210: Downloading page 140
+[vimeo:user] user51379210: Downloading page 141
+[vimeo:user] user51379210: Downloading page 142
+[vimeo:user] user51379210: Downloading page 143
+[vimeo:user] user51379210: Downloading page 144
+[vimeo:user] user51379210: Downloading page 145
+[vimeo:user] user51379210: Downloading page 146
+[vimeo:user] user51379210: Downloading page 147
+[vimeo:user] user51379210: Downloading page 148
+[vimeo:user] user51379210: Downloading page 149
+[vimeo:user] user51379210: Downloading page 150
+[vimeo:user] user51379210: Downloading page 151
+[vimeo:user] user51379210: Downloading page 152
+[vimeo:user] user51379210: Downloading page 153
+[vimeo:user] user51379210: Downloading page 154
+[vimeo:user] user51379210: Downloading page 155
+[vimeo:user] user51379210: Downloading page 156
+[vimeo:user] user51379210: Downloading page 157
+[vimeo:user] user51379210: Downloading page 158
+[vimeo:user] user51379210: Downloading page 159
+[vimeo:user] user51379210: Downloading page 160
+[vimeo:user] user51379210: Downloading page 161
+[vimeo:user] user51379210: Downloading page 162
+[vimeo:user] Playlist COPA Chicago: Downloading 1941 items of 1941
+[download] Log #2023-0002357 3rd Party 11 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 10 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 14 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 13 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 12 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 5 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 9 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 8 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 7 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 6 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 2 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 1 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 4 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 3 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 20 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 19 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 18 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 17 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 16 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Log #2023-0002357 3rd Party 15 does not pass filter (title ~= (?i)bwc) | (title ~= (?i)body), skipping ..
+[download] Downloading item 21 of 1941
+[vimeo] Extracting URL: https://vimeo.com/828449865
+[vimeo] 828449865: Downloading webpage
+[vimeo] 828449865: Downloading JSON metadata
+[vimeo] 828449865: Downloading JSON metadata
+[vimeo] 828449865: Downloading jwt token
+[vimeo] 828449865: Downloading JSON metadata
+[vimeo] 828449865: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449865: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449865: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449865: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449865: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 828449865: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 828449865: Downloading akfire_interconnect_quic MPD information
+[vimeo] 828449865: Downloading akfire_interconnect_quic MPD information
+[vimeo] 828449865: Downloading fastly_skyfire MPD information
+[vimeo] 828449865: Downloading fastly_skyfire MPD information
+[vimeo] 828449865: Downloading google_mediacdn MPD information
+[vimeo] 828449865: Downloading google_mediacdn MPD information
+[debug] Sort order given by extractor: quality, res, fps, hdr:12, source
+[debug] Formats sorted by: hasvid, ie_pref, quality, res, fps, hdr:12(7), source, lang, vcodec:vp9.2(10), channels, acodec, size, br, asr, proto, vext, aext, hasaud, id
+[info] 828449865: Downloading 1 format(s): http-720p
+[debug] Invoking http downloader on "https://vod-progressive.akamaized.net/exp=1688687312~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F689%2F33%2F828449865%2F3607396712.mp4~hmac=489e360d2db3caf60a83bbbd2a4af158205b051fa82e9307f5fe5f5fdf9eda47/vimeo-prod-skyfire-std-us/01/689/33/828449865/3607396712.mp4"
+[download] Destination: /project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 3.mp4
+[download]   0.0% of  106.77MiB at  300.77KiB/s ETA 06:05[download]   0.0% of  106.77MiB at  720.84KiB/s ETA 02:31[download]   0.0% of  106.77MiB at    1.47MiB/s ETA 01:12[download]   0.0% of  106.77MiB at    2.86MiB/s ETA 00:37[download]   0.0% of  106.77MiB at    5.37MiB/s ETA 00:19[download]   0.1% of  106.77MiB at    9.93MiB/s ETA 00:10[download]   0.1% of  106.77MiB at   18.14MiB/s ETA 00:05[download]   0.2% of  106.77MiB at   32.68MiB/s ETA 00:03[download]   0.5% of  106.77MiB at   51.19MiB/s ETA 00:02[download]   0.9% of  106.77MiB at   54.61MiB/s ETA 00:01[download]   1.9% of  106.77MiB at    5.83MiB/s ETA 00:17[download]   3.7% of  106.77MiB at   10.77MiB/s ETA 00:09[download]   7.5% of  106.77MiB at   14.89MiB/s ETA 00:06[download]  11.2% of  106.77MiB at   17.79MiB/s ETA 00:05[download]  15.0% of  106.77MiB at   20.11MiB/s ETA 00:04[download]  18.7% of  106.77MiB at   18.18MiB/s ETA 00:04[download]  22.5% of  106.77MiB at   13.85MiB/s ETA 00:05[download]  26.2% of  106.77MiB at   13.62MiB/s ETA 00:05[download]  30.0% of  106.77MiB at   13.58MiB/s ETA 00:05[download]  33.7% of  106.77MiB at   14.53MiB/s ETA 00:04[download]  37.5% of  106.77MiB at   14.35MiB/s ETA 00:04[download]  41.2% of  106.77MiB at   14.22MiB/s ETA 00:04[download]  45.0% of  106.77MiB at   14.10MiB/s ETA 00:04[download]  48.7% of  106.77MiB at   13.22MiB/s ETA 00:04[download]  52.4% of  106.77MiB at   13.89MiB/s ETA 00:03[download]  56.2% of  106.77MiB at   13.84MiB/s ETA 00:03[download]  59.9% of  106.77MiB at   13.96MiB/s ETA 00:03[download]  63.7% of  106.77MiB at   14.40MiB/s ETA 00:02[download]  67.4% of  106.77MiB at   13.86MiB/s ETA 00:02[download]  71.2% of  106.77MiB at   13.95MiB/s ETA 00:02[download]  74.9% of  106.77MiB at   13.91MiB/s ETA 00:01[download]  78.7% of  106.77MiB at   13.43MiB/s ETA 00:01[download]  82.4% of  106.77MiB at   13.48MiB/s ETA 00:01[download]  86.2% of  106.77MiB at   13.15MiB/s ETA 00:01[download]  89.9% of  106.77MiB at   13.09MiB/s ETA 00:00[download]  93.7% of  106.77MiB at   12.83MiB/s ETA 00:00[download]  97.4% of  106.77MiB at   12.74MiB/s ETA 00:00[download] 100.0% of  106.77MiB at   12.98MiB/s ETA 00:00[download] 100% of  106.77MiB in 00:00:08 at 12.70MiB/s  
+[Metadata] Adding metadata to "/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 3.mp4"
+[debug] ffmpeg command line: ffmpeg -y -loglevel repeat+info -i 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 3.mp4' -map 0 -dn -ignore_unknown -c copy -write_id3v1 1 -metadata 'title=Log #2023-0001277 BWC 3' -metadata date=20230519 -metadata 'description=BWC 3 | Witness officer | Shows OIS' -metadata 'synopsis=BWC 3 | Witness officer | Shows OIS' -metadata purl=https://vimeo.com/828449865 -metadata comment=https://vimeo.com/828449865 -metadata 'artist=COPA Chicago' -movflags +faststart 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 3.temp.mp4'
+[download] Downloading item 22 of 1941
+[vimeo] Extracting URL: https://vimeo.com/828449831
+[vimeo] 828449831: Downloading webpage
+[vimeo] 828449831: Downloading JSON metadata
+[vimeo] 828449831: Downloading JSON metadata
+[vimeo] 828449831: Downloading jwt token
+[vimeo] 828449831: Downloading JSON metadata
+[vimeo] 828449831: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449831: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449831: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449831: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449831: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 828449831: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 828449831: Downloading akfire_interconnect_quic MPD information
+[vimeo] 828449831: Downloading akfire_interconnect_quic MPD information
+[vimeo] 828449831: Downloading fastly_skyfire MPD information
+[vimeo] 828449831: Downloading fastly_skyfire MPD information
+[vimeo] 828449831: Downloading google_mediacdn MPD information
+[vimeo] 828449831: Downloading google_mediacdn MPD information
+[debug] Sort order given by extractor: quality, res, fps, hdr:12, source
+[debug] Formats sorted by: hasvid, ie_pref, quality, res, fps, hdr:12(7), source, lang, vcodec:vp9.2(10), channels, acodec, size, br, asr, proto, vext, aext, hasaud, id
+[info] 828449831: Downloading 1 format(s): http-720p
+[debug] Invoking http downloader on "https://vod-progressive.akamaized.net/exp=1688687325~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F689%2F33%2F828449831%2F3607396714.mp4~hmac=e767f88a375751f68d085084c3bafcb2938233654c8ccd0d11b8f032f0740411/vimeo-prod-skyfire-std-us/01/689/33/828449831/3607396714.mp4"
+[download] /project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 2.mp4 has already been downloaded
+[download] 100% of  111.92MiB
+[Metadata] Adding metadata to "/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 2.mp4"
+[debug] ffmpeg command line: ffmpeg -y -loglevel repeat+info -i 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 2.mp4' -map 0 -dn -ignore_unknown -c copy -write_id3v1 1 -metadata 'title=Log #2023-0001277 BWC 2' -metadata date=20230519 -metadata 'description=BWC 2 | Witness officer | Shows OIS' -metadata 'synopsis=BWC 2 | Witness officer | Shows OIS' -metadata purl=https://vimeo.com/828449831 -metadata comment=https://vimeo.com/828449831 -metadata 'artist=COPA Chicago' -movflags +faststart 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 2.temp.mp4'
+slurmstepd: error: *** JOB 6701795 ON cdr544 CANCELLED AT 2023-07-06T15:49:25 DUE TO TIME LIMIT ***

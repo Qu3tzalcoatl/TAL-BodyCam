@@ -1,0 +1,1620 @@
+{
+    "classes": null,
+    "version": "1",
+    "database": {
+        "Log 1083757 _ Body_Cam Video 5": {
+            "subset": "train",
+            "duration": 86.419667,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1083757 _ Body_Cam Video 4": {
+            "subset": "test",
+            "duration": 96.930167,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1089608 Body_Worn Camera 1": {
+            "subset": "train",
+            "duration": 90.023267,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1089608 Body_Worn Camera 5": {
+            "subset": "train",
+            "duration": 105.0049,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1083757 _ Body_Cam Video 3": {
+            "subset": "train",
+            "duration": 120.954167,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1090234 Body Worn Camera 1": {
+            "subset": "train",
+            "duration": 130.597133,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log  2020_1006 Body Worn Camera  8": {
+            "subset": "train",
+            "duration": 115.6155,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log  2020_3121 Body Worn Camera  7": {
+            "subset": "train",
+            "duration": 78.344933,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log  2020_1006 Body Worn Camera  14": {
+            "subset": "train",
+            "duration": 153.0529,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1082645 _ Body Cam Video 5": {
+            "subset": "train",
+            "duration": 183.016167,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log  1092023 Body Worn Camera 1": {
+            "subset": "train",
+            "duration": 219.6194,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1083171 _ Body Cam Video 2": {
+            "subset": "train",
+            "duration": 237.070167,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1089772 Body_Worn Camera 2": {
+            "subset": "train",
+            "duration": 263.029433,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log  1092023 Body Worn Camera 3": {
+            "subset": "train",
+            "duration": 405.8054,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1081642 _ Body_Cam Video 11": {
+            "subset": "train",
+            "duration": 496.829667,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log  2020_0022Body Worn Camera 5": {
+            "subset": "train",
+            "duration": 466.8664,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1081642 _ Body_Cam Video 14": {
+            "subset": "train",
+            "duration": 555.888667,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1081642 _ Bodycam Video 3": {
+            "subset": "train",
+            "duration": 600.0995,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1081642 _ Body_Cam Video 24": {
+            "subset": "train",
+            "duration": 641.2406,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1082195 _ Body Cam Video 13": {
+            "subset": "train",
+            "duration": 677.510167,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1081642 _ Body_Cam Video 18": {
+            "subset": "test",
+            "duration": 902.234667,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1081642 _ Body_Cam Video 15": {
+            "subset": "train",
+            "duration": 903.736167,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1081642 _ Body_Cam Video 7": {
+            "subset": "train",
+            "duration": 939.0381,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1081642 _ Bodycam Video 4": {
+            "subset": "test",
+            "duration": 1000.7998,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1090601 Body Worn Camera 3": {
+            "subset": "train",
+            "duration": 1137.5364,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1082645 _ Body Cam Video 6": {
+            "subset": "test",
+            "duration": 1278.610667,
+            "fps": 29.97002997002997,
+            "annotations": []
+        },
+        "Log 1089608 Body_Worn Camera 2": {
+            "subset": "train",
+            "duration": 90.023267,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        7.009598097886541
+                    ],
+                    "segment (frames)": [
+                        1,
+                        211
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1089608 Body_Worn Camera 3": {
+            "subset": "train",
+            "duration": 105.0049,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        24.999577272727272
+                    ],
+                    "segment (frames)": [
+                        1,
+                        750
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1089608 Body_Worn Camera 4": {
+            "subset": "train",
+            "duration": 105.038267,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        22.996938659993646
+                    ],
+                    "segment (frames)": [
+                        1,
+                        690
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1089608 Body_Worn Camera 7": {
+            "subset": "train",
+            "duration": 120.0199,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        27.001139905450504
+                    ],
+                    "segment (frames)": [
+                        1,
+                        810
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1089608 Body_Worn Camera 6": {
+            "subset": "train",
+            "duration": 119.9198,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        22.996031784024492
+                    ],
+                    "segment (frames)": [
+                        1,
+                        690
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1089772 Officer Body_Worn Camera 1": {
+            "subset": "test",
+            "duration": 171.004167,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        7.008367499999999,
+                        46.98943542857143
+                    ],
+                    "segment (frames)": [
+                        211,
+                        1409
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  1092023 Body Worn Camera 2": {
+            "subset": "train",
+            "duration": 204.1039,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        19.98990125899281
+                    ],
+                    "segment (frames)": [
+                        1,
+                        600
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1083171 _ Body Cam Video 5": {
+            "subset": "test",
+            "duration": 188.521667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        17.987817049566296
+                    ],
+                    "segment (frames)": [
+                        1,
+                        540
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log1081378 _ Body_Cam 4": {
+            "subset": "train",
+            "duration": 191.5914,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        21.99246343842536
+                    ],
+                    "segment (frames)": [
+                        1,
+                        660
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082195 _ Body Cam Video 1": {
+            "subset": "train",
+            "duration": 222.555667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        34.0057316948568
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1020
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  2019_4852 BWC Video 1": {
+            "subset": "train",
+            "duration": 246.6464,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        112.99481942903532
+                    ],
+                    "segment (frames)": [
+                        1,
+                        3387
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1083171 _ Body Cam Video 3": {
+            "subset": "train",
+            "duration": 245.578667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        4.004544101100693
+                    ],
+                    "segment (frames)": [
+                        1,
+                        121
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082195 _ Body Cam Video 9": {
+            "subset": "train",
+            "duration": 275.608667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        275.00799427860517
+                    ],
+                    "segment (frames)": [
+                        1,
+                        8242
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  2019_4852 BWC Video 9": {
+            "subset": "train",
+            "duration": 244.6444,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        115.99835416723504
+                    ],
+                    "segment (frames)": [
+                        1,
+                        3477
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1083757 _ Body_Cam Video 2": {
+            "subset": "train",
+            "duration": 256.589667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        30.000534612173237
+                    ],
+                    "segment (frames)": [
+                        1,
+                        900
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082195 _ Body Cam Video 5": {
+            "subset": "train",
+            "duration": 282.115167,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        282.01505515933286
+                    ],
+                    "segment (frames)": [
+                        1,
+                        8452
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  2019_4852 BWC Video 2": {
+            "subset": "train",
+            "duration": 316.2159,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        213.00190900168846,
+                        240.99949660194173
+                    ],
+                    "segment (frames)": [
+                        6384,
+                        7223
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1083171 _ Body Cam Video 4": {
+            "subset": "train",
+            "duration": 382.215167,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        301.9946971669286
+                    ],
+                    "segment (frames)": [
+                        1,
+                        9051
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082513 _ Body Cam Video 4": {
+            "subset": "train",
+            "duration": 375.6753,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        51.989884295612015
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1559
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 2020_0672 Body Worn Camera 2": {
+            "subset": "test",
+            "duration": 405.938867,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        59.998198344923956,
+                        99.00703809198521
+                    ],
+                    "segment (frames)": [
+                        1799,
+                        2968
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log1081378 _ Body_Cam 2": {
+            "subset": "test",
+            "duration": 476.3759,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        40.00943570327823
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1200
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  2019_4934Body Worn Camera 1": {
+            "subset": "train",
+            "duration": 451.8514,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        114.99002469536963
+                    ],
+                    "segment (frames)": [
+                        1,
+                        3447
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1087518 Body Worn Camera 1": {
+            "subset": "train",
+            "duration": 505.4049,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        34.00287819226198
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1020
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1083757 _ Body_Cam Video 1": {
+            "subset": "train",
+            "duration": 500.833667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        28.997565235725233
+                    ],
+                    "segment (frames)": [
+                        1,
+                        870
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1087518 Body Worn Camera 2": {
+            "subset": "train",
+            "duration": 506.9064,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        36.00500333091963
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1080
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082645 _ Body Cam Video 4": {
+            "subset": "train",
+            "duration": 517.517,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        28.99750293378039
+                    ],
+                    "segment (frames)": [
+                        1,
+                        870
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  2020_0022Body Worn Camera 2": {
+            "subset": "test",
+            "duration": 497.8974,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        49.98661652704242,
+                        85.99166274378393
+                    ],
+                    "segment (frames)": [
+                        1499,
+                        2578
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082513 _ Body Cam Video 3": {
+            "subset": "train",
+            "duration": 554.387167,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        132.00647843096183
+                    ],
+                    "segment (frames)": [
+                        1,
+                        3957
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  2019_2605 Body Worn Camera 2": {
+            "subset": "train",
+            "duration": 322.055067,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        177.99624156854213
+                    ],
+                    "segment (frames)": [
+                        1,
+                        5335
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1081642 _ Bodycam Video 1": {
+            "subset": "train",
+            "duration": 628.5279,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        72.0090894138883
+                    ],
+                    "segment (frames)": [
+                        1,
+                        2159
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1081642 _ Bodycam Video 2": {
+            "subset": "train",
+            "duration": 630.0294,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        74.01118633546952
+                    ],
+                    "segment (frames)": [
+                        1,
+                        2219
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  2019_4852 BWC Video 4": {
+            "subset": "train",
+            "duration": 660.126133,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        580.0087167672243
+                    ],
+                    "segment (frames)": [
+                        1,
+                        17383
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  2019_4852 BWC Video 7": {
+            "subset": "train",
+            "duration": 660.493167,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        579.0076504892392
+                    ],
+                    "segment (frames)": [
+                        1,
+                        17353
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log1081378 _ Body_Cam 1": {
+            "subset": "train",
+            "duration": 703.1024,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        65.00135139290968
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1949
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log1081378 _ Body_Cam 3": {
+            "subset": "test",
+            "duration": 701.6009,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        61.99821517169219
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1859
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 17": {
+            "subset": "train",
+            "duration": 412.044967,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        7.007567465986395,
+                        118.99516944622611
+                    ],
+                    "segment (frames)": [
+                        211,
+                        3567
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1081642 _ Body_Cam Video 19": {
+            "subset": "train",
+            "duration": 754.587167,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        273.98581534611304
+                    ],
+                    "segment (frames)": [
+                        1,
+                        8212
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 15": {
+            "subset": "test",
+            "duration": 416.849767,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        124.00045902753762
+                    ],
+                    "segment (frames)": [
+                        1,
+                        3717
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 12": {
+            "subset": "train",
+            "duration": 417.583833,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        87.99493108686272
+                    ],
+                    "segment (frames)": [
+                        1,
+                        2638
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 11": {
+            "subset": "test",
+            "duration": 425.458367,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        4.004314042352941,
+                        97.004507676
+                    ],
+                    "segment (frames)": [
+                        121,
+                        2908
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  1086427Body Worn Camera  1": {
+            "subset": "train",
+            "duration": 239.272367,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        14.015954552301256
+                    ],
+                    "segment (frames)": [
+                        1,
+                        421
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 9": {
+            "subset": "train",
+            "duration": 498.5981,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        140.01590333288718
+                    ],
+                    "segment (frames)": [
+                        1,
+                        4197
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 8": {
+            "subset": "train",
+            "duration": 511.4109,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        127.00181948323112
+                    ],
+                    "segment (frames)": [
+                        1,
+                        3807
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 10": {
+            "subset": "train",
+            "duration": 512.879033,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        141.98440373552376
+                    ],
+                    "segment (frames)": [
+                        1,
+                        4256
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  2019_0001855 Body Worn Camera 2": {
+            "subset": "train",
+            "duration": 548.548,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        18.98678824746031
+                    ],
+                    "segment (frames)": [
+                        1,
+                        570
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log  2019_0001855 Body Worn Camera 3": {
+            "subset": "train",
+            "duration": 545.0445,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        19.98785695481817
+                    ],
+                    "segment (frames)": [
+                        1,
+                        600
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1081642 _ Body_Cam Video 8": {
+            "subset": "train",
+            "duration": 1234.566667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        1233.9994183354686
+                    ],
+                    "segment (frames)": [
+                        1,
+                        36983
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082195 _ Body Cam Video 10": {
+            "subset": "test",
+            "duration": 1147.479667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        8.008232867486697
+                    ],
+                    "segment (frames)": [
+                        1,
+                        241
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1081642 _ Body_Cam Video 16": {
+            "subset": "test",
+            "duration": 1207.4062,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        70.00520126019067
+                    ],
+                    "segment (frames)": [
+                        1,
+                        2099
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1081642 _ Body_Cam Video 17": {
+            "subset": "train",
+            "duration": 1382.214167,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        108.01050740099942
+                    ],
+                    "segment (frames)": [
+                        1,
+                        3238
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1088756 Body Worn Camera 1": {
+            "subset": "test",
+            "duration": 465.465,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        38.00735787511649
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1140
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082195 _ Body Cam Video 12": {
+            "subset": "train",
+            "duration": 254.087167,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        30.000573040845808
+                    ],
+                    "segment (frames)": [
+                        1,
+                        900
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        71.01359224796427,
+                        106.98758305778829
+                    ],
+                    "segment (frames)": [
+                        2129,
+                        3207
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1081642 _ Body_Cam Video 23": {
+            "subset": "test",
+            "duration": 398.731667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        46.98419843802829
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1409
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        116.99332366741987,
+                        156.0022213762658
+                    ],
+                    "segment (frames)": [
+                        3507,
+                        4676
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1087646 _ Body_Worn Camera 1": {
+            "subset": "train",
+            "duration": 570.036133,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        29.99838925054147
+                    ],
+                    "segment (frames)": [
+                        1,
+                        900
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        100.00575370842358,
+                        219.99931071058944
+                    ],
+                    "segment (frames)": [
+                        2998,
+                        6594
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1087646 _ Body_Worn Camera 2": {
+            "subset": "train",
+            "duration": 600.032767,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        67.00399266688912
+                    ],
+                    "segment (frames)": [
+                        1,
+                        2009
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        138.01220800311424,
+                        220.99972282510288
+                    ],
+                    "segment (frames)": [
+                        4137,
+                        6624
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1090601  Body Worn Camera 2": {
+            "subset": "train",
+            "duration": 648.5479,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        18.986610161555877
+                    ],
+                    "segment (frames)": [
+                        1,
+                        570
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        55.992147365713116,
+                        96.00083907697056
+                    ],
+                    "segment (frames)": [
+                        1679,
+                        2878
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1090601 _ Body Worn Camera 1": {
+            "subset": "test",
+            "duration": 662.5619,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        41.009698584810636
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1230
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        46.01495064967768,
+                        53.98998560636584
+                    ],
+                    "segment (frames)": [
+                        1380,
+                        1619
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082645 _ Body Cam Video 3": {
+            "subset": "train",
+            "duration": 669.0684,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        16.98448035509451
+                    ],
+                    "segment (frames)": [
+                        1,
+                        510
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        293.0073123734477,
+                        484.00763762405865
+                    ],
+                    "segment (frames)": [
+                        8782,
+                        14506
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 13": {
+            "subset": "train",
+            "duration": 419.385633,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        84.99166193913113
+                    ],
+                    "segment (frames)": [
+                        1,
+                        2548
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        183.9984389212285,
+                        232.9846029285487
+                    ],
+                    "segment (frames)": [
+                        5515,
+                        6983
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 14": {
+            "subset": "train",
+            "duration": 431.397633,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        86.99362849868501
+                    ],
+                    "segment (frames)": [
+                        1,
+                        2608
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        184.99910870606433,
+                        223.00668172486075
+                    ],
+                    "segment (frames)": [
+                        5545,
+                        6684
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 6": {
+            "subset": "test",
+            "duration": 493.326167,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        104.01093496611202
+                    ],
+                    "segment (frames)": [
+                        1,
+                        3118
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        381.00637004910715,
+                        401.995423014678
+                    ],
+                    "segment (frames)": [
+                        11419,
+                        12048
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log   2021_1112 BWC 5": {
+            "subset": "train",
+            "duration": 517.850667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        121.99639400425285
+                    ],
+                    "segment (frames)": [
+                        1,
+                        3657
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        262.01194904852116,
+                        284.0019992806882
+                    ],
+                    "segment (frames)": [
+                        7853,
+                        8512
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1081642 _ Body_Cam Video 6": {
+            "subset": "train",
+            "duration": 1385.217167,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        110.01254997347883
+                    ],
+                    "segment (frames)": [
+                        1,
+                        3298
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        634.0153054431516,
+                        733.9842468203257
+                    ],
+                    "segment (frames)": [
+                        19002,
+                        21998
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082645 _ Body Cam Video 1": {
+            "subset": "train",
+            "duration": 1800.131667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        40.007374904687765
+                    ],
+                    "segment (frames)": [
+                        1,
+                        1200
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        122.99181309314353,
+                        284.98998253622864
+                    ],
+                    "segment (frames)": [
+                        3687,
+                        8542
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082513 _ Body Cam Video 2": {
+            "subset": "train",
+            "duration": 702.034667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        142.01528317657684
+                    ],
+                    "segment (frames)": [
+                        1,
+                        4257
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        405.9915297014592,
+                        425.0114336983222
+                    ],
+                    "segment (frames)": [
+                        12168,
+                        12738
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        687.9866326444222,
+                        702.0012987473739
+                    ],
+                    "segment (frames)": [
+                        20619,
+                        21039
+                    ],
+                    "label_id": 0
+                }
+            ]
+        },
+        "Log 1082645 _ Body Cam Video 2": {
+            "subset": "train",
+            "duration": 987.319667,
+            "fps": 29.97002997002997,
+            "annotations": [
+                {
+                    "label": "car",
+                    "segment": [
+                        0.0,
+                        16.016541287640678
+                    ],
+                    "segment (frames)": [
+                        1,
+                        481
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        99.00224583422893,
+                        108.01155030852681
+                    ],
+                    "segment (frames)": [
+                        2968,
+                        3238
+                    ],
+                    "label_id": 0
+                },
+                {
+                    "label": "car",
+                    "segment": [
+                        114.98541932752036,
+                        261.0028873998445
+                    ],
+                    "segment (frames)": [
+                        3447,
+                        7823
+                    ],
+                    "label_id": 0
+                }
+            ]
+        }
+    }
+}

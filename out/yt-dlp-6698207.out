@@ -1,0 +1,1118 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    13  100    13    0     0     94      0 --:--:-- --:--:-- --:--:--    94
+206.12.127.32
+Currently Loaded Modules:
+  1) CCconfig                 5) intel/2020.1.217 (t)   9) StdEnv/2020   (S)
+  2) gentoo/2020     (S)      6) ucx/1.8.0             10) mii/1.1.2
+  3) gcccore/.9.3.0  (H)      7) libfabric/1.10.1      11) libffi/3.3
+  4) imkl/2020.1.217 (math)   8) openmpi/4.0.3    (m)  12) python/3.10.2 (t)
+
+  Where:
+   H:     Hidden Module
+   S:     Module is Sticky, requires --force to unload or purge
+   m:     MPI implementations / Implémentations MPI
+   math:  Mathematical libraries / Bibliothèques mathématiques
+   t:     Tools for development / Outils de développement
+
+ 
+
+[debug] Command-line config: ['--config-locations', '/project/6003167/slee67/bodycam/yt-dlp.conf', 'https://vimeo.com/user51379210/videos']
+[debug] | Config "/project/6003167/slee67/bodycam/yt-dlp.conf": ['--verbose', '--yes-playlist', '--add-metadata', '-f', 'mp4', '--match-filter', 'title ~= (?i)body', '--match-filter', 'title ~= (?i)bwc', '-P', '/project/6003167/slee67/bodycam/videos/', '-o', 'Chicago_raw/%(title)s.%(ext)s', '--force-ipv4']
+[debug] Encodings: locale UTF-8, fs utf-8, pref UTF-8, out utf-8 (No ANSI), error utf-8 (No ANSI), screen utf-8 (No ANSI)
+[debug] yt-dlp version stable@2023.07.06 [b532a3481] (pip)
+[debug] Python 3.10.2 (CPython x86_64 64bit) - Linux-3.10.0-1160.90.1.el7.x86_64-x86_64-with-glibc2.30 (OpenSSL 1.1.1s  1 Nov 2022, glibc 2.30)
+[debug] exe versions: ffmpeg 4.2.2, ffprobe 4.2.2
+[debug] Optional libraries: Cryptodome-3.18.0, brotli-1.0.9, certifi-2023.05.07, mutagen-1.46.0, sqlite3-2.6.0, websockets-11.0.3
+[debug] Proxy map: {}
+[debug] Loaded 1855 extractors
+[vimeo:user] Extracting URL: https://vimeo.com/user51379210/videos
+[vimeo:user] user51379210: Downloading page 1
+[download] Downloading playlist: COPA Chicago
+[vimeo:user] user51379210: Downloading page 2
+[vimeo:user] user51379210: Downloading page 3
+[vimeo:user] user51379210: Downloading page 4
+[vimeo:user] user51379210: Downloading page 5
+[vimeo:user] user51379210: Downloading page 6
+[vimeo:user] user51379210: Downloading page 7
+[vimeo:user] user51379210: Downloading page 8
+[vimeo:user] user51379210: Downloading page 9
+[vimeo:user] user51379210: Downloading page 10
+[vimeo:user] user51379210: Downloading page 11
+[vimeo:user] user51379210: Downloading page 12
+[vimeo:user] user51379210: Downloading page 13
+[vimeo:user] user51379210: Downloading page 14
+[vimeo:user] user51379210: Downloading page 15
+[vimeo:user] user51379210: Downloading page 16
+[vimeo:user] user51379210: Downloading page 17
+[vimeo:user] user51379210: Downloading page 18
+[vimeo:user] user51379210: Downloading page 19
+[vimeo:user] user51379210: Downloading page 20
+[vimeo:user] user51379210: Downloading page 21
+[vimeo:user] user51379210: Downloading page 22
+[vimeo:user] user51379210: Downloading page 23
+[vimeo:user] user51379210: Downloading page 24
+[vimeo:user] user51379210: Downloading page 25
+[vimeo:user] user51379210: Downloading page 26
+[vimeo:user] user51379210: Downloading page 27
+[vimeo:user] user51379210: Downloading page 28
+[vimeo:user] user51379210: Downloading page 29
+[vimeo:user] user51379210: Downloading page 30
+[vimeo:user] user51379210: Downloading page 31
+[vimeo:user] user51379210: Downloading page 32
+[vimeo:user] user51379210: Downloading page 33
+[vimeo:user] user51379210: Downloading page 34
+[vimeo:user] user51379210: Downloading page 35
+[vimeo:user] user51379210: Downloading page 36
+[vimeo:user] user51379210: Downloading page 37
+[vimeo:user] user51379210: Downloading page 38
+[vimeo:user] user51379210: Downloading page 39
+[vimeo:user] user51379210: Downloading page 40
+[vimeo:user] user51379210: Downloading page 41
+[vimeo:user] user51379210: Downloading page 42
+[vimeo:user] user51379210: Downloading page 43
+[vimeo:user] user51379210: Downloading page 44
+[vimeo:user] user51379210: Downloading page 45
+[vimeo:user] user51379210: Downloading page 46
+[vimeo:user] user51379210: Downloading page 47
+[vimeo:user] user51379210: Downloading page 48
+[vimeo:user] user51379210: Downloading page 49
+[vimeo:user] user51379210: Downloading page 50
+[vimeo:user] user51379210: Downloading page 51
+[vimeo:user] user51379210: Downloading page 52
+[vimeo:user] user51379210: Downloading page 53
+[vimeo:user] user51379210: Downloading page 54
+[vimeo:user] user51379210: Downloading page 55
+[vimeo:user] user51379210: Downloading page 56
+[vimeo:user] user51379210: Downloading page 57
+[vimeo:user] user51379210: Downloading page 58
+[vimeo:user] user51379210: Downloading page 59
+[vimeo:user] user51379210: Downloading page 60
+[vimeo:user] user51379210: Downloading page 61
+[vimeo:user] user51379210: Downloading page 62
+[vimeo:user] user51379210: Downloading page 63
+[vimeo:user] user51379210: Downloading page 64
+[vimeo:user] user51379210: Downloading page 65
+[vimeo:user] user51379210: Downloading page 66
+[vimeo:user] user51379210: Downloading page 67
+[vimeo:user] user51379210: Downloading page 68
+[vimeo:user] user51379210: Downloading page 69
+[vimeo:user] user51379210: Downloading page 70
+[vimeo:user] user51379210: Downloading page 71
+[vimeo:user] user51379210: Downloading page 72
+[vimeo:user] user51379210: Downloading page 73
+[vimeo:user] user51379210: Downloading page 74
+[vimeo:user] user51379210: Downloading page 75
+[vimeo:user] user51379210: Downloading page 76
+[vimeo:user] user51379210: Downloading page 77
+[vimeo:user] user51379210: Downloading page 78
+[vimeo:user] user51379210: Downloading page 79
+[vimeo:user] user51379210: Downloading page 80
+[vimeo:user] user51379210: Downloading page 81
+[vimeo:user] user51379210: Downloading page 82
+[vimeo:user] user51379210: Downloading page 83
+[vimeo:user] user51379210: Downloading page 84
+[vimeo:user] user51379210: Downloading page 85
+[vimeo:user] user51379210: Downloading page 86
+[vimeo:user] user51379210: Downloading page 87
+[vimeo:user] user51379210: Downloading page 88
+[vimeo:user] user51379210: Downloading page 89
+[vimeo:user] user51379210: Downloading page 90
+[vimeo:user] user51379210: Downloading page 91
+[vimeo:user] user51379210: Downloading page 92
+[vimeo:user] user51379210: Downloading page 93
+[vimeo:user] user51379210: Downloading page 94
+[vimeo:user] user51379210: Downloading page 95
+[vimeo:user] user51379210: Downloading page 96
+[vimeo:user] user51379210: Downloading page 97
+[vimeo:user] user51379210: Downloading page 98
+[vimeo:user] user51379210: Downloading page 99
+[vimeo:user] user51379210: Downloading page 100
+[vimeo:user] user51379210: Downloading page 101
+[vimeo:user] user51379210: Downloading page 102
+[vimeo:user] user51379210: Downloading page 103
+[vimeo:user] user51379210: Downloading page 104
+[vimeo:user] user51379210: Downloading page 105
+[vimeo:user] user51379210: Downloading page 106
+[vimeo:user] user51379210: Downloading page 107
+[vimeo:user] user51379210: Downloading page 108
+[vimeo:user] user51379210: Downloading page 109
+[vimeo:user] user51379210: Downloading page 110
+[vimeo:user] user51379210: Downloading page 111
+[vimeo:user] user51379210: Downloading page 112
+[vimeo:user] user51379210: Downloading page 113
+[vimeo:user] user51379210: Downloading page 114
+[vimeo:user] user51379210: Downloading page 115
+[vimeo:user] user51379210: Downloading page 116
+[vimeo:user] user51379210: Downloading page 117
+[vimeo:user] user51379210: Downloading page 118
+[vimeo:user] user51379210: Downloading page 119
+[vimeo:user] user51379210: Downloading page 120
+[vimeo:user] user51379210: Downloading page 121
+[vimeo:user] user51379210: Downloading page 122
+[vimeo:user] user51379210: Downloading page 123
+[vimeo:user] user51379210: Downloading page 124
+[vimeo:user] user51379210: Downloading page 125
+[vimeo:user] user51379210: Downloading page 126
+[vimeo:user] user51379210: Downloading page 127
+[vimeo:user] user51379210: Downloading page 128
+[vimeo:user] user51379210: Downloading page 129
+[vimeo:user] user51379210: Downloading page 130
+[vimeo:user] user51379210: Downloading page 131
+[vimeo:user] user51379210: Downloading page 132
+[vimeo:user] user51379210: Downloading page 133
+[vimeo:user] user51379210: Downloading page 134
+[vimeo:user] user51379210: Downloading page 135
+[vimeo:user] user51379210: Downloading page 136
+[vimeo:user] user51379210: Downloading page 137
+[vimeo:user] user51379210: Downloading page 138
+[vimeo:user] user51379210: Downloading page 139
+[vimeo:user] user51379210: Downloading page 140
+[vimeo:user] user51379210: Downloading page 141
+[vimeo:user] user51379210: Downloading page 142
+[vimeo:user] user51379210: Downloading page 143
+[vimeo:user] user51379210: Downloading page 144
+[vimeo:user] user51379210: Downloading page 145
+[vimeo:user] user51379210: Downloading page 146
+[vimeo:user] user51379210: Downloading page 147
+[vimeo:user] user51379210: Downloading page 148
+[vimeo:user] user51379210: Downloading page 149
+[vimeo:user] user51379210: Downloading page 150
+[vimeo:user] user51379210: Downloading page 151
+[vimeo:user] user51379210: Downloading page 152
+[vimeo:user] user51379210: Downloading page 153
+[vimeo:user] user51379210: Downloading page 154
+[vimeo:user] user51379210: Downloading page 155
+[vimeo:user] user51379210: Downloading page 156
+[vimeo:user] user51379210: Downloading page 157
+[vimeo:user] user51379210: Downloading page 158
+[vimeo:user] user51379210: Downloading page 159
+[vimeo:user] user51379210: Downloading page 160
+[vimeo:user] user51379210: Downloading page 161
+[vimeo:user] user51379210: Downloading page 162
+[vimeo:user] Playlist COPA Chicago: Downloading 1941 items of 1941
+[download] Log #2023-0002357 3rd Party 11 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 10 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 14 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 13 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 12 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 5 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 9 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 8 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 7 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 6 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 2 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 1 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 4 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 3 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 20 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 19 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 18 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 17 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 16 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0002357 3rd Party 15 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Downloading item 21 of 1941
+[vimeo] Extracting URL: https://vimeo.com/828449865
+[vimeo] 828449865: Downloading webpage
+[vimeo] 828449865: Downloading JSON metadata
+[vimeo] 828449865: Downloading JSON metadata
+[vimeo] 828449865: Downloading jwt token
+[vimeo] 828449865: Downloading JSON metadata
+[vimeo] 828449865: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449865: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449865: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449865: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449865: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 828449865: Downloading google_mediacdn m3u8 information
+ERROR: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1514, in https_open
+    return self.do_open(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1560, in wrapper
+    return func(self, *args, **kwargs)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1688, in __extract_info
+    ie_result = ie.extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 710, in extract
+    ie_result = self._real_extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 948, in _real_extract
+    info_dict_config = self._parse_config(config, video_id)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 169, in _parse_config
+    fmts, subs = self._extract_m3u8_formats_and_subtitles(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 1960, in _extract_m3u8_formats_and_subtitles
+    res = self._download_webpage_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 898, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data, headers=headers, query=query, expected_status=expected_status)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 837, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query))
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 3863, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1519, in https_open
+    raise YoutubeDLError('SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect')
+yt_dlp.utils.YoutubeDLError: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+
+[download] Downloading item 22 of 1941
+[vimeo] Extracting URL: https://vimeo.com/828449831
+[vimeo] 828449831: Downloading webpage
+[vimeo] 828449831: Downloading JSON metadata
+[vimeo] 828449831: Downloading JSON metadata
+[vimeo] 828449831: Downloading jwt token
+[vimeo] 828449831: Downloading JSON metadata
+[vimeo] 828449831: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449831: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449831: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449831: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449831: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 828449831: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 828449831: Downloading akfire_interconnect_quic MPD information
+[vimeo] 828449831: Downloading akfire_interconnect_quic MPD information
+[vimeo] 828449831: Downloading fastly_skyfire MPD information
+[vimeo] 828449831: Downloading fastly_skyfire MPD information
+[vimeo] 828449831: Downloading google_mediacdn MPD information
+[vimeo] 828449831: Downloading google_mediacdn MPD information
+[debug] Sort order given by extractor: quality, res, fps, hdr:12, source
+[debug] Formats sorted by: hasvid, ie_pref, quality, res, fps, hdr:12(7), source, lang, vcodec:vp9.2(10), channels, acodec, size, br, asr, proto, vext, aext, hasaud, id
+[info] 828449831: Downloading 1 format(s): http-720p
+[debug] Invoking http downloader on "https://vod-progressive.akamaized.net/exp=1688686794~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F689%2F33%2F828449831%2F3607396714.mp4~hmac=cf4d025797dcdc7e5808d5421b1c5cac9c3d12d53b83c1de725dc04264816b48/vimeo-prod-skyfire-std-us/01/689/33/828449831/3607396714.mp4"
+[download] Destination: /project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 2.mp4
+[download]   0.0% of  111.77MiB at  107.18KiB/s ETA 17:51[download]   0.0% of  111.77MiB at  261.50KiB/s ETA 07:18[download]   0.0% of  111.77MiB at  550.74KiB/s ETA 03:28[download]   0.0% of  111.77MiB at    1.06MiB/s ETA 01:45[download]   0.0% of  111.77MiB at    2.00MiB/s ETA 00:55[download]   0.1% of  111.77MiB at    3.72MiB/s ETA 00:30[download]   0.1% of  111.77MiB at    6.86MiB/s ETA 00:16[download]   0.2% of  111.77MiB at   12.53MiB/s ETA 00:08[download]   0.4% of  111.77MiB at   22.22MiB/s ETA 00:05[download]   0.9% of  111.77MiB at   34.23MiB/s ETA 00:03[download]   1.8% of  111.77MiB at   26.98MiB/s ETA 00:04[download]   3.6% of  111.77MiB at   33.12MiB/s ETA 00:03[download]   7.2% of  111.77MiB at   35.29MiB/s ETA 00:02[download]  10.7% of  111.77MiB at   18.40MiB/s ETA 00:05[download]  14.3% of  111.77MiB at   14.18MiB/s ETA 00:06[download]  17.9% of  111.77MiB at   14.02MiB/s ETA 00:06[download]  21.5% of  111.77MiB at   14.32MiB/s ETA 00:06[download]  25.1% of  111.77MiB at   14.34MiB/s ETA 00:05[download]  28.6% of  111.77MiB at   12.85MiB/s ETA 00:06[download]  32.2% of  111.77MiB at   12.92MiB/s ETA 00:05[download]  35.8% of  111.77MiB at   12.96MiB/s ETA 00:05[download]  39.4% of  111.77MiB at   12.90MiB/s ETA 00:05[download]  42.9% of  111.77MiB at   12.92MiB/s ETA 00:04[download]  46.5% of  111.77MiB at   12.94MiB/s ETA 00:04[download]  50.1% of  111.77MiB at   12.45MiB/s ETA 00:04[download]  53.7% of  111.77MiB at   12.64MiB/s ETA 00:04[download]  57.3% of  111.77MiB at   12.27MiB/s ETA 00:03[download]  60.8% of  111.77MiB at   11.97MiB/s ETA 00:03[download]  64.4% of  111.77MiB at   12.11MiB/s ETA 00:03[download]  68.0% of  111.77MiB at   12.25MiB/s ETA 00:02[download]  71.6% of  111.77MiB at   12.08MiB/s ETA 00:02[download]  75.2% of  111.77MiB at   12.14MiB/s ETA 00:02[download]  78.7% of  111.77MiB at   12.60MiB/s ETA 00:01[download]  82.3% of  111.77MiB at   12.66MiB/s ETA 00:01[download]  85.9% of  111.77MiB at   12.68MiB/s ETA 00:01[download]  89.5% of  111.77MiB at   12.78MiB/s ETA 00:00[download]  93.0% of  111.77MiB at   13.12MiB/s ETA 00:00[download]  96.6% of  111.77MiB at   13.21MiB/s ETA 00:00[download] 100.0% of  111.77MiB at   13.22MiB/s ETA 00:00[download] 100% of  111.77MiB in 00:00:08 at 13.00MiB/s  
+[Metadata] Adding metadata to "/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 2.mp4"
+[debug] ffmpeg command line: ffmpeg -y -loglevel repeat+info -i 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 2.mp4' -map 0 -dn -ignore_unknown -c copy -write_id3v1 1 -metadata 'title=Log #2023-0001277 BWC 2' -metadata date=20230519 -metadata 'description=BWC 2 | Witness officer | Shows OIS' -metadata 'synopsis=BWC 2 | Witness officer | Shows OIS' -metadata purl=https://vimeo.com/828449831 -metadata comment=https://vimeo.com/828449831 -metadata 'artist=COPA Chicago' -movflags +faststart 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001277 BWC 2.temp.mp4'
+[download] Log #2023-0001277 3rd Party 2 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Log #2023-0001277 3rd Party 1 does not pass filter (title ~= (?i)body) | (title ~= (?i)bwc), skipping ..
+[download] Downloading item 25 of 1941
+[vimeo] Extracting URL: https://vimeo.com/828449746
+[vimeo] 828449746: Downloading webpage
+[vimeo] 828449746: Downloading JSON metadata
+[vimeo] 828449746: Downloading JSON metadata
+[vimeo] 828449746: Downloading jwt token
+[vimeo] 828449746: Downloading JSON metadata
+[vimeo] 828449746: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449746: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449746: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449746: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449746: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 828449746: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 828449746: Downloading akfire_interconnect_quic MPD information
+[vimeo] 828449746: Downloading akfire_interconnect_quic MPD information
+[vimeo] 828449746: Downloading fastly_skyfire MPD information
+[vimeo] 828449746: Downloading fastly_skyfire MPD information
+[vimeo] 828449746: Downloading google_mediacdn MPD information
+[vimeo] 828449746: Downloading google_mediacdn MPD information
+ERROR: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1514, in https_open
+    return self.do_open(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1560, in wrapper
+    return func(self, *args, **kwargs)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1688, in __extract_info
+    ie_result = ie.extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 710, in extract
+    ie_result = self._real_extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 948, in _real_extract
+    info_dict_config = self._parse_config(config, video_id)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 180, in _parse_config
+    fmts, subs = self._extract_mpd_formats_and_subtitles(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 2522, in _extract_mpd_formats_and_subtitles
+    res = self._download_xml_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 1028, in download_handle
+    res = self._download_webpage_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 898, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data, headers=headers, query=query, expected_status=expected_status)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 837, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query))
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 3863, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1519, in https_open
+    raise YoutubeDLError('SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect')
+yt_dlp.utils.YoutubeDLError: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+
+[download] Downloading item 26 of 1941
+[vimeo] Extracting URL: https://vimeo.com/828449721
+[vimeo] 828449721: Downloading webpage
+[vimeo] 828449721: Downloading JSON metadata
+[vimeo] 828449721: Downloading JSON metadata
+[vimeo] 828449721: Downloading jwt token
+[vimeo] 828449721: Downloading JSON metadata
+[vimeo] 828449721: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449721: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 828449721: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449721: Downloading fastly_skyfire m3u8 information
+[vimeo] 828449721: Downloading google_mediacdn m3u8 information
+ERROR: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1514, in https_open
+    return self.do_open(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1560, in wrapper
+    return func(self, *args, **kwargs)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1688, in __extract_info
+    ie_result = ie.extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 710, in extract
+    ie_result = self._real_extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 948, in _real_extract
+    info_dict_config = self._parse_config(config, video_id)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 169, in _parse_config
+    fmts, subs = self._extract_m3u8_formats_and_subtitles(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 1960, in _extract_m3u8_formats_and_subtitles
+    res = self._download_webpage_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 898, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data, headers=headers, query=query, expected_status=expected_status)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 837, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query))
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 3863, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1519, in https_open
+    raise YoutubeDLError('SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect')
+yt_dlp.utils.YoutubeDLError: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+
+[download] Downloading item 27 of 1941
+[vimeo] Extracting URL: https://vimeo.com/822714371
+[vimeo] 822714371: Downloading webpage
+[vimeo] 822714371: Downloading JSON metadata
+[vimeo] 822714371: Downloading JSON metadata
+[vimeo] 822714371: Downloading jwt token
+[vimeo] 822714371: Downloading JSON metadata
+[vimeo] 822714371: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714371: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714371: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714371: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714371: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 822714371: Downloading google_mediacdn m3u8 information
+ERROR: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1514, in https_open
+    return self.do_open(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1560, in wrapper
+    return func(self, *args, **kwargs)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1688, in __extract_info
+    ie_result = ie.extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 710, in extract
+    ie_result = self._real_extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 948, in _real_extract
+    info_dict_config = self._parse_config(config, video_id)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 169, in _parse_config
+    fmts, subs = self._extract_m3u8_formats_and_subtitles(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 1960, in _extract_m3u8_formats_and_subtitles
+    res = self._download_webpage_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 898, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data, headers=headers, query=query, expected_status=expected_status)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 837, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query))
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 3863, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1519, in https_open
+    raise YoutubeDLError('SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect')
+yt_dlp.utils.YoutubeDLError: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+
+[download] Downloading item 28 of 1941
+[vimeo] Extracting URL: https://vimeo.com/822714320
+[vimeo] 822714320: Downloading webpage
+[vimeo] 822714320: Downloading JSON metadata
+[vimeo] 822714320: Downloading JSON metadata
+[vimeo] 822714320: Downloading jwt token
+[vimeo] 822714320: Downloading JSON metadata
+[vimeo] 822714320: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714320: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714320: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714320: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714320: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 822714320: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 822714320: Downloading akfire_interconnect_quic MPD information
+[vimeo] 822714320: Downloading akfire_interconnect_quic MPD information
+[vimeo] 822714320: Downloading fastly_skyfire MPD information
+[vimeo] 822714320: Downloading fastly_skyfire MPD information
+[vimeo] 822714320: Downloading google_mediacdn MPD information
+[vimeo] 822714320: Downloading google_mediacdn MPD information
+[debug] Sort order given by extractor: quality, res, fps, hdr:12, source
+[debug] Formats sorted by: hasvid, ie_pref, quality, res, fps, hdr:12(7), source, lang, vcodec:vp9.2(10), channels, acodec, size, br, asr, proto, vext, aext, hasaud, id
+[info] 822714320: Downloading 1 format(s): hls-fastly_skyfire-3007
+[debug] Invoking hlsnative downloader on "https://skyfire.vimeocdn.com/1688686818-0x9b0ae23563f33b3a0efec3a94f2c8dc65fe3700e/f14e7b7b-f481-4e88-9f9b-bcf2233311d7/video/5ade147c/playlist.m3u8"
+[hlsnative] Downloading m3u8 manifest
+[hlsnative] Total fragments: 100
+[download] Destination: /project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 1.mp4
+[download]   0.0% of ~ 249.16MiB at    2.38KiB/s ETA 29:49:32 (frag 0/100)[download]   0.0% of ~ 249.16MiB at    7.09KiB/s ETA 09:59:37 (frag 0/100)[download]   0.0% of ~ 249.16MiB at   16.45KiB/s ETA 04:18:33 (frag 0/100)[download]   0.0% of ~ 249.16MiB at   35.06KiB/s ETA 02:01:16 (frag 0/100)[download]   0.0% of ~ 249.16MiB at   72.07KiB/s ETA 58:59 (frag 0/100)   [download]   0.0% of ~ 249.16MiB at  145.58KiB/s ETA 29:12 (frag 0/100)[download]   0.0% of ~ 249.16MiB at  291.75KiB/s ETA 14:34 (frag 0/100)[download]   0.1% of ~ 249.16MiB at  581.83KiB/s ETA 07:18 (frag 0/100)[download]   0.2% of ~ 249.16MiB at    1.12MiB/s ETA 03:41 (frag 0/100)[download]   0.4% of ~ 249.16MiB at    2.21MiB/s ETA 01:52 (frag 0/100)[download]   0.8% of ~ 249.16MiB at    4.31MiB/s ETA 00:57 (frag 0/100)[download]   1.0% of ~ 249.16MiB at    5.32MiB/s ETA 00:46 (frag 0/100)[download]   1.0% of ~ 249.16MiB at    5.20MiB/s ETA 00:46 (frag 1/100)[download]   1.1% of ~ 235.80MiB at    3.50KiB/s ETA 18:57:37 (frag 1/100)[download]   1.1% of ~ 235.80MiB at   10.42KiB/s ETA 06:22:14 (frag 1/100)[download]   1.1% of ~ 235.80MiB at   24.13KiB/s ETA 02:44:59 (frag 1/100)[download]   1.1% of ~ 235.80MiB at   51.26KiB/s ETA 01:17:40 (frag 1/100)[download]   1.1% of ~ 235.80MiB at  105.11KiB/s ETA 37:52 (frag 1/100)   [download]   1.1% of ~ 235.80MiB at  211.83KiB/s ETA 18:47 (frag 1/100)[download]   1.1% of ~ 235.80MiB at  423.66KiB/s ETA 09:23 (frag 1/100)[download]   1.2% of ~ 235.80MiB at  842.24KiB/s ETA 04:43 (frag 1/100)[download]   1.3% of ~ 235.80MiB at    1.61MiB/s ETA 02:24 (frag 1/100)[download]   1.5% of ~ 235.80MiB at    3.17MiB/s ETA 01:13 (frag 1/100)[download]   1.9% of ~ 235.80MiB at    6.09MiB/s ETA 00:37 (frag 1/100)[download]   2.0% of ~ 235.80MiB at    6.70MiB/s ETA 00:34 (frag 1/100)[download]   2.0% of ~ 235.80MiB at    6.50MiB/s ETA 00:34 (frag 2/100)[download]   2.1% of ~ 229.30MiB at    3.55KiB/s ETA 17:59:57 (frag 2/100)[download]   2.1% of ~ 229.30MiB at   10.57KiB/s ETA 06:02:41 (frag 2/100)[download]   2.1% of ~ 229.30MiB at   24.48KiB/s ETA 02:36:34 (frag 2/100)[download]   2.1% of ~ 229.30MiB at   52.08KiB/s ETA 01:13:35 (frag 2/100)[download]   2.1% of ~ 229.30MiB at  106.81KiB/s ETA 35:52 (frag 2/100)   [download]   2.1% of ~ 229.30MiB at  214.85KiB/s ETA 17:50 (frag 2/100)[download]   2.1% of ~ 229.30MiB at  429.55KiB/s ETA 08:55 (frag 2/100)[download]   2.2% of ~ 229.30MiB at  839.15KiB/s ETA 04:33 (frag 2/100)[download]   2.3% of ~ 229.30MiB at    1.58MiB/s ETA 02:21 (frag 2/100)[download]   2.5% of ~ 229.30MiB at    3.11MiB/s ETA 01:11 (frag 2/100)[download]   2.9% of ~ 229.30MiB at    5.98MiB/s ETA 00:37 (frag 2/100)[download]   3.0% of ~ 229.30MiB at    6.41MiB/s ETA 00:34 (frag 2/100)[download]   3.0% of ~ 229.30MiB at    6.20MiB/s ETA 00:34 (frag 3/100)[download]   3.0% of ~ 226.91MiB at    395.31B/s ETA --:--:-- (frag 3/100)[download]   3.0% of ~ 226.91MiB at    592.48B/s ETA --:--:-- (frag 3/100)[download]   3.0% of ~ 226.91MiB at    986.76B/s ETA 64:56:57 (frag 3/100)[download]   3.0% of ~ 226.91MiB at    1.73KiB/s ETA 36:06:36 (frag 3/100)[download]   3.0% of ~ 226.91MiB at    3.27KiB/s ETA 19:07:52 (frag 3/100)[download]   3.0% of ~ 226.91MiB at    6.35KiB/s ETA 09:51:46 (frag 3/100)[download]   3.0% of ~ 226.91MiB at   12.49KiB/s ETA 05:00:40 (frag 3/100)[download]   3.1% of ~ 226.91MiB at   24.75KiB/s ETA 02:31:41 (frag 3/100)[download]   3.1% of ~ 226.91MiB at   49.26KiB/s ETA 01:16:11 (frag 3/100)[download]   3.1% of ~ 226.91MiB at   98.21KiB/s ETA 38:11 (frag 3/100)   [download]   3.3% of ~ 226.91MiB at  195.50KiB/s ETA 19:09 (frag 3/100)[download]   3.5% of ~ 226.91MiB at  389.57KiB/s ETA 09:35 (frag 3/100)[download]   3.9% of ~ 226.91MiB at  776.22KiB/s ETA 04:47 (frag 3/100)[download]   4.0% of ~ 226.91MiB at  851.60KiB/s ETA 04:21 (frag 3/100)[download]   4.0% of ~ 226.91MiB at  847.93KiB/s ETA 04:21 (frag 4/100)[download]   4.0% of ~ 225.61MiB at    3.81KiB/s ETA 16:10:55 (frag 4/100)[download]   4.0% of ~ 225.61MiB at   11.32KiB/s ETA 05:26:22 (frag 4/100)[download]   4.0% of ~ 225.61MiB at   26.22KiB/s ETA 02:20:57 (frag 4/100)[download]   4.0% of ~ 225.61MiB at   55.73KiB/s ETA 01:06:18 (frag 4/100)[download]   4.0% of ~ 225.61MiB at  114.24KiB/s ETA 32:20 (frag 4/100)   [download]   4.1% of ~ 225.61MiB at  230.11KiB/s ETA 16:03 (frag 4/100)[download]   4.1% of ~ 225.61MiB at  459.87KiB/s ETA 08:01 (frag 4/100)[download]   4.1% of ~ 225.61MiB at  905.28KiB/s ETA 04:04 (frag 4/100)[download]   4.2% of ~ 225.61MiB at    1.74MiB/s ETA 02:04 (frag 4/100)[download]   4.5% of ~ 225.61MiB at    3.41MiB/s ETA 01:03 (frag 4/100)[download]   4.9% of ~ 225.61MiB at    6.57MiB/s ETA 00:32 (frag 4/100)[download]   5.0% of ~ 225.61MiB at    7.17MiB/s ETA 00:29 (frag 4/100)[download]   5.0% of ~ 225.61MiB at    6.93MiB/s ETA 00:29 (frag 5/100)[download]   5.0% of ~ 225.91MiB at    3.30KiB/s ETA 18:30:51 (frag 5/100)[download]   5.0% of ~ 225.91MiB at    9.80KiB/s ETA 06:13:41 (frag 5/100)[download]   5.0% of ~ 225.91MiB at   22.71KiB/s ETA 02:41:17 (frag 5/100)[download]   5.0% of ~ 225.91MiB at   48.32KiB/s ETA 01:15:47 (frag 5/100)[download]   5.0% of ~ 225.91MiB at   99.15KiB/s ETA 36:56 (frag 5/100)   [download]   5.0% of ~ 225.91MiB at  199.89KiB/s ETA 18:19 (frag 5/100)[download]   5.0% of ~ 225.91MiB at  400.05KiB/s ETA 09:09 (frag 5/100)[download]   5.1% of ~ 225.91MiB at  794.34KiB/s ETA 04:36 (frag 5/100)[download]   5.2% of ~ 225.91MiB at    1.52MiB/s ETA 02:21 (frag 5/100)[download]   5.4% of ~ 225.91MiB at    2.98MiB/s ETA 01:11 (frag 5/100)[download]   5.9% of ~ 225.91MiB at    5.79MiB/s ETA 00:36 (frag 5/100)[download]   6.0% of ~ 225.91MiB at    6.52MiB/s ETA 00:32 (frag 5/100)[download]   6.0% of ~ 225.91MiB at    6.32MiB/s ETA 00:32 (frag 6/100)[download]   6.0% of ~ 224.08MiB at    3.42KiB/s ETA 17:31:19 (frag 6/100)[download]   6.1% of ~ 224.08MiB at   10.17KiB/s ETA 05:53:08 (frag 6/100)[download]   6.1% of ~ 224.08MiB at   23.57KiB/s ETA 02:32:24 (frag 6/100)[download]   6.1% of ~ 224.08MiB at   50.06KiB/s ETA 01:11:45 (frag 6/100)[download]   6.1% of ~ 224.08MiB at  102.68KiB/s ETA 34:59 (frag 6/100)   [download]   6.1% of ~ 224.08MiB at  206.97KiB/s ETA 17:21 (frag 6/100)[download]   6.1% of ~ 224.08MiB at  413.80KiB/s ETA 08:40 (frag 6/100)[download]   6.2% of ~ 224.08MiB at  811.76KiB/s ETA 04:25 (frag 6/100)[download]   6.3% of ~ 224.08MiB at    1.53MiB/s ETA 02:17 (frag 6/100)[download]   6.5% of ~ 224.08MiB at    2.95MiB/s ETA 01:11 (frag 6/100)[download]   6.9% of ~ 224.08MiB at    5.66MiB/s ETA 00:36 (frag 6/100)[download]   7.0% of ~ 224.08MiB at    5.98MiB/s ETA 00:34 (frag 6/100)[download]   7.0% of ~ 224.08MiB at    5.82MiB/s ETA 00:34 (frag 7/100)[download]   7.0% of ~ 223.72MiB at    2.72KiB/s ETA 21:45:07 (frag 7/100)[download]   7.0% of ~ 223.72MiB at    8.11KiB/s ETA 07:17:39 (frag 7/100)[download]   7.0% of ~ 223.72MiB at   18.82KiB/s ETA 03:08:36 (frag 7/100)[download]   7.0% of ~ 223.72MiB at   40.11KiB/s ETA 01:28:30 (frag 7/100)[download]   7.0% of ~ 223.72MiB at   82.40KiB/s ETA 43:04 (frag 7/100)   [download]   7.0% of ~ 223.72MiB at  166.11KiB/s ETA 21:22 (frag 7/100)[download]   7.1% of ~ 223.72MiB at  332.77KiB/s ETA 10:39 (frag 7/100)[download]   7.1% of ~ 223.72MiB at  663.61KiB/s ETA 05:20 (frag 7/100)[download]   7.2% of ~ 223.72MiB at    1.27MiB/s ETA 02:43 (frag 7/100)[download]   7.5% of ~ 223.72MiB at    2.50MiB/s ETA 01:22 (frag 7/100)[download]   7.9% of ~ 223.72MiB at    4.89MiB/s ETA 00:42 (frag 7/100)[download]   8.0% of ~ 223.72MiB at    5.36MiB/s ETA 00:38 (frag 7/100)[download]   8.0% of ~ 223.72MiB at    5.19MiB/s ETA 00:38 (frag 8/100)[download]   8.0% of ~ 224.89MiB at    2.47KiB/s ETA 23:51:42 (frag 8/100)[download]   8.0% of ~ 224.89MiB at    7.36KiB/s ETA 07:59:54 (frag 8/100)[download]   8.0% of ~ 224.89MiB at   17.09KiB/s ETA 03:26:43 (frag 8/100)[download]   8.0% of ~ 224.89MiB at   36.42KiB/s ETA 01:36:58 (frag 8/100)[download]   8.0% of ~ 224.89MiB at   74.87KiB/s ETA 47:10 (frag 8/100)   [download]   8.0% of ~ 224.89MiB at  151.22KiB/s ETA 23:21 (frag 8/100)[download]   8.0% of ~ 224.89MiB at  303.11KiB/s ETA 11:38 (frag 8/100)[download]   8.1% of ~ 224.89MiB at  600.78KiB/s ETA 05:52 (frag 8/100)[download]   8.2% of ~ 224.89MiB at    1.16MiB/s ETA 02:58 (frag 8/100)[download]   8.4% of ~ 224.89MiB at    2.29MiB/s ETA 01:29 (frag 8/100)[download]   8.8% of ~ 224.89MiB at    4.47MiB/s ETA 00:45 (frag 8/100)[download]   9.0% of ~ 224.89MiB at    5.19MiB/s ETA 00:39 (frag 8/100)[download]   9.0% of ~ 224.89MiB at    5.07MiB/s ETA 00:39 (frag 9/100)[download]   9.0% of ~ 224.89MiB at    2.38KiB/s ETA 24:27:39 (frag 9/100)[download]   9.0% of ~ 224.89MiB at    7.09KiB/s ETA 08:12:26 (frag 9/100)[download]   9.0% of ~ 224.89MiB at   16.47KiB/s ETA 03:32:06 (frag 9/100)[download]   9.0% of ~ 224.89MiB at   35.10KiB/s ETA 01:39:29 (frag 9/100)[download]   9.0% of ~ 224.89MiB at   72.15KiB/s ETA 48:24 (frag 9/100)   [download]   9.0% of ~ 224.89MiB at  145.74KiB/s ETA 23:57 (frag 9/100)[download]   9.1% of ~ 224.89MiB at  292.16KiB/s ETA 11:56 (frag 9/100)[download]   9.1% of ~ 224.89MiB at  579.63KiB/s ETA 06:01 (frag 9/100)[download]   9.2% of ~ 224.89MiB at    1.10MiB/s ETA 03:04 (frag 9/100)[download]   9.4% of ~ 224.89MiB at    2.18MiB/s ETA 01:33 (frag 9/100)[download]   9.9% of ~ 224.89MiB at    4.24MiB/s ETA 00:47 (frag 9/100)[download]  10.0% of ~ 224.89MiB at    4.74MiB/s ETA 00:42 (frag 9/100)[download]  10.0% of ~ 224.89MiB at    4.63MiB/s ETA 00:42 (frag 10/100)[download]  10.0% of ~ 225.18MiB at    1.89KiB/s ETA 30:28:20 (frag 10/100)[download]  10.0% of ~ 225.18MiB at    5.65KiB/s ETA 10:12:00 (frag 10/100)[download]  10.0% of ~ 225.18MiB at   13.14KiB/s ETA 04:23:19 (frag 10/100)[download]  10.0% of ~ 225.18MiB at   27.99KiB/s ETA 02:03:36 (frag 10/100)[download]  10.0% of ~ 225.18MiB at   57.59KiB/s ETA 01:00:03 (frag 10/100)[download]  10.0% of ~ 225.18MiB at  116.52KiB/s ETA 29:40 (frag 10/100)   [download]  10.0% of ~ 225.18MiB at  229.13KiB/s ETA 15:05 (frag 10/100)[download]  10.1% of ~ 225.18MiB at  411.68KiB/s ETA 08:23 (frag 10/100)[download]  10.2% of ~ 225.18MiB at  688.30KiB/s ETA 05:00 (frag 10/100)[download]  10.4% of ~ 225.18MiB at    1.29MiB/s ETA 02:36 (frag 10/100)[download]  10.9% of ~ 225.18MiB at    2.53MiB/s ETA 01:19 (frag 10/100)[download]  11.0% of ~ 225.18MiB at    2.87MiB/s ETA 01:09 (frag 10/100)[download]  11.0% of ~ 225.18MiB at    2.81MiB/s ETA 01:09 (frag 11/100)[download]  11.0% of ~ 224.51MiB at    3.30KiB/s ETA 17:14:11 (frag 11/100)[download]  11.0% of ~ 224.51MiB at    9.82KiB/s ETA 05:47:16 (frag 11/100)[download]  11.0% of ~ 224.51MiB at   22.75KiB/s ETA 02:29:50 (frag 11/100)[download]  11.0% of ~ 224.51MiB at   48.42KiB/s ETA 01:10:23 (frag 11/100)[download]  11.0% of ~ 224.51MiB at   99.37KiB/s ETA 34:17 (frag 11/100)   [download]  11.1% of ~ 224.51MiB at  198.60KiB/s ETA 17:09 (frag 11/100)[download]  11.1% of ~ 224.51MiB at  348.18KiB/s ETA 09:47 (frag 11/100)[download]  11.1% of ~ 224.51MiB at  625.14KiB/s ETA 05:26 (frag 11/100)[download]  11.3% of ~ 224.51MiB at    1.14MiB/s ETA 02:54 (frag 11/100)[download]  11.5% of ~ 224.51MiB at    2.04MiB/s ETA 01:37 (frag 11/100)[download]  11.9% of ~ 224.51MiB at    3.68MiB/s ETA 00:53 (frag 11/100)[download]  12.0% of ~ 224.51MiB at    3.97MiB/s ETA 00:49 (frag 11/100)[download]  12.0% of ~ 224.51MiB at    3.89MiB/s ETA 00:49 (frag 12/100)[download]  12.0% of ~ 224.29MiB at    3.13KiB/s ETA 17:55:06 (frag 12/100)[download]  12.0% of ~ 224.29MiB at    9.33KiB/s ETA 06:00:49 (frag 12/100)[download]  12.0% of ~ 224.29MiB at   21.64KiB/s ETA 02:35:38 (frag 12/100)[download]  12.0% of ~ 224.29MiB at   46.08KiB/s ETA 01:13:05 (frag 12/100)[download]  12.0% of ~ 224.29MiB at   94.55KiB/s ETA 35:37 (frag 12/100)   [download]  12.0% of ~ 224.29MiB at  190.69KiB/s ETA 17:39 (frag 12/100)[download]  12.1% of ~ 224.29MiB at  381.77KiB/s ETA 08:48 (frag 12/100)[download]  12.1% of ~ 224.29MiB at  734.61KiB/s ETA 04:34 (frag 12/100)[download]  12.2% of ~ 224.29MiB at    1.40MiB/s ETA 02:20 (frag 12/100)[download]  12.5% of ~ 224.29MiB at    2.74MiB/s ETA 01:11 (frag 12/100)[download]  12.9% of ~ 224.29MiB at    5.26MiB/s ETA 00:37 (frag 12/100)[download]  13.0% of ~ 224.29MiB at    5.78MiB/s ETA 00:33 (frag 12/100)[download]  13.0% of ~ 224.29MiB at    5.56MiB/s ETA 00:33 (frag 13/100)[download]  13.0% of ~ 223.57MiB at    2.74KiB/s ETA 20:09:43 (frag 13/100)[download]  13.0% of ~ 223.57MiB at    8.17KiB/s ETA 06:46:17 (frag 13/100)[download]  13.0% of ~ 223.57MiB at   18.94KiB/s ETA 02:55:08 (frag 13/100)[download]  13.0% of ~ 223.57MiB at   40.36KiB/s ETA 01:22:11 (frag 13/100)[download]  13.1% of ~ 223.57MiB at   82.93KiB/s ETA 40:00 (frag 13/100)   [download]  13.1% of ~ 223.57MiB at  167.43KiB/s ETA 19:48 (frag 13/100)[download]  13.1% of ~ 223.57MiB at  335.37KiB/s ETA 09:53 (frag 13/100)[download]  13.2% of ~ 223.57MiB at  668.48KiB/s ETA 04:57 (frag 13/100)[download]  13.3% of ~ 223.57MiB at    1.28MiB/s ETA 02:31 (frag 13/100)[download]  13.5% of ~ 223.57MiB at    2.52MiB/s ETA 01:16 (frag 13/100)[download]  13.9% of ~ 223.57MiB at    4.92MiB/s ETA 00:39 (frag 13/100)[download]  14.0% of ~ 223.57MiB at    5.23MiB/s ETA 00:36 (frag 13/100)[download]  14.0% of ~ 223.57MiB at    5.10MiB/s ETA 00:36 (frag 14/100)[download]  14.1% of ~ 222.64MiB at    3.05KiB/s ETA 17:51:32 (frag 14/100)[download]  14.1% of ~ 222.64MiB at    9.08KiB/s ETA 05:59:31 (frag 14/100)[download]  14.1% of ~ 222.64MiB at   21.06KiB/s ETA 02:35:01 (frag 14/100)[download]  14.1% of ~ 222.64MiB at   44.80KiB/s ETA 01:12:53 (frag 14/100)[download]  14.1% of ~ 222.64MiB at   91.98KiB/s ETA 35:29 (frag 14/100)   [download]  14.1% of ~ 222.64MiB at  107.88KiB/s ETA 30:15 (frag 14/100)[download]  14.1% of ~ 222.64MiB at  212.25KiB/s ETA 15:22 (frag 14/100)[download]  14.2% of ~ 222.64MiB at  417.82KiB/s ETA 07:48 (frag 14/100)[download]  14.3% of ~ 222.64MiB at  773.44KiB/s ETA 04:12 (frag 14/100)[download]  14.5% of ~ 222.64MiB at  919.63KiB/s ETA 03:31 (frag 14/100)[download]  15.0% of ~ 222.64MiB at    1.39MiB/s ETA 02:16 (frag 14/100)[download]  15.0% of ~ 222.64MiB at    1.43MiB/s ETA 02:11 (frag 14/100)[download]  15.0% of ~ 222.64MiB at    1.42MiB/s ETA 02:11 (frag 15/100)[download]  15.0% of ~ 222.53MiB at    3.64KiB/s ETA 14:47:45 (frag 15/100)[download]  15.0% of ~ 222.53MiB at   10.82KiB/s ETA 04:58:13 (frag 15/100)[download]  15.0% of ~ 222.53MiB at   25.07KiB/s ETA 02:08:46 (frag 15/100)[download]  15.0% of ~ 222.53MiB at   53.32KiB/s ETA 01:00:31 (frag 15/100)[download]  15.0% of ~ 222.53MiB at  109.33KiB/s ETA 29:31 (frag 15/100)   [download]  15.0% of ~ 222.53MiB at  219.82KiB/s ETA 14:40 (frag 15/100)[download]  15.1% of ~ 222.53MiB at  439.28KiB/s ETA 07:20 (frag 15/100)[download]  15.1% of ~ 222.53MiB at  852.90KiB/s ETA 03:46 (frag 15/100)[download]  15.2% of ~ 222.53MiB at    1.63MiB/s ETA 01:55 (frag 15/100)[download]  15.5% of ~ 222.53MiB at    3.18MiB/s ETA 00:59 (frag 15/100)[download]  15.9% of ~ 222.53MiB at    6.13MiB/s ETA 00:30 (frag 15/100)[download]  16.0% of ~ 222.53MiB at    6.70MiB/s ETA 00:27 (frag 15/100)[download]  16.0% of ~ 222.53MiB at    6.49MiB/s ETA 00:27 (frag 16/100)[download]  15.9% of ~ 223.77MiB at    3.57KiB/s ETA 14:58:20 (frag 16/100)[download]  15.9% of ~ 223.77MiB at   10.64KiB/s ETA 05:01:49 (frag 16/100)[download]  15.9% of ~ 223.77MiB at   24.64KiB/s ETA 02:10:18 (frag 16/100)[download]  15.9% of ~ 223.77MiB at   52.39KiB/s ETA 01:01:17 (frag 16/100)[download]  15.9% of ~ 223.77MiB at  107.42KiB/s ETA 29:53 (frag 16/100)   [download]  15.9% of ~ 223.77MiB at  216.46KiB/s ETA 14:49 (frag 16/100)[download]  16.0% of ~ 223.77MiB at  432.83KiB/s ETA 07:24 (frag 16/100)[download]  16.0% of ~ 223.77MiB at  846.64KiB/s ETA 03:47 (frag 16/100)[download]  16.1% of ~ 223.77MiB at    1.61MiB/s ETA 01:56 (frag 16/100)[download]  16.4% of ~ 223.77MiB at    3.10MiB/s ETA 01:00 (frag 16/100)[download]  16.8% of ~ 223.77MiB at    6.04MiB/s ETA 00:30 (frag 16/100)[download]  17.0% of ~ 223.77MiB at    7.26MiB/s ETA 00:25 (frag 16/100)[download]  17.0% of ~ 223.77MiB at    7.04MiB/s ETA 00:25 (frag 17/100)[download]  17.0% of ~ 223.68MiB at    3.16KiB/s ETA 16:43:40 (frag 17/100)[download]  17.0% of ~ 223.68MiB at    9.37KiB/s ETA 05:38:00 (frag 17/100)[download]  17.0% of ~ 223.68MiB at   21.72KiB/s ETA 02:25:50 (frag 17/100)[download]  17.0% of ~ 223.68MiB at   46.24KiB/s ETA 01:08:30 (frag 17/100)[download]  17.0% of ~ 223.68MiB at   94.90KiB/s ETA 33:22 (frag 17/100)   [download]  17.0% of ~ 223.68MiB at  191.33KiB/s ETA 16:33 (frag 17/100)[download]  17.1% of ~ 223.68MiB at  382.86KiB/s ETA 08:16 (frag 17/100)[download]  17.1% of ~ 223.68MiB at  752.81KiB/s ETA 04:12 (frag 17/100)[download]  17.2% of ~ 223.68MiB at    1.43MiB/s ETA 02:09 (frag 17/100)[download]  17.5% of ~ 223.68MiB at    2.81MiB/s ETA 01:05 (frag 17/100)[download]  17.9% of ~ 223.68MiB at    5.45MiB/s ETA 00:33 (frag 17/100)[download]  18.0% of ~ 223.68MiB at    6.00MiB/s ETA 00:30 (frag 17/100)[download]  18.0% of ~ 223.68MiB at    5.79MiB/s ETA 00:30 (frag 18/100)[download]  18.0% of ~ 224.01MiB at    2.42KiB/s ETA 21:34:38 (frag 18/100)[download]  18.0% of ~ 224.01MiB at    7.23KiB/s ETA 07:13:48 (frag 18/100)[download]  18.0% of ~ 224.01MiB at   16.78KiB/s ETA 03:06:50 (frag 18/100)[download]  18.0% of ~ 224.01MiB at   35.75KiB/s ETA 01:27:43 (frag 18/100)[download]  18.0% of ~ 224.01MiB at   73.50KiB/s ETA 42:39 (frag 18/100)   [download]  18.0% of ~ 224.01MiB at  148.52KiB/s ETA 21:06 (frag 18/100)[download]  18.0% of ~ 224.01MiB at  297.68KiB/s ETA 10:31 (frag 18/100)[download]  18.1% of ~ 224.01MiB at  587.66KiB/s ETA 05:19 (frag 18/100)[download]  18.2% of ~ 224.01MiB at    1.13MiB/s ETA 02:42 (frag 18/100)[download]  18.4% of ~ 224.01MiB at    2.22MiB/s ETA 01:22 (frag 18/100)[download]  18.9% of ~ 224.01MiB at    4.36MiB/s ETA 00:41 (frag 18/100)[download]  19.0% of ~ 224.01MiB at    4.97MiB/s ETA 00:36 (frag 18/100)[download]  19.0% of ~ 224.01MiB at    4.86MiB/s ETA 00:36 (frag 19/100)[download]  19.0% of ~ 223.50MiB at    3.48KiB/s ETA 14:46:15 (frag 19/100)[download]  19.0% of ~ 223.50MiB at   10.37KiB/s ETA 04:57:39 (frag 19/100)[download]  19.0% of ~ 223.50MiB at   24.03KiB/s ETA 02:08:28 (frag 19/100)[download]  19.0% of ~ 223.50MiB at   51.13KiB/s ETA 01:00:23 (frag 19/100)[download]  19.1% of ~ 223.50MiB at  104.90KiB/s ETA 29:26 (frag 19/100)   [download]  19.1% of ~ 223.50MiB at  210.99KiB/s ETA 14:37 (frag 19/100)[download]  19.1% of ~ 223.50MiB at  421.96KiB/s ETA 07:18 (frag 19/100)[download]  19.2% of ~ 223.50MiB at  833.62KiB/s ETA 03:41 (frag 19/100)[download]  19.3% of ~ 223.50MiB at    1.58MiB/s ETA 01:54 (frag 19/100)[download]  19.5% of ~ 223.50MiB at    3.09MiB/s ETA 00:58 (frag 19/100)[download]  19.9% of ~ 223.50MiB at    5.99MiB/s ETA 00:29 (frag 19/100)[download]  20.0% of ~ 223.50MiB at    6.35MiB/s ETA 00:28 (frag 19/100)[download]  20.0% of ~ 223.50MiB at    6.16MiB/s ETA 00:28 (frag 20/100)[download]  20.1% of ~ 222.92MiB at    3.87KiB/s ETA 13:05:00 (frag 20/100)[download]  20.1% of ~ 222.92MiB at   11.53KiB/s ETA 04:23:52 (frag 20/100)[download]  20.1% of ~ 222.92MiB at   26.69KiB/s ETA 01:53:57 (frag 20/100)[download]  20.1% of ~ 222.92MiB at   56.73KiB/s ETA 53:36 (frag 20/100)   [download]  20.1% of ~ 222.92MiB at  116.25KiB/s ETA 26:09 (frag 20/100)[download]  20.1% of ~ 222.92MiB at  234.17KiB/s ETA 12:59 (frag 20/100)[download]  20.1% of ~ 222.92MiB at  468.15KiB/s ETA 06:29 (frag 20/100)[download]  20.2% of ~ 222.92MiB at  925.90KiB/s ETA 03:16 (frag 20/100)[download]  20.3% of ~ 222.92MiB at    1.77MiB/s ETA 01:40 (frag 20/100)[download]  20.5% of ~ 222.92MiB at    3.46MiB/s ETA 00:51 (frag 20/100)[download]  20.9% of ~ 222.92MiB at    6.69MiB/s ETA 00:26 (frag 20/100)[download]  21.0% of ~ 222.92MiB at    7.00MiB/s ETA 00:25 (frag 20/100)[download]  21.0% of ~ 222.92MiB at    6.73MiB/s ETA 00:25 (frag 21/100)[download]  20.9% of ~ 223.61MiB at    2.01KiB/s ETA 24:57:56 (frag 21/100)[download]  20.9% of ~ 223.61MiB at    6.01KiB/s ETA 08:22:04 (frag 21/100)[download]  20.9% of ~ 223.61MiB at   13.96KiB/s ETA 03:36:05 (frag 21/100)[download]  20.9% of ~ 223.61MiB at   29.79KiB/s ETA 01:41:15 (frag 21/100)[download]  20.9% of ~ 223.61MiB at   61.31KiB/s ETA 49:12 (frag 21/100)   [download]  21.0% of ~ 223.61MiB at  112.55KiB/s ETA 26:47 (frag 21/100)[download]  21.0% of ~ 223.61MiB at  219.96KiB/s ETA 13:42 (frag 21/100)[download]  21.0% of ~ 223.61MiB at  404.52KiB/s ETA 07:26 (frag 21/100)[download]  21.2% of ~ 223.61MiB at  741.56KiB/s ETA 04:03 (frag 21/100)[download]  21.4% of ~ 223.61MiB at    1.34MiB/s ETA 02:11 (frag 21/100)[download]  21.8% of ~ 223.61MiB at    2.53MiB/s ETA 01:08 (frag 21/100)[download]  22.0% of ~ 223.61MiB at    2.90MiB/s ETA 01:00 (frag 21/100)[download]  22.0% of ~ 223.61MiB at    2.86MiB/s ETA 01:00 (frag 22/100)[download]  22.0% of ~ 223.90MiB at    186.33B/s ETA --:--:-- (frag 22/100)[download]  22.0% of ~ 223.90MiB at    279.39B/s ETA --:--:-- (frag 22/100)[download]  22.0% of ~ 223.90MiB at    465.49B/s ETA --:--:-- (frag 22/100)[download]  22.0% of ~ 223.90MiB at    837.48B/s ETA 60:45:35 (frag 22/100)[download]  22.0% of ~ 223.90MiB at    1.54KiB/s ETA 32:10:41 (frag 22/100)[download]  22.0% of ~ 223.90MiB at    3.00KiB/s ETA 16:34:55 (frag 22/100)[download]  22.0% of ~ 223.90MiB at    5.90KiB/s ETA 08:25:16 (frag 22/100)[download]  22.0% of ~ 223.90MiB at   11.70KiB/s ETA 04:14:39 (frag 22/100)[download]  22.0% of ~ 223.90MiB at   23.31KiB/s ETA 02:07:50 (frag 22/100)[download]  22.1% of ~ 223.90MiB at   46.48KiB/s ETA 01:04:03 (frag 22/100)[download]  22.2% of ~ 223.90MiB at   92.73KiB/s ETA 32:03 (frag 22/100)   [download]  22.4% of ~ 223.90MiB at  184.63KiB/s ETA 16:03 (frag 22/100)[download]  22.9% of ~ 223.90MiB at  367.13KiB/s ETA 08:01 (frag 22/100)[download]  23.0% of ~ 223.90MiB at  421.65KiB/s ETA 06:58 (frag 22/100)[download]  23.0% of ~ 223.90MiB at  420.76KiB/s ETA 06:58 (frag 23/100)[download]  23.0% of ~ 223.44MiB at    2.64KiB/s ETA 18:33:17 (frag 23/100)[download]  23.0% of ~ 223.44MiB at    7.86KiB/s ETA 06:13:15 (frag 23/100)[download]  23.1% of ~ 223.44MiB at   18.24KiB/s ETA 02:40:51 (frag 23/100)[download]  23.1% of ~ 223.44MiB at   38.81KiB/s ETA 01:15:36 (frag 23/100)[download]  23.1% of ~ 223.44MiB at   79.74KiB/s ETA 36:47 (frag 23/100)   [download]  23.1% of ~ 223.44MiB at  161.01KiB/s ETA 18:13 (frag 23/100)[download]  23.1% of ~ 223.44MiB at  322.51KiB/s ETA 09:05 (frag 23/100)[download]  23.2% of ~ 223.44MiB at  643.07KiB/s ETA 04:33 (frag 23/100)[download]  23.3% of ~ 223.44MiB at    1.23MiB/s ETA 02:18 (frag 23/100)[download]  23.5% of ~ 223.44MiB at    2.44MiB/s ETA 01:10 (frag 23/100)[download]  23.9% of ~ 223.44MiB at    4.75MiB/s ETA 00:35 (frag 23/100)[download]  24.0% of ~ 223.44MiB at    5.02MiB/s ETA 00:33 (frag 23/100)[download]  24.0% of ~ 223.44MiB at    4.89MiB/s ETA 00:33 (frag 24/100)[download]  24.0% of ~ 223.38MiB at    1.91KiB/s ETA 25:18:30 (frag 24/100)[download]  24.0% of ~ 223.38MiB at    5.70KiB/s ETA 08:28:17 (frag 24/100)[download]  24.0% of ~ 223.38MiB at   13.25KiB/s ETA 03:38:39 (frag 24/100)[download]  24.0% of ~ 223.38MiB at   28.28KiB/s ETA 01:42:25 (frag 24/100)[download]  24.0% of ~ 223.38MiB at   58.21KiB/s ETA 49:45 (frag 24/100)   [download]  24.0% of ~ 223.38MiB at  117.62KiB/s ETA 24:37 (frag 24/100)[download]  24.1% of ~ 223.38MiB at  236.03KiB/s ETA 12:15 (frag 24/100)[download]  24.1% of ~ 223.38MiB at  469.00KiB/s ETA 06:10 (frag 24/100)[download]  24.2% of ~ 223.38MiB at  921.62KiB/s ETA 03:08 (frag 24/100)[download]  24.5% of ~ 223.38MiB at    1.71MiB/s ETA 01:38 (frag 24/100)[download]  24.9% of ~ 223.38MiB at    3.34MiB/s ETA 00:50 (frag 24/100)[download]  25.0% of ~ 223.38MiB at    3.69MiB/s ETA 00:45 (frag 24/100)[download]  25.0% of ~ 223.38MiB at    3.63MiB/s ETA 00:45 (frag 25/100)[download]  25.0% of ~ 223.33MiB at    3.37KiB/s ETA 14:09:11 (frag 25/100)[download]  25.0% of ~ 223.33MiB at   10.02KiB/s ETA 04:45:12 (frag 25/100)[download]  25.0% of ~ 223.33MiB at   23.22KiB/s ETA 02:03:04 (frag 25/100)[download]  25.0% of ~ 223.33MiB at   49.42KiB/s ETA 57:49 (frag 25/100)   [download]  25.0% of ~ 223.33MiB at  101.41KiB/s ETA 28:10 (frag 25/100)[download]  25.0% of ~ 223.33MiB at  204.34KiB/s ETA 13:59 (frag 25/100)[download]  25.1% of ~ 223.33MiB at  408.93KiB/s ETA 06:59 (frag 25/100)[download]  25.1% of ~ 223.33MiB at  795.88KiB/s ETA 03:35 (frag 25/100)[download]  25.2% of ~ 223.33MiB at    1.52MiB/s ETA 01:49 (frag 25/100)[download]  25.5% of ~ 223.33MiB at    2.98MiB/s ETA 00:55 (frag 25/100)[download]  25.9% of ~ 223.33MiB at    5.76MiB/s ETA 00:28 (frag 25/100)[download]  26.0% of ~ 223.33MiB at    6.34MiB/s ETA 00:26 (frag 25/100)[download]  26.0% of ~ 223.33MiB at    6.16MiB/s ETA 00:26 (frag 26/100)[download]  26.0% of ~ 223.36MiB at    2.51KiB/s ETA 18:45:44 (frag 26/100)[download]  26.0% of ~ 223.36MiB at    7.48KiB/s ETA 06:17:19 (frag 26/100)[download]  26.0% of ~ 223.36MiB at   17.33KiB/s ETA 02:42:44 (frag 26/100)[download]  26.0% of ~ 223.36MiB at   36.95KiB/s ETA 01:16:20 (frag 26/100)[download]  26.0% of ~ 223.36MiB at   75.95KiB/s ETA 37:08 (frag 26/100)   [download]  26.0% of ~ 223.36MiB at  153.40KiB/s ETA 18:23 (frag 26/100)[download]  26.1% of ~ 223.36MiB at  307.46KiB/s ETA 09:10 (frag 26/100)[download]  26.1% of ~ 223.36MiB at  606.36KiB/s ETA 04:38 (frag 26/100)[download]  26.2% of ~ 223.36MiB at    1.16MiB/s ETA 02:21 (frag 26/100)[download]  26.4% of ~ 223.36MiB at    2.29MiB/s ETA 01:11 (frag 26/100)[download]  26.9% of ~ 223.36MiB at    4.46MiB/s ETA 00:36 (frag 26/100)[download]  27.0% of ~ 223.36MiB at    4.96MiB/s ETA 00:32 (frag 26/100)[download]  27.0% of ~ 223.36MiB at    4.84MiB/s ETA 00:32 (frag 27/100)[download]  27.0% of ~ 223.50MiB at    3.27KiB/s ETA 14:12:48 (frag 27/100)[download]  27.0% of ~ 223.50MiB at    9.73KiB/s ETA 04:46:15 (frag 27/100)[download]  27.0% of ~ 223.50MiB at   22.55KiB/s ETA 02:03:29 (frag 27/100)[download]  27.0% of ~ 223.50MiB at   47.99KiB/s ETA 58:01 (frag 27/100)   [download]  27.0% of ~ 223.50MiB at   98.27KiB/s ETA 28:20 (frag 27/100)[download]  27.0% of ~ 223.50MiB at  198.12KiB/s ETA 14:03 (frag 27/100)[download]  27.0% of ~ 223.50MiB at  396.44KiB/s ETA 07:01 (frag 27/100)[download]  27.1% of ~ 223.50MiB at  778.54KiB/s ETA 03:34 (frag 27/100)[download]  27.2% of ~ 223.50MiB at    1.49MiB/s ETA 01:49 (frag 27/100)[download]  27.4% of ~ 223.50MiB at    2.92MiB/s ETA 00:55 (frag 27/100)[download]  27.9% of ~ 223.50MiB at    5.66MiB/s ETA 00:28 (frag 27/100)[download]  28.0% of ~ 223.50MiB at    6.36MiB/s ETA 00:25 (frag 27/100)[download]  28.0% of ~ 223.50MiB at    6.16MiB/s ETA 00:25 (frag 28/100)[download]  28.1% of ~ 223.06MiB at    2.89KiB/s ETA 15:46:17 (frag 28/100)[download]  28.1% of ~ 223.06MiB at    8.63KiB/s ETA 05:17:25 (frag 28/100)[download]  28.1% of ~ 223.06MiB at   20.02KiB/s ETA 02:16:50 (frag 28/100)[download]  28.1% of ~ 223.06MiB at   42.64KiB/s ETA 01:04:13 (frag 28/100)[download]  28.1% of ~ 223.06MiB at   87.57KiB/s ETA 31:16 (frag 28/100)   [download]  28.1% of ~ 223.06MiB at  176.72KiB/s ETA 15:29 (frag 28/100)[download]  28.1% of ~ 223.06MiB at  353.41KiB/s ETA 07:44 (frag 28/100)[download]  28.2% of ~ 223.06MiB at  704.26KiB/s ETA 03:52 (frag 28/100)[download]  28.3% of ~ 223.06MiB at    1.35MiB/s ETA 01:58 (frag 28/100)[download]  28.5% of ~ 223.06MiB at    2.64MiB/s ETA 01:00 (frag 28/100)[download]  29.0% of ~ 223.06MiB at    5.13MiB/s ETA 00:30 (frag 28/100)[download]  29.0% of ~ 223.06MiB at    5.37MiB/s ETA 00:29 (frag 28/100)[download]  29.0% of ~ 223.06MiB at    5.20MiB/s ETA 00:29 (frag 29/100)[download]  29.0% of ~ 223.36MiB at    2.75KiB/s ETA 16:25:30 (frag 29/100)[download]  29.0% of ~ 223.36MiB at    8.13KiB/s ETA 05:33:12 (frag 29/100)[download]  29.0% of ~ 223.36MiB at   18.86KiB/s ETA 02:23:36 (frag 29/100)[download]  29.0% of ~ 223.36MiB at   40.18KiB/s ETA 01:07:23 (frag 29/100)[download]  29.0% of ~ 223.36MiB at   82.51KiB/s ETA 32:48 (frag 29/100)   [download]  29.0% of ~ 223.36MiB at  166.56KiB/s ETA 16:15 (frag 29/100)[download]  29.0% of ~ 223.36MiB at  333.70KiB/s ETA 08:06 (frag 29/100)[download]  29.1% of ~ 223.36MiB at  665.13KiB/s ETA 04:03 (frag 29/100)[download]  29.2% of ~ 223.36MiB at    1.27MiB/s ETA 02:04 (frag 29/100)[download]  29.4% of ~ 223.36MiB at    2.51MiB/s ETA 01:02 (frag 29/100)[download]  29.9% of ~ 223.36MiB at    4.91MiB/s ETA 00:31 (frag 29/100)[download]  30.0% of ~ 223.36MiB at    5.64MiB/s ETA 00:27 (frag 29/100)[download]  30.0% of ~ 223.36MiB at    5.48MiB/s ETA 00:27 (frag 30/100)[download]  30.0% of ~ 223.23MiB at    616.95B/s ETA 73:45:12 (frag 30/100)[download]  30.0% of ~ 223.23MiB at    1.07KiB/s ETA 41:31:34 (frag 30/100)[download]  30.0% of ~ 223.23MiB at    2.00KiB/s ETA 22:10:08 (frag 30/100)[download]  30.0% of ~ 223.23MiB at    3.87KiB/s ETA 11:29:00 (frag 30/100)[download]  30.0% of ~ 223.23MiB at    7.60KiB/s ETA 05:50:57 (frag 30/100)[download]  30.0% of ~ 223.23MiB at   15.04KiB/s ETA 02:57:14 (frag 30/100)[download]  30.0% of ~ 223.23MiB at   29.91KiB/s ETA 01:29:07 (frag 30/100)[download]  30.1% of ~ 223.23MiB at   59.59KiB/s ETA 44:42 (frag 30/100)   [download]  30.1% of ~ 223.23MiB at  118.85KiB/s ETA 22:24 (frag 30/100)[download]  30.2% of ~ 223.23MiB at  236.15KiB/s ETA 11:15 (frag 30/100)[download]  30.4% of ~ 223.23MiB at  469.37KiB/s ETA 05:39 (frag 30/100)[download]  30.7% of ~ 223.23MiB at  932.80KiB/s ETA 02:49 (frag 30/100)[download]  31.0% of ~ 223.23MiB at    1.28MiB/s ETA 02:00 (frag 30/100)[download]  31.0% of ~ 223.23MiB at    1.27MiB/s ETA 02:00 (frag 31/100)[download]  31.0% of ~ 223.36MiB at    2.13KiB/s ETA 20:32:21 (frag 31/100)[download]  31.0% of ~ 223.36MiB at    6.37KiB/s ETA 06:52:42 (frag 31/100)[download]  31.0% of ~ 223.36MiB at   14.81KiB/s ETA 02:57:37 (frag 31/100)[download]  31.0% of ~ 223.36MiB at   31.60KiB/s ETA 01:23:14 (frag 31/100)[download]  31.0% of ~ 223.36MiB at   64.91KiB/s ETA 40:31 (frag 31/100)   [download]  31.0% of ~ 223.36MiB at  131.22KiB/s ETA 20:02 (frag 31/100)[download]  31.0% of ~ 223.36MiB at  263.12KiB/s ETA 09:59 (frag 31/100)[download]  31.1% of ~ 223.36MiB at  525.19KiB/s ETA 05:00 (frag 31/100)[download]  31.2% of ~ 223.36MiB at    1.01MiB/s ETA 02:31 (frag 31/100)[download]  31.4% of ~ 223.36MiB at    2.00MiB/s ETA 01:16 (frag 31/100)[download]  31.9% of ~ 223.36MiB at    3.91MiB/s ETA 00:38 (frag 31/100)[download]  32.0% of ~ 223.36MiB at    4.41MiB/s ETA 00:34 (frag 31/100)[download]  32.0% of ~ 223.36MiB at    4.32MiB/s ETA 00:34 (frag 32/100)[download]  32.0% of ~ 223.09MiB at    2.30KiB/s ETA 18:46:48 (frag 32/100)[download]  32.0% of ~ 223.09MiB at    6.85KiB/s ETA 06:17:31 (frag 32/100)[download]  32.0% of ~ 223.09MiB at   15.92KiB/s ETA 02:42:33 (frag 32/100)[download]  32.0% of ~ 223.09MiB at   33.94KiB/s ETA 01:16:13 (frag 32/100)[download]  32.1% of ~ 223.09MiB at   69.80KiB/s ETA 37:03 (frag 32/100)   [download]  32.1% of ~ 223.09MiB at  141.12KiB/s ETA 18:19 (frag 32/100)[download]  32.1% of ~ 223.09MiB at  282.60KiB/s ETA 09:08 (frag 32/100)[download]  32.1% of ~ 223.09MiB at  560.36KiB/s ETA 04:36 (frag 32/100)[download]  32.3% of ~ 223.09MiB at    1.08MiB/s ETA 02:19 (frag 32/100)[download]  32.5% of ~ 223.09MiB at    2.14MiB/s ETA 01:10 (frag 32/100)[download]  32.9% of ~ 223.09MiB at    4.19MiB/s ETA 00:35 (frag 32/100)[download]  33.0% of ~ 223.09MiB at    4.47MiB/s ETA 00:33 (frag 32/100)[download]  33.0% of ~ 223.09MiB at    4.38MiB/s ETA 00:33 (frag 33/100)[download]  33.0% of ~ 223.43MiB at    1.60KiB/s ETA 26:40:32 (frag 33/100)[download]  33.0% of ~ 223.43MiB at    4.78KiB/s ETA 08:55:22 (frag 33/100)[download]  33.0% of ~ 223.43MiB at   11.11KiB/s ETA 03:50:11 (frag 33/100)[download]  33.0% of ~ 223.43MiB at   23.72KiB/s ETA 01:47:46 (frag 33/100)[download]  33.0% of ~ 223.43MiB at   48.84KiB/s ETA 52:20 (frag 33/100)   [download]  33.0% of ~ 223.43MiB at   98.88KiB/s ETA 25:50 (frag 33/100)[download]  33.0% of ~ 223.43MiB at  198.55KiB/s ETA 12:51 (frag 33/100)[download]  33.1% of ~ 223.43MiB at  395.68KiB/s ETA 06:27 (frag 33/100)[download]  33.2% of ~ 223.43MiB at  782.51KiB/s ETA 03:15 (frag 33/100)[download]  33.4% of ~ 223.43MiB at    1.51MiB/s ETA 01:38 (frag 33/100)[download]  33.8% of ~ 223.43MiB at    2.99MiB/s ETA 00:49 (frag 33/100)[download]  34.0% of ~ 223.43MiB at    3.49MiB/s ETA 00:42 (frag 33/100)[download]  34.0% of ~ 223.43MiB at    3.43MiB/s ETA 00:42 (frag 34/100)[download]  34.0% of ~ 223.14MiB at    3.25KiB/s ETA 12:53:34 (frag 34/100)[download]  34.0% of ~ 223.14MiB at    9.67KiB/s ETA 04:19:40 (frag 34/100)[download]  34.0% of ~ 223.14MiB at   22.38KiB/s ETA 01:52:12 (frag 34/100)[download]  34.1% of ~ 223.14MiB at   47.63KiB/s ETA 52:43 (frag 34/100)   [download]  34.1% of ~ 223.14MiB at   97.73KiB/s ETA 25:41 (frag 34/100)[download]  34.1% of ~ 223.14MiB at  197.06KiB/s ETA 12:44 (frag 34/100)[download]  34.1% of ~ 223.14MiB at  394.45KiB/s ETA 06:21 (frag 34/100)[download]  34.2% of ~ 223.14MiB at  783.84KiB/s ETA 03:11 (frag 34/100)[download]  34.3% of ~ 223.14MiB at    1.50MiB/s ETA 01:37 (frag 34/100)[download]  34.5% of ~ 223.14MiB at    2.94MiB/s ETA 00:49 (frag 34/100)[download]  34.9% of ~ 223.14MiB at    5.72MiB/s ETA 00:25 (frag 34/100)[download]  35.0% of ~ 223.14MiB at    6.04MiB/s ETA 00:23 (frag 34/100)[download]  35.0% of ~ 223.14MiB at    5.85MiB/s ETA 00:23 (frag 35/100)[download]  35.0% of ~ 223.19MiB at    3.11KiB/s ETA 13:16:40 (frag 35/100)[download]  35.0% of ~ 223.19MiB at    9.26KiB/s ETA 04:27:20 (frag 35/100)[download]  35.0% of ~ 223.19MiB at   21.48KiB/s ETA 01:55:16 (frag 35/100)[download]  35.0% of ~ 223.19MiB at   45.74KiB/s ETA 54:07 (frag 35/100)   [download]  35.0% of ~ 223.19MiB at   93.74KiB/s ETA 26:24 (frag 35/100)[download]  35.0% of ~ 223.19MiB at  187.03KiB/s ETA 13:14 (frag 35/100)[download]  35.0% of ~ 223.19MiB at  369.23KiB/s ETA 06:42 (frag 35/100)[download]  35.1% of ~ 223.19MiB at  716.04KiB/s ETA 03:27 (frag 35/100)[download]  35.2% of ~ 223.19MiB at    1.36MiB/s ETA 01:46 (frag 35/100)[download]  35.4% of ~ 223.19MiB at    2.63MiB/s ETA 00:54 (frag 35/100)[download]  35.9% of ~ 223.19MiB at    5.10MiB/s ETA 00:28 (frag 35/100)[download]  36.0% of ~ 223.19MiB at    5.69MiB/s ETA 00:25 (frag 35/100)[download]  36.0% of ~ 223.19MiB at    5.52MiB/s ETA 00:25 (frag 36/100)[download]  36.0% of ~ 223.15MiB at    2.75KiB/s ETA 14:47:07 (frag 36/100)[download]  36.0% of ~ 223.15MiB at    8.19KiB/s ETA 04:57:30 (frag 36/100)[download]  36.0% of ~ 223.15MiB at   19.01KiB/s ETA 02:08:13 (frag 36/100)[download]  36.0% of ~ 223.15MiB at   40.50KiB/s ETA 01:00:10 (frag 36/100)[download]  36.0% of ~ 223.15MiB at   83.21KiB/s ETA 29:16 (frag 36/100)   [download]  36.0% of ~ 223.15MiB at  168.02KiB/s ETA 14:29 (frag 36/100)[download]  36.1% of ~ 223.15MiB at  336.05KiB/s ETA 07:14 (frag 36/100)[download]  36.1% of ~ 223.15MiB at  662.77KiB/s ETA 03:40 (frag 36/100)[download]  36.2% of ~ 223.15MiB at    1.27MiB/s ETA 01:51 (frag 36/100)[download]  36.5% of ~ 223.15MiB at    2.49MiB/s ETA 00:56 (frag 36/100)[download]  36.9% of ~ 223.15MiB at    4.86MiB/s ETA 00:28 (frag 36/100)[download]  37.0% of ~ 223.15MiB at    5.34MiB/s ETA 00:26 (frag 36/100)[download]  37.0% of ~ 223.15MiB at    5.21MiB/s ETA 00:26 (frag 37/100)[download]  37.0% of ~ 223.11MiB at    3.41KiB/s ETA 11:42:43 (frag 37/100)[download]  37.0% of ~ 223.11MiB at   10.16KiB/s ETA 03:56:02 (frag 37/100)[download]  37.0% of ~ 223.11MiB at   23.55KiB/s ETA 01:41:51 (frag 37/100)[download]  37.0% of ~ 223.11MiB at   50.10KiB/s ETA 47:52 (frag 37/100)   [download]  37.0% of ~ 223.11MiB at  102.79KiB/s ETA 23:19 (frag 37/100)[download]  37.0% of ~ 223.11MiB at  205.13KiB/s ETA 11:41 (frag 37/100)[download]  37.1% of ~ 223.11MiB at  361.04KiB/s ETA 06:38 (frag 37/100)[download]  37.1% of ~ 223.11MiB at  647.11KiB/s ETA 03:42 (frag 37/100)[download]  37.2% of ~ 223.11MiB at    1.18MiB/s ETA 01:59 (frag 37/100)[download]  37.5% of ~ 223.11MiB at    2.11MiB/s ETA 01:06 (frag 37/100)[download]  37.9% of ~ 223.11MiB at    3.78MiB/s ETA 00:36 (frag 37/100)[download]  38.0% of ~ 223.11MiB at    4.14MiB/s ETA 00:33 (frag 37/100)[download]  38.0% of ~ 223.11MiB at    4.06MiB/s ETA 00:33 (frag 38/100)[download]  38.0% of ~ 222.90MiB at    1.20KiB/s ETA 32:43:11 (frag 38/100)[download]  38.0% of ~ 222.90MiB at    3.52KiB/s ETA 11:10:17 (frag 38/100)[download]  38.0% of ~ 222.90MiB at    8.13KiB/s ETA 04:49:55 (frag 38/100)[download]  38.0% of ~ 222.90MiB at   17.33KiB/s ETA 02:15:57 (frag 38/100)[download]  38.0% of ~ 222.90MiB at   35.69KiB/s ETA 01:06:01 (frag 38/100)[download]  38.1% of ~ 222.90MiB at   72.28KiB/s ETA 32:35 (frag 38/100)   [download]  38.1% of ~ 222.90MiB at  145.27KiB/s ETA 16:12 (frag 38/100)[download]  38.1% of ~ 222.90MiB at  290.74KiB/s ETA 08:05 (frag 38/100)[download]  38.3% of ~ 222.90MiB at  573.46KiB/s ETA 04:05 (frag 38/100)[download]  38.5% of ~ 222.90MiB at    1.11MiB/s ETA 02:03 (frag 38/100)[download]  38.9% of ~ 222.90MiB at    2.20MiB/s ETA 01:01 (frag 38/100)[download]  39.0% of ~ 222.90MiB at    2.44MiB/s ETA 00:55 (frag 38/100)[download]  39.0% of ~ 222.90MiB at    2.41MiB/s ETA 00:55 (frag 39/100)[download]  39.0% of ~ 222.99MiB at    3.06KiB/s ETA 12:39:22 (frag 39/100)[download]  39.0% of ~ 222.99MiB at    9.11KiB/s ETA 04:14:49 (frag 39/100)[download]  39.0% of ~ 222.99MiB at   21.13KiB/s ETA 01:49:52 (frag 39/100)[download]  39.0% of ~ 222.99MiB at   45.01KiB/s ETA 51:35 (frag 39/100)   [download]  39.0% of ~ 222.99MiB at   92.29KiB/s ETA 25:09 (frag 39/100)[download]  39.0% of ~ 222.99MiB at  186.20KiB/s ETA 12:27 (frag 39/100)[download]  39.0% of ~ 222.99MiB at  372.63KiB/s ETA 06:13 (frag 39/100)[download]  39.1% of ~ 222.99MiB at  735.98KiB/s ETA 03:08 (frag 39/100)[download]  39.2% of ~ 222.99MiB at    1.42MiB/s ETA 01:35 (frag 39/100)[download]  39.4% of ~ 222.99MiB at    2.79MiB/s ETA 00:48 (frag 39/100)[download]  39.9% of ~ 222.99MiB at    5.41MiB/s ETA 00:24 (frag 39/100)[download]  40.0% of ~ 222.99MiB at    6.07MiB/s ETA 00:22 (frag 39/100)[download]  40.0% of ~ 222.99MiB at    5.91MiB/s ETA 00:22 (frag 40/100)[download]  40.0% of ~ 223.09MiB at    2.42KiB/s ETA 15:45:12 (frag 40/100)[download]  40.0% of ~ 223.09MiB at    7.21KiB/s ETA 05:16:45 (frag 40/100)[download]  40.0% of ~ 223.09MiB at   16.75KiB/s ETA 02:16:25 (frag 40/100)[download]  40.0% of ~ 223.09MiB at   35.71KiB/s ETA 01:03:58 (frag 40/100)[download]  40.0% of ~ 223.09MiB at   73.42KiB/s ETA 31:06 (frag 40/100)   [download]  40.0% of ~ 223.09MiB at  148.36KiB/s ETA 15:23 (frag 40/100)[download]  40.0% of ~ 223.09MiB at  297.12KiB/s ETA 07:41 (frag 40/100)[download]  40.1% of ~ 223.09MiB at  588.21KiB/s ETA 03:52 (frag 40/100)[download]  40.2% of ~ 223.09MiB at    1.12MiB/s ETA 01:59 (frag 40/100)[download]  40.4% of ~ 223.09MiB at    2.20MiB/s ETA 01:00 (frag 40/100)[download]  40.9% of ~ 223.09MiB at    4.30MiB/s ETA 00:30 (frag 40/100)[download]  41.0% of ~ 223.09MiB at    4.84MiB/s ETA 00:27 (frag 40/100)[download]  41.0% of ~ 223.09MiB at    4.60MiB/s ETA 00:27 (frag 41/100)[download]  41.0% of ~ 223.11MiB at    3.03KiB/s ETA 12:21:13 (frag 41/100)[download]  41.0% of ~ 223.11MiB at    9.02KiB/s ETA 04:09:10 (frag 41/100)[download]  41.0% of ~ 223.11MiB at   20.91KiB/s ETA 01:47:27 (frag 41/100)[download]  41.0% of ~ 223.11MiB at   44.52KiB/s ETA 50:27 (frag 41/100)   [download]  41.0% of ~ 223.11MiB at   91.39KiB/s ETA 24:34 (frag 41/100)[download]  41.0% of ~ 223.11MiB at  184.40KiB/s ETA 12:10 (frag 41/100)[download]  41.1% of ~ 223.11MiB at  369.21KiB/s ETA 06:04 (frag 41/100)[download]  41.1% of ~ 223.11MiB at  729.68KiB/s ETA 03:04 (frag 41/100)[download]  41.2% of ~ 223.11MiB at    1.39MiB/s ETA 01:34 (frag 41/100)[download]  41.4% of ~ 223.11MiB at    2.70MiB/s ETA 00:48 (frag 41/100)[download]  41.9% of ~ 223.11MiB at    5.23MiB/s ETA 00:24 (frag 41/100)[download]  42.0% of ~ 223.11MiB at    5.80MiB/s ETA 00:22 (frag 41/100)[download]  42.0% of ~ 223.11MiB at    5.63MiB/s ETA 00:22 (frag 42/100)[download]  42.0% of ~ 222.97MiB at    2.70KiB/s ETA 13:37:49 (frag 42/100)[download]  42.0% of ~ 222.97MiB at    8.04KiB/s ETA 04:34:13 (frag 42/100)[download]  42.0% of ~ 222.97MiB at   18.67KiB/s ETA 01:58:10 (frag 42/100)[download]  42.0% of ~ 222.97MiB at   39.72KiB/s ETA 55:32 (frag 42/100)   [download]  42.0% of ~ 222.97MiB at   81.58KiB/s ETA 27:02 (frag 42/100)[download]  42.1% of ~ 222.97MiB at  164.71KiB/s ETA 13:23 (frag 42/100)[download]  42.1% of ~ 222.97MiB at  330.01KiB/s ETA 06:40 (frag 42/100)[download]  42.1% of ~ 222.97MiB at  657.83KiB/s ETA 03:20 (frag 42/100)[download]  42.3% of ~ 222.97MiB at    1.27MiB/s ETA 01:41 (frag 42/100)[download]  42.5% of ~ 222.97MiB at    2.49MiB/s ETA 00:51 (frag 42/100)[download]  42.9% of ~ 222.97MiB at    4.87MiB/s ETA 00:26 (frag 42/100)[download]  43.0% of ~ 222.97MiB at    5.25MiB/s ETA 00:24 (frag 42/100)[download]  43.0% of ~ 222.97MiB at    5.13MiB/s ETA 00:24 (frag 43/100)[download]  43.0% of ~ 222.85MiB at    3.11KiB/s ETA 11:36:37 (frag 43/100)[download]  43.0% of ~ 222.85MiB at    9.27KiB/s ETA 03:53:44 (frag 43/100)[download]  43.0% of ~ 222.85MiB at   21.50KiB/s ETA 01:40:47 (frag 43/100)[download]  43.0% of ~ 222.85MiB at   45.79KiB/s ETA 47:19 (frag 43/100)   [download]  43.0% of ~ 222.85MiB at   94.01KiB/s ETA 23:02 (frag 43/100)[download]  43.1% of ~ 222.85MiB at  189.26KiB/s ETA 11:26 (frag 43/100)[download]  43.1% of ~ 222.85MiB at  378.87KiB/s ETA 05:42 (frag 43/100)[download]  43.1% of ~ 222.85MiB at  739.11KiB/s ETA 02:55 (frag 43/100)[download]  43.2% of ~ 222.85MiB at    1.41MiB/s ETA 01:29 (frag 43/100)[download]  43.5% of ~ 222.85MiB at    2.77MiB/s ETA 00:45 (frag 43/100)[download]  43.9% of ~ 222.85MiB at    4.60MiB/s ETA 00:27 (frag 43/100)[download]  44.0% of ~ 222.85MiB at    4.94MiB/s ETA 00:25 (frag 43/100)[download]  44.0% of ~ 222.85MiB at    4.82MiB/s ETA 00:25 (frag 44/100)[download]  44.0% of ~ 222.83MiB at    3.08KiB/s ETA 11:30:31 (frag 44/100)[download]  44.0% of ~ 222.83MiB at    9.19KiB/s ETA 03:51:42 (frag 44/100)[download]  44.0% of ~ 222.83MiB at   21.31KiB/s ETA 01:39:55 (frag 44/100)[download]  44.0% of ~ 222.83MiB at   45.39KiB/s ETA 46:54 (frag 44/100)   [download]  44.0% of ~ 222.83MiB at   93.20KiB/s ETA 22:50 (frag 44/100)[download]  44.0% of ~ 222.83MiB at  188.01KiB/s ETA 11:19 (frag 44/100)[download]  44.1% of ~ 222.83MiB at  376.27KiB/s ETA 05:39 (frag 44/100)[download]  44.1% of ~ 222.83MiB at  743.41KiB/s ETA 02:51 (frag 44/100)[download]  44.2% of ~ 222.83MiB at    1.42MiB/s ETA 01:27 (frag 44/100)[download]  44.5% of ~ 222.83MiB at    2.78MiB/s ETA 00:44 (frag 44/100)[download]  44.9% of ~ 222.83MiB at    5.36MiB/s ETA 00:22 (frag 44/100)[download]  45.0% of ~ 222.83MiB at    5.90MiB/s ETA 00:20 (frag 44/100)[download]  45.0% of ~ 222.83MiB at    5.74MiB/s ETA 00:20 (frag 45/100)[download]  45.0% of ~ 223.04MiB at    3.60KiB/s ETA 09:42:39 (frag 45/100)[download]  45.0% of ~ 223.04MiB at   10.69KiB/s ETA 03:15:56 (frag 45/100)[download]  45.0% of ~ 223.04MiB at   24.78KiB/s ETA 01:24:32 (frag 45/100)[download]  45.0% of ~ 223.04MiB at   52.73KiB/s ETA 39:44 (frag 45/100)   [download]  45.0% of ~ 223.04MiB at  108.15KiB/s ETA 19:22 (frag 45/100)[download]  45.0% of ~ 223.04MiB at  218.00KiB/s ETA 09:36 (frag 45/100)[download]  45.0% of ~ 223.04MiB at  436.10KiB/s ETA 04:47 (frag 45/100)[download]  45.1% of ~ 223.04MiB at  859.08KiB/s ETA 02:26 (frag 45/100)[download]  45.2% of ~ 223.04MiB at    1.65MiB/s ETA 01:14 (frag 45/100)[download]  45.4% of ~ 223.04MiB at    3.24MiB/s ETA 00:37 (frag 45/100)[download]  45.9% of ~ 223.04MiB at    6.25MiB/s ETA 00:19 (frag 45/100)[download]  46.0% of ~ 223.04MiB at    7.19MiB/s ETA 00:16 (frag 45/100)[download]  46.0% of ~ 223.04MiB at    6.92MiB/s ETA 00:16 (frag 46/100)[download]  46.0% of ~ 223.14MiB at    3.60KiB/s ETA 09:31:40 (frag 46/100)[download]  46.0% of ~ 223.14MiB at   10.71KiB/s ETA 03:12:02 (frag 46/100)[download]  46.0% of ~ 223.14MiB at   24.82KiB/s ETA 01:22:53 (frag 46/100)[download]  46.0% of ~ 223.14MiB at   52.70KiB/s ETA 39:02 (frag 46/100)   [download]  46.0% of ~ 223.14MiB at  108.01KiB/s ETA 19:02 (frag 46/100)[download]  46.0% of ~ 223.14MiB at  217.68KiB/s ETA 09:26 (frag 46/100)[download]  46.0% of ~ 223.14MiB at  435.51KiB/s ETA 04:43 (frag 46/100)[download]  46.1% of ~ 223.14MiB at  771.52KiB/s ETA 02:39 (frag 46/100)[download]  46.2% of ~ 223.14MiB at    1.35MiB/s ETA 01:29 (frag 46/100)[download]  46.4% of ~ 223.14MiB at    2.38MiB/s ETA 00:50 (frag 46/100)[download]  46.9% of ~ 223.14MiB at    4.13MiB/s ETA 00:28 (frag 46/100)[download]  47.0% of ~ 223.14MiB at    4.66MiB/s ETA 00:25 (frag 46/100)[download]  47.0% of ~ 223.14MiB at    4.55MiB/s ETA 00:25 (frag 47/100)[download]  47.0% of ~ 222.98MiB at    3.52KiB/s ETA 09:32:47 (frag 47/100)[download]  47.0% of ~ 222.98MiB at   10.48KiB/s ETA 03:12:23 (frag 47/100)[download]  47.0% of ~ 222.98MiB at   24.27KiB/s ETA 01:23:01 (frag 47/100)[download]  47.0% of ~ 222.98MiB at   51.66KiB/s ETA 39:00 (frag 47/100)   [download]  47.0% of ~ 222.98MiB at  105.95KiB/s ETA 19:01 (frag 47/100)[download]  47.1% of ~ 222.98MiB at  213.16KiB/s ETA 09:27 (frag 47/100)[download]  47.1% of ~ 222.98MiB at  426.17KiB/s ETA 04:43 (frag 47/100)[download]  47.1% of ~ 222.98MiB at  847.66KiB/s ETA 02:22 (frag 47/100)[download]  47.3% of ~ 222.98MiB at    1.61MiB/s ETA 01:13 (frag 47/100)[download]  47.5% of ~ 222.98MiB at    3.16MiB/s ETA 00:37 (frag 47/100)[download]  47.9% of ~ 222.98MiB at    6.13MiB/s ETA 00:18 (frag 47/100)[download]  48.0% of ~ 222.98MiB at    6.54MiB/s ETA 00:17 (frag 47/100)[download]  48.0% of ~ 222.98MiB at    6.35MiB/s ETA 00:17 (frag 48/100)[download]  48.0% of ~ 222.78MiB at    3.60KiB/s ETA 09:08:59 (frag 48/100)[download]  48.0% of ~ 222.78MiB at   10.71KiB/s ETA 03:04:25 (frag 48/100)[download]  48.0% of ~ 222.78MiB at   24.82KiB/s ETA 01:19:36 (frag 48/100)[download]  48.0% of ~ 222.78MiB at   52.80KiB/s ETA 37:24 (frag 48/100)   [download]  48.1% of ~ 222.78MiB at  108.30KiB/s ETA 18:14 (frag 48/100)[download]  48.1% of ~ 222.78MiB at  218.25KiB/s ETA 09:02 (frag 48/100)[download]  48.1% of ~ 222.78MiB at  436.60KiB/s ETA 04:31 (frag 48/100)[download]  48.2% of ~ 222.78MiB at  867.20KiB/s ETA 02:16 (frag 48/100)[download]  48.3% of ~ 222.78MiB at    1.65MiB/s ETA 01:09 (frag 48/100)[download]  48.5% of ~ 222.78MiB at    3.23MiB/s ETA 00:35 (frag 48/100)[download]  48.9% of ~ 222.78MiB at    6.26MiB/s ETA 00:18 (frag 48/100)[download]  49.0% of ~ 222.78MiB at    6.61MiB/s ETA 00:17 (frag 48/100)[download]  49.0% of ~ 222.78MiB at    6.43MiB/s ETA 00:17 (frag 49/100)[download]  49.0% of ~ 222.91MiB at    3.37KiB/s ETA 09:35:14 (frag 49/100)[download]  49.0% of ~ 222.91MiB at   10.03KiB/s ETA 03:13:35 (frag 49/100)[download]  49.0% of ~ 222.91MiB at   23.23KiB/s ETA 01:23:33 (frag 49/100)[download]  49.0% of ~ 222.91MiB at   49.44KiB/s ETA 39:15 (frag 49/100)   [download]  49.0% of ~ 222.91MiB at  101.45KiB/s ETA 19:07 (frag 49/100)[download]  49.0% of ~ 222.91MiB at  204.60KiB/s ETA 09:28 (frag 49/100)[download]  49.0% of ~ 222.91MiB at  409.37KiB/s ETA 04:44 (frag 49/100)[download]  49.1% of ~ 222.91MiB at  805.91KiB/s ETA 02:24 (frag 49/100)[download]  49.2% of ~ 222.91MiB at    1.48MiB/s ETA 01:16 (frag 49/100)[download]  49.4% of ~ 222.91MiB at    2.87MiB/s ETA 00:39 (frag 49/100)[download]  49.9% of ~ 222.91MiB at    5.59MiB/s ETA 00:20 (frag 49/100)[download]  50.0% of ~ 222.91MiB at    6.33MiB/s ETA 00:17 (frag 49/100)[download]  50.0% of ~ 222.91MiB at    6.16MiB/s ETA 00:17 (frag 50/100)[download]  50.0% of ~ 222.89MiB at    3.32KiB/s ETA 09:33:38 (frag 50/100)[download]  50.0% of ~ 222.89MiB at    9.87KiB/s ETA 03:12:35 (frag 50/100)[download]  50.0% of ~ 222.89MiB at   22.89KiB/s ETA 01:23:04 (frag 50/100)[download]  50.0% of ~ 222.89MiB at   48.61KiB/s ETA 39:06 (frag 50/100)   [download]  50.0% of ~ 222.89MiB at   99.73KiB/s ETA 19:03 (frag 50/100)[download]  50.0% of ~ 222.89MiB at  201.16KiB/s ETA 09:26 (frag 50/100)[download]  50.1% of ~ 222.89MiB at  402.54KiB/s ETA 04:43 (frag 50/100)[download]  50.1% of ~ 222.89MiB at  793.90KiB/s ETA 02:23 (frag 50/100)[download]  50.2% of ~ 222.89MiB at    1.53MiB/s ETA 01:12 (frag 50/100)[download]  50.5% of ~ 222.89MiB at    3.00MiB/s ETA 00:36 (frag 50/100)[download]  50.9% of ~ 222.89MiB at    5.82MiB/s ETA 00:18 (frag 50/100)[download]  51.0% of ~ 222.89MiB at    6.39MiB/s ETA 00:17 (frag 50/100)[download]  51.0% of ~ 222.89MiB at    6.21MiB/s ETA 00:17 (frag 51/100)[download]  51.0% of ~ 222.91MiB at    2.49KiB/s ETA 12:28:04 (frag 51/100)[download]  51.0% of ~ 222.91MiB at    7.44KiB/s ETA 04:10:40 (frag 51/100)[download]  51.0% of ~ 222.91MiB at   17.26KiB/s ETA 01:47:59 (frag 51/100)[download]  51.0% of ~ 222.91MiB at   36.80KiB/s ETA 50:39 (frag 51/100)   [download]  51.0% of ~ 222.91MiB at   75.64KiB/s ETA 24:38 (frag 51/100)[download]  51.0% of ~ 222.91MiB at  152.44KiB/s ETA 12:13 (frag 51/100)[download]  51.1% of ~ 222.91MiB at  305.54KiB/s ETA 06:05 (frag 51/100)[download]  51.1% of ~ 222.91MiB at  609.71KiB/s ETA 03:03 (frag 51/100)[download]  51.2% of ~ 222.91MiB at    1.18MiB/s ETA 01:31 (frag 51/100)[download]  51.4% of ~ 222.91MiB at    2.34MiB/s ETA 00:46 (frag 51/100)[download]  51.9% of ~ 222.91MiB at    4.48MiB/s ETA 00:23 (frag 51/100)[download]  52.0% of ~ 222.91MiB at    4.95MiB/s ETA 00:21 (frag 51/100)[download]  52.0% of ~ 222.91MiB at    4.85MiB/s ETA 00:21 (frag 52/100)[download]  52.0% of ~ 222.88MiB at    3.56KiB/s ETA 08:33:14 (frag 52/100)[download]  52.0% of ~ 222.88MiB at   10.59KiB/s ETA 02:52:22 (frag 52/100)[download]  52.0% of ~ 222.88MiB at   24.53KiB/s ETA 01:14:24 (frag 52/100)[download]  52.0% of ~ 222.88MiB at   52.21KiB/s ETA 34:57 (frag 52/100)   [download]  52.0% of ~ 222.88MiB at  107.11KiB/s ETA 17:02 (frag 52/100)[download]  52.0% of ~ 222.88MiB at  213.51KiB/s ETA 08:32 (frag 52/100)[download]  52.1% of ~ 222.88MiB at  418.62KiB/s ETA 04:21 (frag 52/100)[download]  52.1% of ~ 222.88MiB at  808.52KiB/s ETA 02:15 (frag 52/100)[download]  52.2% of ~ 222.88MiB at    1.52MiB/s ETA 01:10 (frag 52/100)[download]  52.5% of ~ 222.88MiB at    2.90MiB/s ETA 00:36 (frag 52/100)[download]  52.9% of ~ 222.88MiB at    3.07MiB/s ETA 00:34 (frag 52/100)[download]  53.0% of ~ 222.88MiB at    3.36MiB/s ETA 00:31 (frag 52/100)[download]  53.0% of ~ 222.88MiB at    3.31MiB/s ETA 00:31 (frag 53/100)[download]  53.0% of ~ 222.82MiB at    3.34KiB/s ETA 08:55:19 (frag 53/100)[download]  53.0% of ~ 222.82MiB at    9.93KiB/s ETA 02:59:57 (frag 53/100)[download]  53.0% of ~ 222.82MiB at   23.02KiB/s ETA 01:17:36 (frag 53/100)[download]  53.0% of ~ 222.82MiB at   49.01KiB/s ETA 36:27 (frag 53/100)   [download]  53.0% of ~ 222.82MiB at  100.59KiB/s ETA 17:45 (frag 53/100)[download]  53.0% of ~ 222.82MiB at  202.82KiB/s ETA 08:48 (frag 53/100)[download]  53.1% of ~ 222.82MiB at  405.78KiB/s ETA 04:23 (frag 53/100)[download]  53.1% of ~ 222.82MiB at  807.79KiB/s ETA 02:12 (frag 53/100)[download]  53.2% of ~ 222.82MiB at    1.32MiB/s ETA 01:18 (frag 53/100)[download]  53.5% of ~ 222.82MiB at    2.46MiB/s ETA 00:42 (frag 53/100)[download]  53.9% of ~ 222.82MiB at    4.10MiB/s ETA 00:25 (frag 53/100)[download]  54.0% of ~ 222.82MiB at    4.44MiB/s ETA 00:23 (frag 53/100)[download]  54.0% of ~ 222.82MiB at    4.28MiB/s ETA 00:23 (frag 54/100)[download]  54.0% of ~ 222.82MiB at    3.09KiB/s ETA 09:25:43 (frag 54/100)[download]  54.0% of ~ 222.82MiB at    9.22KiB/s ETA 03:09:45 (frag 54/100)[download]  54.0% of ~ 222.82MiB at   21.38KiB/s ETA 01:21:47 (frag 54/100)[download]  54.0% of ~ 222.82MiB at   45.47KiB/s ETA 38:27 (frag 54/100)   [download]  54.0% of ~ 222.82MiB at   93.34KiB/s ETA 18:44 (frag 54/100)[download]  54.0% of ~ 222.82MiB at  188.31KiB/s ETA 09:17 (frag 54/100)[download]  54.1% of ~ 222.82MiB at  376.95KiB/s ETA 04:38 (frag 54/100)[download]  54.1% of ~ 222.82MiB at  751.16KiB/s ETA 02:19 (frag 54/100)[download]  54.2% of ~ 222.82MiB at    1.46MiB/s ETA 01:10 (frag 54/100)[download]  54.4% of ~ 222.82MiB at    2.87MiB/s ETA 00:35 (frag 54/100)[download]  54.9% of ~ 222.82MiB at    5.55MiB/s ETA 00:18 (frag 54/100)[download]  55.0% of ~ 222.82MiB at    6.12MiB/s ETA 00:16 (frag 54/100)[download]  55.0% of ~ 222.82MiB at    5.96MiB/s ETA 00:16 (frag 55/100)[download]  55.0% of ~ 222.87MiB at    244.54B/s ETA --:--:-- (frag 55/100)[download]  55.0% of ~ 222.87MiB at    366.64B/s ETA 79:41:56 (frag 55/100)[download]  55.0% of ~ 222.87MiB at    610.81B/s ETA 47:50:21 (frag 55/100)[download]  55.0% of ~ 222.87MiB at    1.07KiB/s ETA 26:35:20 (frag 55/100)[download]  55.0% of ~ 222.87MiB at    2.03KiB/s ETA 14:04:56 (frag 55/100)[download]  55.0% of ~ 222.87MiB at    3.93KiB/s ETA 07:15:30 (frag 55/100)[download]  55.0% of ~ 222.87MiB at    7.74KiB/s ETA 03:41:11 (frag 55/100)[download]  55.0% of ~ 222.87MiB at   15.35KiB/s ETA 01:51:28 (frag 55/100)[download]  55.0% of ~ 222.87MiB at   30.56KiB/s ETA 55:57 (frag 55/100)   [download]  55.1% of ~ 222.87MiB at   60.97KiB/s ETA 28:00 (frag 55/100)[download]  55.2% of ~ 222.87MiB at  121.67KiB/s ETA 14:00 (frag 55/100)[download]  55.4% of ~ 222.87MiB at  242.96KiB/s ETA 06:58 (frag 55/100)[download]  55.9% of ~ 222.87MiB at  484.73KiB/s ETA 03:27 (frag 55/100)[download]  56.0% of ~ 222.87MiB at  546.92KiB/s ETA 03:03 (frag 55/100)[download]  56.0% of ~ 222.87MiB at  545.58KiB/s ETA 03:03 (frag 56/100)[download]  56.0% of ~ 222.90MiB at    3.69KiB/s ETA 07:33:59 (frag 56/100)[download]  56.0% of ~ 222.90MiB at   10.98KiB/s ETA 02:32:25 (frag 56/100)[download]  56.0% of ~ 222.90MiB at   25.45KiB/s ETA 01:05:46 (frag 56/100)[download]  56.0% of ~ 222.90MiB at   54.16KiB/s ETA 30:54 (frag 56/100)   [download]  56.0% of ~ 222.90MiB at  111.09KiB/s ETA 15:03 (frag 56/100)[download]  56.0% of ~ 222.90MiB at  223.14KiB/s ETA 07:29 (frag 56/100)[download]  56.0% of ~ 222.90MiB at  425.54KiB/s ETA 03:55 (frag 56/100)[download]  56.1% of ~ 222.90MiB at  703.41KiB/s ETA 02:22 (frag 56/100)[download]  56.2% of ~ 222.90MiB at    1.19MiB/s ETA 01:22 (frag 56/100)[download]  56.4% of ~ 222.90MiB at    2.07MiB/s ETA 00:46 (frag 56/100)[download]  56.9% of ~ 222.90MiB at    3.77MiB/s ETA 00:25 (frag 56/100)[download]  57.0% of ~ 222.90MiB at    3.99MiB/s ETA 00:24 (frag 56/100)[download]  57.0% of ~ 222.90MiB at    3.90MiB/s ETA 00:24 (frag 57/100)[download]  57.0% of ~ 222.90MiB at    3.44KiB/s ETA 07:55:52 (frag 57/100)[download]  57.0% of ~ 222.90MiB at   10.24KiB/s ETA 02:39:47 (frag 57/100)[download]  57.0% of ~ 222.90MiB at   23.73KiB/s ETA 01:08:56 (frag 57/100)[download]  57.0% of ~ 222.90MiB at   50.50KiB/s ETA 32:23 (frag 57/100)   [download]  57.0% of ~ 222.90MiB at  103.59KiB/s ETA 15:47 (frag 57/100)[download]  57.0% of ~ 222.90MiB at  208.82KiB/s ETA 07:49 (frag 57/100)[download]  57.1% of ~ 222.90MiB at  417.92KiB/s ETA 03:54 (frag 57/100)[download]  57.1% of ~ 222.90MiB at  830.84KiB/s ETA 01:57 (frag 57/100)[download]  57.2% of ~ 222.90MiB at    1.61MiB/s ETA 00:59 (frag 57/100)[download]  57.4% of ~ 222.90MiB at    3.17MiB/s ETA 00:29 (frag 57/100)[download]  57.9% of ~ 222.90MiB at    6.15MiB/s ETA 00:15 (frag 57/100)[download]  58.0% of ~ 222.90MiB at    6.80MiB/s ETA 00:13 (frag 57/100)[download]  58.0% of ~ 222.90MiB at    6.60MiB/s ETA 00:13 (frag 58/100)[download]  58.0% of ~ 222.82MiB at    3.40KiB/s ETA 07:49:38 (frag 58/100)[download]  58.0% of ~ 222.82MiB at   10.09KiB/s ETA 02:38:13 (frag 58/100)[download]  58.0% of ~ 222.82MiB at   23.38KiB/s ETA 01:08:16 (frag 58/100)[download]  58.0% of ~ 222.82MiB at   49.76KiB/s ETA 32:04 (frag 58/100)   [download]  58.0% of ~ 222.82MiB at  102.11KiB/s ETA 15:37 (frag 58/100)[download]  58.0% of ~ 222.82MiB at  204.57KiB/s ETA 07:47 (frag 58/100)[download]  58.1% of ~ 222.82MiB at  409.13KiB/s ETA 03:53 (frag 58/100)[download]  58.1% of ~ 222.82MiB at  815.11KiB/s ETA 01:57 (frag 58/100)[download]  58.2% of ~ 222.82MiB at    1.58MiB/s ETA 00:58 (frag 58/100)[download]  58.5% of ~ 222.82MiB at    3.11MiB/s ETA 00:29 (frag 58/100)[download]  58.9% of ~ 222.82MiB at    6.04MiB/s ETA 00:15 (frag 58/100)[download]  59.0% of ~ 222.82MiB at    6.53MiB/s ETA 00:13 (frag 58/100)[download]  59.0% of ~ 222.82MiB at    6.29MiB/s ETA 00:13 (frag 59/100)[download]  59.0% of ~ 222.82MiB at    2.02KiB/s ETA 12:52:24 (frag 59/100)[download]  59.0% of ~ 222.82MiB at    6.03KiB/s ETA 04:18:33 (frag 59/100)[download]  59.0% of ~ 222.82MiB at   14.01KiB/s ETA 01:51:15 (frag 59/100)[download]  59.0% of ~ 222.82MiB at   29.88KiB/s ETA 52:10 (frag 59/100)   [download]  59.0% of ~ 222.82MiB at   61.50KiB/s ETA 25:20 (frag 59/100)[download]  59.0% of ~ 222.82MiB at  124.42KiB/s ETA 12:31 (frag 59/100)[download]  59.1% of ~ 222.82MiB at  249.74KiB/s ETA 06:14 (frag 59/100)[download]  59.1% of ~ 222.82MiB at  448.60KiB/s ETA 03:27 (frag 59/100)[download]  59.2% of ~ 222.82MiB at  814.74KiB/s ETA 01:54 (frag 59/100)[download]  59.4% of ~ 222.82MiB at    1.49MiB/s ETA 01:00 (frag 59/100)[download]  59.9% of ~ 222.82MiB at    2.70MiB/s ETA 00:33 (frag 59/100)[download]  60.0% of ~ 222.82MiB at    2.98MiB/s ETA 00:29 (frag 59/100)[download]  60.0% of ~ 222.82MiB at    2.94MiB/s ETA 00:29 (frag 60/100)[download]  60.0% of ~ 222.80MiB at    3.28KiB/s ETA 07:43:33 (frag 60/100)[download]  60.0% of ~ 222.80MiB at    9.78KiB/s ETA 02:35:33 (frag 60/100)[download]  60.0% of ~ 222.80MiB at   22.65KiB/s ETA 01:07:07 (frag 60/100)[download]  60.0% of ~ 222.80MiB at   48.22KiB/s ETA 31:32 (frag 60/100)   [download]  60.0% of ~ 222.80MiB at   98.95KiB/s ETA 15:21 (frag 60/100)[download]  60.0% of ~ 222.80MiB at  199.32KiB/s ETA 07:37 (frag 60/100)[download]  60.1% of ~ 222.80MiB at  399.08KiB/s ETA 03:48 (frag 60/100)[download]  60.1% of ~ 222.80MiB at  795.36KiB/s ETA 01:54 (frag 60/100)[download]  60.2% of ~ 222.80MiB at    1.54MiB/s ETA 00:57 (frag 60/100)[download]  60.5% of ~ 222.80MiB at    3.04MiB/s ETA 00:29 (frag 60/100)[download]  60.9% of ~ 222.80MiB at    5.91MiB/s ETA 00:14 (frag 60/100)[download]  61.0% of ~ 222.80MiB at    6.49MiB/s ETA 00:13 (frag 60/100)[download]  61.0% of ~ 222.80MiB at    6.23MiB/s ETA 00:13 (frag 61/100)[download]  61.0% of ~ 222.83MiB at    3.66KiB/s ETA 06:45:02 (frag 61/100)[download]  61.0% of ~ 222.83MiB at   10.91KiB/s ETA 02:15:59 (frag 61/100)[download]  61.0% of ~ 222.83MiB at   25.28KiB/s ETA 58:40 (frag 61/100)   [download]  61.0% of ~ 222.83MiB at   53.77KiB/s ETA 27:35 (frag 61/100)[download]  61.0% of ~ 222.83MiB at  110.30KiB/s ETA 13:26 (frag 61/100)[download]  61.0% of ~ 222.83MiB at  222.27KiB/s ETA 06:40 (frag 61/100)[download]  61.0% of ~ 222.83MiB at  444.64KiB/s ETA 03:19 (frag 61/100)[download]  61.1% of ~ 222.83MiB at  882.83KiB/s ETA 01:40 (frag 61/100)[download]  61.2% of ~ 222.83MiB at    1.70MiB/s ETA 00:50 (frag 61/100)[download]  61.4% of ~ 222.83MiB at    3.35MiB/s ETA 00:25 (frag 61/100)[download]  61.9% of ~ 222.83MiB at    6.40MiB/s ETA 00:13 (frag 61/100)[download]  62.0% of ~ 222.83MiB at    7.03MiB/s ETA 00:12 (frag 61/100)[download]  62.0% of ~ 222.83MiB at    6.75MiB/s ETA 00:12 (frag 62/100)[download]  62.0% of ~ 222.75MiB at    3.49KiB/s ETA 06:53:39 (frag 62/100)[download]  62.0% of ~ 222.75MiB at   10.38KiB/s ETA 02:19:07 (frag 62/100)[download]  62.0% of ~ 222.75MiB at   24.06KiB/s ETA 01:00:00 (frag 62/100)[download]  62.0% of ~ 222.75MiB at   51.22KiB/s ETA 28:11 (frag 62/100)   [download]  62.0% of ~ 222.75MiB at  105.13KiB/s ETA 13:43 (frag 62/100)[download]  62.0% of ~ 222.75MiB at  212.02KiB/s ETA 06:48 (frag 62/100)[download]  62.1% of ~ 222.75MiB at  424.25KiB/s ETA 03:23 (frag 62/100)[download]  62.1% of ~ 222.75MiB at  820.17KiB/s ETA 01:45 (frag 62/100)[download]  62.2% of ~ 222.75MiB at    1.58MiB/s ETA 00:53 (frag 62/100)[download]  62.5% of ~ 222.75MiB at    3.10MiB/s ETA 00:26 (frag 62/100)[download]  62.9% of ~ 222.75MiB at    6.04MiB/s ETA 00:13 (frag 62/100)[download]  63.0% of ~ 222.75MiB at    6.51MiB/s ETA 00:12 (frag 62/100)[download]  63.0% of ~ 222.75MiB at    6.32MiB/s ETA 00:12 (frag 63/100)[download]  63.0% of ~ 222.88MiB at    2.55KiB/s ETA 09:11:35 (frag 63/100)[download]  63.0% of ~ 222.88MiB at    7.62KiB/s ETA 03:04:49 (frag 63/100)[download]  63.0% of ~ 222.88MiB at   17.70KiB/s ETA 01:19:36 (frag 63/100)[download]  63.0% of ~ 222.88MiB at   37.68KiB/s ETA 37:23 (frag 63/100)   [download]  63.0% of ~ 222.88MiB at   77.43KiB/s ETA 18:11 (frag 63/100)[download]  63.0% of ~ 222.88MiB at  156.42KiB/s ETA 09:00 (frag 63/100)[download]  63.0% of ~ 222.88MiB at  313.53KiB/s ETA 04:29 (frag 63/100)[download]  63.1% of ~ 222.88MiB at  625.46KiB/s ETA 02:14 (frag 63/100)[download]  63.2% of ~ 222.88MiB at    1.21MiB/s ETA 01:07 (frag 63/100)[download]  63.4% of ~ 222.88MiB at    2.40MiB/s ETA 00:33 (frag 63/100)[download]  63.9% of ~ 222.88MiB at    4.70MiB/s ETA 00:17 (frag 63/100)[download]  64.0% of ~ 222.88MiB at    5.38MiB/s ETA 00:14 (frag 63/100)[download]  64.0% of ~ 222.88MiB at    5.26MiB/s ETA 00:14 (frag 64/100)[download]  64.0% of ~ 222.82MiB at    3.50KiB/s ETA 06:31:20 (frag 64/100)[download]  64.0% of ~ 222.82MiB at   10.42KiB/s ETA 02:11:20 (frag 64/100)[download]  64.0% of ~ 222.82MiB at   24.15KiB/s ETA 56:39 (frag 64/100)   [download]  64.0% of ~ 222.82MiB at   51.41KiB/s ETA 26:36 (frag 64/100)[download]  64.0% of ~ 222.82MiB at  105.48KiB/s ETA 12:58 (frag 64/100)[download]  64.0% of ~ 222.82MiB at  212.26KiB/s ETA 06:26 (frag 64/100)[download]  64.1% of ~ 222.82MiB at  424.42KiB/s ETA 03:13 (frag 64/100)[download]  64.1% of ~ 222.82MiB at  844.91KiB/s ETA 01:36 (frag 64/100)[download]  64.2% of ~ 222.82MiB at    1.64MiB/s ETA 00:48 (frag 64/100)[download]  64.5% of ~ 222.82MiB at    3.22MiB/s ETA 00:24 (frag 64/100)[download]  64.9% of ~ 222.82MiB at    6.21MiB/s ETA 00:12 (frag 64/100)[download]  65.0% of ~ 222.82MiB at    6.74MiB/s ETA 00:11 (frag 64/100)[download]  65.0% of ~ 222.82MiB at    6.54MiB/s ETA 00:11 (frag 65/100)[download]  65.0% of ~ 222.75MiB at    2.86KiB/s ETA 07:45:05 (frag 65/100)[download]  65.0% of ~ 222.75MiB at    8.53KiB/s ETA 02:35:56 (frag 65/100)[download]  65.0% of ~ 222.75MiB at   19.79KiB/s ETA 01:07:11 (frag 65/100)[download]  65.0% of ~ 222.75MiB at   42.16KiB/s ETA 31:32 (frag 65/100)   [download]  65.0% of ~ 222.75MiB at   86.61KiB/s ETA 15:20 (frag 65/100)[download]  65.0% of ~ 222.75MiB at  174.87KiB/s ETA 07:35 (frag 65/100)[download]  65.1% of ~ 222.75MiB at  350.48KiB/s ETA 03:47 (frag 65/100)[download]  65.1% of ~ 222.75MiB at  674.15KiB/s ETA 01:57 (frag 65/100)[download]  65.2% of ~ 222.75MiB at    1.15MiB/s ETA 01:07 (frag 65/100)[download]  65.5% of ~ 222.75MiB at    2.01MiB/s ETA 00:38 (frag 65/100)[download]  65.9% of ~ 222.75MiB at    3.55MiB/s ETA 00:21 (frag 65/100)[download]  66.0% of ~ 222.75MiB at    3.80MiB/s ETA 00:19 (frag 65/100)[download]  66.0% of ~ 222.75MiB at    3.74MiB/s ETA 00:19 (frag 66/100)[download]  66.0% of ~ 222.85MiB at    3.68KiB/s ETA 05:51:27 (frag 66/100)[download]  66.0% of ~ 222.85MiB at   10.97KiB/s ETA 01:57:59 (frag 66/100)[download]  66.0% of ~ 222.85MiB at   25.35KiB/s ETA 51:02 (frag 66/100)   [download]  66.0% of ~ 222.85MiB at   53.93KiB/s ETA 23:59 (frag 66/100)[download]  66.0% of ~ 222.85MiB at  110.60KiB/s ETA 11:41 (frag 66/100)[download]  66.0% of ~ 222.85MiB at  222.87KiB/s ETA 05:48 (frag 66/100)[download]  66.0% of ~ 222.85MiB at  439.06KiB/s ETA 02:56 (frag 66/100)[download]  66.1% of ~ 222.85MiB at  838.86KiB/s ETA 01:32 (frag 66/100)[download]  66.2% of ~ 222.85MiB at    1.36MiB/s ETA 00:55 (frag 66/100)[download]  66.4% of ~ 222.85MiB at    2.32MiB/s ETA 00:32 (frag 66/100)[download]  66.9% of ~ 222.85MiB at    4.02MiB/s ETA 00:18 (frag 66/100)[download]  67.0% of ~ 222.85MiB at    4.53MiB/s ETA 00:16 (frag 66/100)[download]  67.0% of ~ 222.85MiB at    4.44MiB/s ETA 00:16 (frag 67/100)[download]  67.0% of ~ 222.84MiB at    251.20B/s ETA 85:15:43 (frag 67/100)[download]  67.0% of ~ 222.84MiB at    376.62B/s ETA 56:52:07 (frag 67/100)[download]  67.0% of ~ 222.84MiB at    627.43B/s ETA 34:08:07 (frag 67/100)[download]  67.0% of ~ 222.84MiB at    1.10KiB/s ETA 18:58:19 (frag 67/100)[download]  67.0% of ~ 222.84MiB at    2.08KiB/s ETA 10:02:58 (frag 67/100)[download]  67.0% of ~ 222.84MiB at    4.04KiB/s ETA 05:10:44 (frag 67/100)[download]  67.0% of ~ 222.84MiB at    7.95KiB/s ETA 02:37:48 (frag 67/100)[download]  67.0% of ~ 222.84MiB at   15.77KiB/s ETA 01:19:31 (frag 67/100)[download]  67.1% of ~ 222.84MiB at   31.40KiB/s ETA 39:54 (frag 67/100)   [download]  67.1% of ~ 222.84MiB at   62.63KiB/s ETA 19:58 (frag 67/100)[download]  67.2% of ~ 222.84MiB at  124.97KiB/s ETA 09:58 (frag 67/100)[download]  67.5% of ~ 222.84MiB at  249.45KiB/s ETA 04:57 (frag 67/100)[download]  67.9% of ~ 222.84MiB at  497.72KiB/s ETA 02:27 (frag 67/100)[download]  68.0% of ~ 222.84MiB at  552.92KiB/s ETA 02:12 (frag 67/100)[download]  68.0% of ~ 222.84MiB at  551.37KiB/s ETA 02:12 (frag 68/100)[download]  68.0% of ~ 222.77MiB at    1.93KiB/s ETA 10:29:26 (frag 68/100)[download]  68.0% of ~ 222.77MiB at    5.77KiB/s ETA 03:30:38 (frag 68/100)[download]  68.0% of ~ 222.77MiB at   13.42KiB/s ETA 01:30:36 (frag 68/100)[download]  68.0% of ~ 222.77MiB at   28.65KiB/s ETA 42:25 (frag 68/100)   [download]  68.0% of ~ 222.77MiB at   58.92KiB/s ETA 20:37 (frag 68/100)[download]  68.1% of ~ 222.77MiB at  119.21KiB/s ETA 10:11 (frag 68/100)[download]  68.1% of ~ 222.77MiB at  239.26KiB/s ETA 05:04 (frag 68/100)[download]  68.1% of ~ 222.77MiB at  478.10KiB/s ETA 02:32 (frag 68/100)[download]  68.2% of ~ 222.77MiB at  952.31KiB/s ETA 01:16 (frag 68/100)[download]  68.5% of ~ 222.77MiB at    1.82MiB/s ETA 00:38 (frag 68/100)[download]  68.9% of ~ 222.77MiB at    3.48MiB/s ETA 00:19 (frag 68/100)[download]  69.0% of ~ 222.77MiB at    3.76MiB/s ETA 00:18 (frag 68/100)[download]  69.0% of ~ 222.77MiB at    3.70MiB/s ETA 00:18 (frag 69/100)[download]  69.0% of ~ 222.79MiB at    2.80KiB/s ETA 07:01:23 (frag 69/100)[download]  69.0% of ~ 222.79MiB at    8.35KiB/s ETA 02:21:14 (frag 69/100)[download]  69.0% of ~ 222.79MiB at   19.37KiB/s ETA 01:00:50 (frag 69/100)[download]  69.0% of ~ 222.79MiB at   41.30KiB/s ETA 28:32 (frag 69/100)   [download]  69.0% of ~ 222.79MiB at   84.89KiB/s ETA 13:52 (frag 69/100)[download]  69.0% of ~ 222.79MiB at  171.43KiB/s ETA 06:52 (frag 69/100)[download]  69.0% of ~ 222.79MiB at  343.01KiB/s ETA 03:25 (frag 69/100)[download]  69.1% of ~ 222.79MiB at  683.80KiB/s ETA 01:43 (frag 69/100)[download]  69.2% of ~ 222.79MiB at    1.32MiB/s ETA 00:51 (frag 69/100)[download]  69.4% of ~ 222.79MiB at    2.62MiB/s ETA 00:26 (frag 69/100)[download]  69.9% of ~ 222.79MiB at    5.11MiB/s ETA 00:13 (frag 69/100)[download]  70.0% of ~ 222.79MiB at    5.69MiB/s ETA 00:11 (frag 69/100)[download]  70.0% of ~ 222.79MiB at    5.54MiB/s ETA 00:11 (frag 70/100)[download]  70.0% of ~ 222.75MiB at    3.04KiB/s ETA 06:15:00 (frag 70/100)[download]  70.0% of ~ 222.75MiB at    9.06KiB/s ETA 02:05:46 (frag 70/100)[download]  70.0% of ~ 222.75MiB at   21.03KiB/s ETA 54:12 (frag 70/100)   [download]  70.0% of ~ 222.75MiB at   44.79KiB/s ETA 25:26 (frag 70/100)[download]  70.0% of ~ 222.75MiB at   91.98KiB/s ETA 12:23 (frag 70/100)[download]  70.0% of ~ 222.75MiB at  185.64KiB/s ETA 06:08 (frag 70/100)[download]  70.1% of ~ 222.75MiB at  371.84KiB/s ETA 03:03 (frag 70/100)[download]  70.1% of ~ 222.75MiB at  741.24KiB/s ETA 01:31 (frag 70/100)[download]  70.2% of ~ 222.75MiB at    1.43MiB/s ETA 00:46 (frag 70/100)[download]  70.5% of ~ 222.75MiB at    2.82MiB/s ETA 00:23 (frag 70/100)[download]  70.9% of ~ 222.75MiB at    5.40MiB/s ETA 00:11 (frag 70/100)[download]  71.0% of ~ 222.75MiB at    5.83MiB/s ETA 00:11 (frag 70/100)[download]  71.0% of ~ 222.75MiB at    5.68MiB/s ETA 00:11 (frag 71/100)[download]  71.0% of ~ 222.71MiB at    3.49KiB/s ETA 05:16:00 (frag 71/100)[download]  71.0% of ~ 222.71MiB at   10.38KiB/s ETA 01:46:06 (frag 71/100)[download]  71.0% of ~ 222.71MiB at   24.03KiB/s ETA 45:51 (frag 71/100)   [download]  71.0% of ~ 222.71MiB at   51.11KiB/s ETA 21:33 (frag 71/100)[download]  71.0% of ~ 222.71MiB at  104.88KiB/s ETA 10:30 (frag 71/100)[download]  71.0% of ~ 222.71MiB at  211.48KiB/s ETA 05:12 (frag 71/100)[download]  71.1% of ~ 222.71MiB at  423.20KiB/s ETA 02:35 (frag 71/100)[download]  71.1% of ~ 222.71MiB at  842.78KiB/s ETA 01:18 (frag 71/100)[download]  71.2% of ~ 222.71MiB at    1.63MiB/s ETA 00:39 (frag 71/100)[download]  71.5% of ~ 222.71MiB at    3.22MiB/s ETA 00:19 (frag 71/100)[download]  71.9% of ~ 222.71MiB at    6.25MiB/s ETA 00:10 (frag 71/100)[download]  72.0% of ~ 222.71MiB at    6.80MiB/s ETA 00:09 (frag 71/100)[download]  72.0% of ~ 222.71MiB at    6.34MiB/s ETA 00:09 (frag 72/100)[download]  72.0% of ~ 222.84MiB at    3.33KiB/s ETA 05:20:36 (frag 72/100)[download]  72.0% of ~ 222.84MiB at    9.91KiB/s ETA 01:47:37 (frag 72/100)[download]  72.0% of ~ 222.84MiB at   22.97KiB/s ETA 46:25 (frag 72/100)   [download]  72.0% of ~ 222.84MiB at   48.89KiB/s ETA 21:48 (frag 72/100)[download]  72.0% of ~ 222.84MiB at  100.14KiB/s ETA 10:38 (frag 72/100)[download]  72.0% of ~ 222.84MiB at  201.90KiB/s ETA 05:16 (frag 72/100)[download]  72.0% of ~ 222.84MiB at  404.11KiB/s ETA 02:38 (frag 72/100)[download]  72.1% of ~ 222.84MiB at  804.99KiB/s ETA 01:19 (frag 72/100)[download]  72.2% of ~ 222.84MiB at    1.55MiB/s ETA 00:39 (frag 72/100)[download]  72.4% of ~ 222.84MiB at    3.07MiB/s ETA 00:20 (frag 72/100)[download]  72.9% of ~ 222.84MiB at    5.96MiB/s ETA 00:10 (frag 72/100)[download]  73.0% of ~ 222.84MiB at    6.84MiB/s ETA 00:08 (frag 72/100)[download]  73.0% of ~ 222.84MiB at    6.63MiB/s ETA 00:08 (frag 73/100)[download]  73.1% of ~ 222.67MiB at    2.77KiB/s ETA 06:09:05 (frag 73/100)[download]  73.1% of ~ 222.67MiB at    8.28KiB/s ETA 02:03:43 (frag 73/100)[download]  73.1% of ~ 222.67MiB at   19.21KiB/s ETA 53:18 (frag 73/100)   [download]  73.1% of ~ 222.67MiB at   40.93KiB/s ETA 25:00 (frag 73/100)[download]  73.1% of ~ 222.67MiB at   84.11KiB/s ETA 12:10 (frag 73/100)[download]  73.1% of ~ 222.67MiB at  169.90KiB/s ETA 06:01 (frag 73/100)[download]  73.1% of ~ 222.67MiB at  340.16KiB/s ETA 03:00 (frag 73/100)[download]  73.2% of ~ 222.67MiB at  678.77KiB/s ETA 01:30 (frag 73/100)[download]  73.3% of ~ 222.67MiB at    1.31MiB/s ETA 00:45 (frag 73/100)[download]  73.5% of ~ 222.67MiB at    2.60MiB/s ETA 00:22 (frag 73/100)[download]  74.0% of ~ 222.67MiB at    4.97MiB/s ETA 00:11 (frag 73/100)[download]  74.0% of ~ 222.67MiB at    5.20MiB/s ETA 00:11 (frag 73/100)[download]  74.0% of ~ 222.67MiB at    4.99MiB/s ETA 00:11 (frag 74/100)[download]  74.0% of ~ 222.67MiB at    3.22KiB/s ETA 05:06:58 (frag 74/100)[download]  74.0% of ~ 222.67MiB at    9.58KiB/s ETA 01:43:08 (frag 74/100)[download]  74.0% of ~ 222.67MiB at   22.21KiB/s ETA 44:28 (frag 74/100)   [download]  74.0% of ~ 222.67MiB at   47.30KiB/s ETA 20:53 (frag 74/100)[download]  74.0% of ~ 222.67MiB at   97.08KiB/s ETA 10:10 (frag 74/100)[download]  74.0% of ~ 222.67MiB at  195.82KiB/s ETA 05:02 (frag 74/100)[download]  74.1% of ~ 222.67MiB at  391.92KiB/s ETA 02:30 (frag 74/100)[download]  74.1% of ~ 222.67MiB at  781.15KiB/s ETA 01:15 (frag 74/100)[download]  74.2% of ~ 222.67MiB at    1.51MiB/s ETA 00:38 (frag 74/100)[download]  74.4% of ~ 222.67MiB at    2.98MiB/s ETA 00:19 (frag 74/100)[download]  74.9% of ~ 222.67MiB at    5.80MiB/s ETA 00:09 (frag 74/100)[download]  75.0% of ~ 222.67MiB at    6.41MiB/s ETA 00:08 (frag 74/100)[download]  75.0% of ~ 222.67MiB at    6.23MiB/s ETA 00:08 (frag 75/100)[download]  75.0% of ~ 222.68MiB at    3.12KiB/s ETA 05:04:03 (frag 75/100)[download]  75.0% of ~ 222.68MiB at    9.32KiB/s ETA 01:41:57 (frag 75/100)[download]  75.0% of ~ 222.68MiB at   21.62KiB/s ETA 43:56 (frag 75/100)   [download]  75.0% of ~ 222.68MiB at   46.00KiB/s ETA 20:38 (frag 75/100)[download]  75.0% of ~ 222.68MiB at   93.88KiB/s ETA 10:06 (frag 75/100)[download]  75.0% of ~ 222.68MiB at  184.67KiB/s ETA 05:08 (frag 75/100)[download]  75.1% of ~ 222.68MiB at  318.39KiB/s ETA 02:58 (frag 75/100)[download]  75.1% of ~ 222.68MiB at  559.34KiB/s ETA 01:41 (frag 75/100)[download]  75.2% of ~ 222.68MiB at    1.01MiB/s ETA 00:54 (frag 75/100)[download]  75.4% of ~ 222.68MiB at    1.79MiB/s ETA 00:30 (frag 75/100)[download]  75.9% of ~ 222.68MiB at    3.21MiB/s ETA 00:16 (frag 75/100)[download]  76.0% of ~ 222.68MiB at    3.54MiB/s ETA 00:15 (frag 75/100)[download]  76.0% of ~ 222.68MiB at    3.49MiB/s ETA 00:15 (frag 76/100)[download]  76.0% of ~ 222.64MiB at    3.15KiB/s ETA 04:49:38 (frag 76/100)[download]  76.0% of ~ 222.64MiB at    9.38KiB/s ETA 01:37:10 (frag 76/100)[download]  76.0% of ~ 222.64MiB at   21.76KiB/s ETA 41:53 (frag 76/100)   [download]  76.0% of ~ 222.64MiB at   46.35KiB/s ETA 19:39 (frag 76/100)[download]  76.0% of ~ 222.64MiB at   95.21KiB/s ETA 09:34 (frag 76/100)[download]  76.0% of ~ 222.64MiB at  191.88KiB/s ETA 04:44 (frag 76/100)[download]  76.1% of ~ 222.64MiB at  384.41KiB/s ETA 02:21 (frag 76/100)[download]  76.1% of ~ 222.64MiB at  763.07KiB/s ETA 01:11 (frag 76/100)[download]  76.2% of ~ 222.64MiB at    1.43MiB/s ETA 00:36 (frag 76/100)[download]  76.5% of ~ 222.64MiB at    2.78MiB/s ETA 00:18 (frag 76/100)[download]  76.9% of ~ 222.64MiB at    4.99MiB/s ETA 00:10 (frag 76/100)[download]  77.0% of ~ 222.64MiB at    5.41MiB/s ETA 00:09 (frag 76/100)[download]  77.0% of ~ 222.64MiB at    5.28MiB/s ETA 00:09 (frag 77/100)[download]  77.0% of ~ 222.67MiB at    3.19KiB/s ETA 04:34:24 (frag 77/100)[download]  77.0% of ~ 222.67MiB at    9.50KiB/s ETA 01:32:04 (frag 77/100)[download]  77.0% of ~ 222.67MiB at   22.02KiB/s ETA 39:42 (frag 77/100)   [download]  77.0% of ~ 222.67MiB at   46.90KiB/s ETA 18:38 (frag 77/100)[download]  77.0% of ~ 222.67MiB at   96.31KiB/s ETA 09:04 (frag 77/100)[download]  77.0% of ~ 222.67MiB at  194.29KiB/s ETA 04:29 (frag 77/100)[download]  77.0% of ~ 222.67MiB at  389.11KiB/s ETA 02:14 (frag 77/100)[download]  77.1% of ~ 222.67MiB at  774.03KiB/s ETA 01:07 (frag 77/100)[download]  77.2% of ~ 222.67MiB at    1.50MiB/s ETA 00:33 (frag 77/100)[download]  77.4% of ~ 222.67MiB at    2.95MiB/s ETA 00:17 (frag 77/100)[download]  77.9% of ~ 222.67MiB at    5.75MiB/s ETA 00:08 (frag 77/100)[download]  78.0% of ~ 222.67MiB at    6.42MiB/s ETA 00:07 (frag 77/100)[download]  78.0% of ~ 222.67MiB at    6.25MiB/s ETA 00:07 (frag 78/100)[download]  78.0% of ~ 222.71MiB at    2.87KiB/s ETA 04:51:00 (frag 78/100)[download]  78.0% of ~ 222.71MiB at    8.56KiB/s ETA 01:37:42 (frag 78/100)[download]  78.0% of ~ 222.71MiB at   19.87KiB/s ETA 42:05 (frag 78/100)   [download]  78.0% of ~ 222.71MiB at   42.37KiB/s ETA 19:44 (frag 78/100)[download]  78.0% of ~ 222.71MiB at   87.08KiB/s ETA 09:36 (frag 78/100)[download]  78.0% of ~ 222.71MiB at  174.61KiB/s ETA 04:47 (frag 78/100)[download]  78.0% of ~ 222.71MiB at  349.75KiB/s ETA 02:23 (frag 78/100)[download]  78.1% of ~ 222.71MiB at  690.37KiB/s ETA 01:12 (frag 78/100)[download]  78.2% of ~ 222.71MiB at    1.34MiB/s ETA 00:36 (frag 78/100)[download]  78.4% of ~ 222.71MiB at    2.56MiB/s ETA 00:18 (frag 78/100)[download]  78.9% of ~ 222.71MiB at    4.60MiB/s ETA 00:10 (frag 78/100)[download]  79.0% of ~ 222.71MiB at    5.04MiB/s ETA 00:09 (frag 78/100)[download]  79.0% of ~ 222.71MiB at    4.93MiB/s ETA 00:09 (frag 79/100)[download]  79.0% of ~ 222.62MiB at    2.73KiB/s ETA 04:51:32 (frag 79/100)[download]  79.0% of ~ 222.62MiB at    8.15KiB/s ETA 01:37:42 (frag 79/100)[download]  79.0% of ~ 222.62MiB at   18.93KiB/s ETA 42:05 (frag 79/100)   [download]  79.0% of ~ 222.62MiB at   40.30KiB/s ETA 19:45 (frag 79/100)[download]  79.0% of ~ 222.62MiB at   82.84KiB/s ETA 09:36 (frag 79/100)[download]  79.1% of ~ 222.62MiB at  167.33KiB/s ETA 04:45 (frag 79/100)[download]  79.1% of ~ 222.62MiB at  335.42KiB/s ETA 02:22 (frag 79/100)[download]  79.1% of ~ 222.62MiB at  668.96KiB/s ETA 01:11 (frag 79/100)[download]  79.3% of ~ 222.62MiB at    1.30MiB/s ETA 00:35 (frag 79/100)[download]  79.5% of ~ 222.62MiB at    2.57MiB/s ETA 00:17 (frag 79/100)[download]  79.9% of ~ 222.62MiB at    5.01MiB/s ETA 00:08 (frag 79/100)[download]  80.0% of ~ 222.62MiB at    5.37MiB/s ETA 00:08 (frag 79/100)[download]  80.0% of ~ 222.62MiB at    5.25MiB/s ETA 00:08 (frag 80/100)[download]  80.0% of ~ 222.65MiB at    2.51KiB/s ETA 05:03:28 (frag 80/100)[download]  80.0% of ~ 222.65MiB at    7.48KiB/s ETA 01:41:38 (frag 80/100)[download]  80.0% of ~ 222.65MiB at   17.37KiB/s ETA 43:45 (frag 80/100)   [download]  80.0% of ~ 222.65MiB at   37.05KiB/s ETA 20:31 (frag 80/100)[download]  80.0% of ~ 222.65MiB at   76.19KiB/s ETA 09:58 (frag 80/100)[download]  80.0% of ~ 222.65MiB at  153.81KiB/s ETA 04:56 (frag 80/100)[download]  80.0% of ~ 222.65MiB at  308.45KiB/s ETA 02:27 (frag 80/100)[download]  80.1% of ~ 222.65MiB at  615.76KiB/s ETA 01:13 (frag 80/100)[download]  80.2% of ~ 222.65MiB at    1.19MiB/s ETA 00:36 (frag 80/100)[download]  80.4% of ~ 222.65MiB at    2.36MiB/s ETA 00:18 (frag 80/100)[download]  80.9% of ~ 222.65MiB at    4.62MiB/s ETA 00:09 (frag 80/100)[download]  81.0% of ~ 222.65MiB at    5.16MiB/s ETA 00:08 (frag 80/100)[download]  81.0% of ~ 222.65MiB at    5.03MiB/s ETA 00:08 (frag 81/100)[download]  81.0% of ~ 222.61MiB at    2.97KiB/s ETA 04:03:08 (frag 81/100)[download]  81.0% of ~ 222.61MiB at    8.84KiB/s ETA 01:21:32 (frag 81/100)[download]  81.0% of ~ 222.61MiB at   20.52KiB/s ETA 35:07 (frag 81/100)   [download]  81.0% of ~ 222.61MiB at   43.73KiB/s ETA 16:29 (frag 81/100)[download]  81.0% of ~ 222.61MiB at   89.85KiB/s ETA 08:01 (frag 81/100)[download]  81.0% of ~ 222.61MiB at  181.34KiB/s ETA 03:58 (frag 81/100)[download]  81.1% of ~ 222.61MiB at  362.95KiB/s ETA 01:58 (frag 81/100)[download]  81.1% of ~ 222.61MiB at  624.59KiB/s ETA 01:08 (frag 81/100)[download]  81.2% of ~ 222.61MiB at    1.13MiB/s ETA 00:36 (frag 81/100)[download]  81.5% of ~ 222.61MiB at    1.93MiB/s ETA 00:21 (frag 81/100)[download]  81.9% of ~ 222.61MiB at    3.45MiB/s ETA 00:11 (frag 81/100)[download]  82.0% of ~ 222.61MiB at    3.71MiB/s ETA 00:10 (frag 81/100)[download]  82.0% of ~ 222.61MiB at    3.63MiB/s ETA 00:10 (frag 82/100)[download]  82.0% of ~ 222.68MiB at    3.46KiB/s ETA 03:17:55 (frag 82/100)[download]  82.0% of ~ 222.68MiB at   10.30KiB/s ETA 01:06:30 (frag 82/100)[download]  82.0% of ~ 222.68MiB at   23.88KiB/s ETA 28:41 (frag 82/100)   [download]  82.0% of ~ 222.68MiB at   50.84KiB/s ETA 13:28 (frag 82/100)[download]  82.0% of ~ 222.68MiB at  104.36KiB/s ETA 06:33 (frag 82/100)[download]  82.0% of ~ 222.68MiB at  210.52KiB/s ETA 03:14 (frag 82/100)[download]  82.0% of ~ 222.68MiB at  421.40KiB/s ETA 01:37 (frag 82/100)[download]  82.1% of ~ 222.68MiB at  839.40KiB/s ETA 00:48 (frag 82/100)[download]  82.2% of ~ 222.68MiB at    1.63MiB/s ETA 00:24 (frag 82/100)[download]  82.4% of ~ 222.68MiB at    3.20MiB/s ETA 00:12 (frag 82/100)[download]  82.9% of ~ 222.68MiB at    6.21MiB/s ETA 00:06 (frag 82/100)[download]  83.0% of ~ 222.68MiB at    7.05MiB/s ETA 00:05 (frag 82/100)[download]  83.0% of ~ 222.68MiB at    6.81MiB/s ETA 00:05 (frag 83/100)[download]  83.0% of ~ 222.65MiB at    2.41KiB/s ETA 04:27:22 (frag 83/100)[download]  83.0% of ~ 222.65MiB at    7.21KiB/s ETA 01:29:32 (frag 83/100)[download]  83.0% of ~ 222.65MiB at   16.74KiB/s ETA 38:32 (frag 83/100)   [download]  83.0% of ~ 222.65MiB at   35.67KiB/s ETA 18:05 (frag 83/100)[download]  83.0% of ~ 222.65MiB at   73.34KiB/s ETA 08:47 (frag 83/100)[download]  83.0% of ~ 222.65MiB at  146.57KiB/s ETA 04:23 (frag 83/100)[download]  83.1% of ~ 222.65MiB at  259.87KiB/s ETA 02:28 (frag 83/100)[download]  83.1% of ~ 222.65MiB at  467.35KiB/s ETA 01:22 (frag 83/100)[download]  83.2% of ~ 222.65MiB at  878.37KiB/s ETA 00:43 (frag 83/100)[download]  83.5% of ~ 222.65MiB at    1.55MiB/s ETA 00:23 (frag 83/100)[download]  83.9% of ~ 222.65MiB at    2.81MiB/s ETA 00:12 (frag 83/100)[download]  84.0% of ~ 222.65MiB at    3.06MiB/s ETA 00:11 (frag 83/100)[download]  84.0% of ~ 222.65MiB at    2.97MiB/s ETA 00:11 (frag 84/100)[download]  84.0% of ~ 222.63MiB at    3.21KiB/s ETA 03:09:09 (frag 84/100)[download]  84.0% of ~ 222.63MiB at    9.57KiB/s ETA 01:03:28 (frag 84/100)[download]  84.0% of ~ 222.63MiB at   22.21KiB/s ETA 27:21 (frag 84/100)   [download]  84.0% of ~ 222.63MiB at   47.31KiB/s ETA 12:50 (frag 84/100)[download]  84.0% of ~ 222.63MiB at   97.12KiB/s ETA 06:15 (frag 84/100)[download]  84.0% of ~ 222.63MiB at  195.70KiB/s ETA 03:06 (frag 84/100)[download]  84.1% of ~ 222.63MiB at  391.89KiB/s ETA 01:32 (frag 84/100)[download]  84.1% of ~ 222.63MiB at  780.91KiB/s ETA 00:46 (frag 84/100)[download]  84.2% of ~ 222.63MiB at    1.48MiB/s ETA 00:23 (frag 84/100)[download]  84.5% of ~ 222.63MiB at    2.83MiB/s ETA 00:12 (frag 84/100)[download]  84.9% of ~ 222.63MiB at    5.37MiB/s ETA 00:06 (frag 84/100)[download]  85.0% of ~ 222.63MiB at    5.83MiB/s ETA 00:05 (frag 84/100)[download]  85.0% of ~ 222.63MiB at    5.47MiB/s ETA 00:05 (frag 85/100)[download]  85.0% of ~ 222.69MiB at    3.35KiB/s ETA 02:50:09 (frag 85/100)[download]  85.0% of ~ 222.69MiB at   10.00KiB/s ETA 57:05 (frag 85/100)   [download]  85.0% of ~ 222.69MiB at   23.18KiB/s ETA 24:37 (frag 85/100)[download]  85.0% of ~ 222.69MiB at   49.35KiB/s ETA 11:33 (frag 85/100)[download]  85.0% of ~ 222.69MiB at  101.28KiB/s ETA 05:37 (frag 85/100)[download]  85.0% of ~ 222.69MiB at  204.27KiB/s ETA 02:47 (frag 85/100)[download]  85.0% of ~ 222.69MiB at  409.03KiB/s ETA 01:23 (frag 85/100)[download]  85.1% of ~ 222.69MiB at  813.16KiB/s ETA 00:41 (frag 85/100)[download]  85.2% of ~ 222.69MiB at    1.42MiB/s ETA 00:23 (frag 85/100)[download]  85.4% of ~ 222.69MiB at    2.57MiB/s ETA 00:12 (frag 85/100)[download]  85.9% of ~ 222.69MiB at    4.32MiB/s ETA 00:07 (frag 85/100)[download]  86.0% of ~ 222.69MiB at    4.77MiB/s ETA 00:06 (frag 85/100)[download]  86.0% of ~ 222.69MiB at    4.67MiB/s ETA 00:06 (frag 86/100)[download]  86.0% of ~ 222.69MiB at    2.96KiB/s ETA 02:59:38 (frag 86/100)[download]  86.0% of ~ 222.69MiB at    8.83KiB/s ETA 01:00:15 (frag 86/100)[download]  86.0% of ~ 222.69MiB at   20.45KiB/s ETA 26:00 (frag 86/100)   [download]  86.0% of ~ 222.69MiB at   43.57KiB/s ETA 12:12 (frag 86/100)[download]  86.0% of ~ 222.69MiB at   89.51KiB/s ETA 05:56 (frag 86/100)[download]  86.0% of ~ 222.69MiB at  176.43KiB/s ETA 03:00 (frag 86/100)[download]  86.1% of ~ 222.69MiB at  301.00KiB/s ETA 01:45 (frag 86/100)[download]  86.1% of ~ 222.69MiB at  535.90KiB/s ETA 00:59 (frag 86/100)[download]  86.2% of ~ 222.69MiB at  984.13KiB/s ETA 00:31 (frag 86/100)[download]  86.4% of ~ 222.69MiB at    1.70MiB/s ETA 00:17 (frag 86/100)[download]  86.9% of ~ 222.69MiB at    3.03MiB/s ETA 00:09 (frag 86/100)[download]  87.0% of ~ 222.69MiB at    3.32MiB/s ETA 00:08 (frag 86/100)[download]  87.0% of ~ 222.69MiB at    3.27MiB/s ETA 00:08 (frag 87/100)[download]  87.0% of ~ 222.65MiB at    2.36KiB/s ETA 03:28:43 (frag 87/100)[download]  87.0% of ~ 222.65MiB at    7.06KiB/s ETA 01:09:53 (frag 87/100)[download]  87.0% of ~ 222.65MiB at   16.40KiB/s ETA 30:04 (frag 87/100)   [download]  87.0% of ~ 222.65MiB at   34.98KiB/s ETA 14:05 (frag 87/100)[download]  87.0% of ~ 222.65MiB at   71.86KiB/s ETA 06:51 (frag 87/100)[download]  87.0% of ~ 222.65MiB at  145.21KiB/s ETA 03:23 (frag 87/100)[download]  87.1% of ~ 222.65MiB at  291.20KiB/s ETA 01:41 (frag 87/100)[download]  87.1% of ~ 222.65MiB at  581.28KiB/s ETA 00:50 (frag 87/100)[download]  87.2% of ~ 222.65MiB at    1.13MiB/s ETA 00:25 (frag 87/100)[download]  87.5% of ~ 222.65MiB at    2.22MiB/s ETA 00:12 (frag 87/100)[download]  87.9% of ~ 222.65MiB at    4.35MiB/s ETA 00:06 (frag 87/100)[download]  88.0% of ~ 222.65MiB at    4.74MiB/s ETA 00:05 (frag 87/100)[download]  88.0% of ~ 222.65MiB at    4.64MiB/s ETA 00:05 (frag 88/100)[download]  88.0% of ~ 222.64MiB at    3.05KiB/s ETA 02:29:23 (frag 88/100)[download]  88.0% of ~ 222.64MiB at    9.09KiB/s ETA 50:06 (frag 88/100)   [download]  88.0% of ~ 222.64MiB at   21.09KiB/s ETA 21:35 (frag 88/100)[download]  88.0% of ~ 222.64MiB at   44.94KiB/s ETA 10:08 (frag 88/100)[download]  88.0% of ~ 222.64MiB at   92.28KiB/s ETA 04:55 (frag 88/100)[download]  88.0% of ~ 222.64MiB at  186.19KiB/s ETA 02:26 (frag 88/100)[download]  88.1% of ~ 222.64MiB at  372.31KiB/s ETA 01:13 (frag 88/100)[download]  88.1% of ~ 222.64MiB at  742.22KiB/s ETA 00:36 (frag 88/100)[download]  88.2% of ~ 222.64MiB at    1.44MiB/s ETA 00:18 (frag 88/100)[download]  88.5% of ~ 222.64MiB at    2.83MiB/s ETA 00:09 (frag 88/100)[download]  88.9% of ~ 222.64MiB at    5.52MiB/s ETA 00:04 (frag 88/100)[download]  89.0% of ~ 222.64MiB at    6.06MiB/s ETA 00:04 (frag 88/100)[download]  89.0% of ~ 222.64MiB at    5.26MiB/s ETA 00:04 (frag 89/100)[download]  89.0% of ~ 222.67MiB at    3.21KiB/s ETA 02:10:18 (frag 89/100)[download]  89.0% of ~ 222.67MiB at    9.58KiB/s ETA 43:42 (frag 89/100)   [download]  89.0% of ~ 222.67MiB at   22.21KiB/s ETA 18:50 (frag 89/100)[download]  89.0% of ~ 222.67MiB at   47.31KiB/s ETA 08:50 (frag 89/100)[download]  89.0% of ~ 222.67MiB at   97.18KiB/s ETA 04:18 (frag 89/100)[download]  89.0% of ~ 222.67MiB at  196.20KiB/s ETA 02:07 (frag 89/100)[download]  89.0% of ~ 222.67MiB at  392.99KiB/s ETA 01:03 (frag 89/100)[download]  89.1% of ~ 222.67MiB at  783.25KiB/s ETA 00:31 (frag 89/100)[download]  89.2% of ~ 222.67MiB at    1.51MiB/s ETA 00:15 (frag 89/100)[download]  89.4% of ~ 222.67MiB at    2.99MiB/s ETA 00:07 (frag 89/100)[download]  89.9% of ~ 222.67MiB at    5.82MiB/s ETA 00:03 (frag 89/100)[download]  90.0% of ~ 222.67MiB at    6.51MiB/s ETA 00:03 (frag 89/100)[download]  90.0% of ~ 222.67MiB at    6.30MiB/s ETA 00:03 (frag 90/100)[download]  90.0% of ~ 222.59MiB at    3.69KiB/s ETA 01:42:41 (frag 90/100)[download]  90.0% of ~ 222.59MiB at   10.98KiB/s ETA 34:28 (frag 90/100)   [download]  90.0% of ~ 222.59MiB at   25.43KiB/s ETA 14:53 (frag 90/100)[download]  90.0% of ~ 222.59MiB at   54.11KiB/s ETA 06:59 (frag 90/100)[download]  90.0% of ~ 222.59MiB at  111.03KiB/s ETA 03:24 (frag 90/100)[download]  90.1% of ~ 222.59MiB at  223.85KiB/s ETA 01:41 (frag 90/100)[download]  90.1% of ~ 222.59MiB at  447.98KiB/s ETA 00:50 (frag 90/100)[download]  90.1% of ~ 222.59MiB at  892.32KiB/s ETA 00:25 (frag 90/100)[download]  90.3% of ~ 222.59MiB at    1.73MiB/s ETA 00:12 (frag 90/100)[download]  90.5% of ~ 222.59MiB at    3.40MiB/s ETA 00:06 (frag 90/100)[download]  90.9% of ~ 222.59MiB at    6.60MiB/s ETA 00:03 (frag 90/100)[download]  91.0% of ~ 222.59MiB at    7.05MiB/s ETA 00:02 (frag 90/100)[download]  91.0% of ~ 222.59MiB at    6.84MiB/s ETA 00:02 (frag 91/100)[download]  91.0% of ~ 222.64MiB at    2.99KiB/s ETA 01:54:39 (frag 91/100)[download]  91.0% of ~ 222.64MiB at    8.91KiB/s ETA 38:26 (frag 91/100)   [download]  91.0% of ~ 222.64MiB at   20.68KiB/s ETA 16:33 (frag 91/100)[download]  91.0% of ~ 222.64MiB at   44.06KiB/s ETA 07:46 (frag 91/100)[download]  91.0% of ~ 222.64MiB at   90.40KiB/s ETA 03:47 (frag 91/100)[download]  91.0% of ~ 222.64MiB at  160.84KiB/s ETA 02:07 (frag 91/100)[download]  91.0% of ~ 222.64MiB at  322.43KiB/s ETA 01:03 (frag 91/100)[download]  91.1% of ~ 222.64MiB at  643.56KiB/s ETA 00:31 (frag 91/100)[download]  91.2% of ~ 222.64MiB at    1.25MiB/s ETA 00:15 (frag 91/100)[download]  91.4% of ~ 222.64MiB at    2.47MiB/s ETA 00:07 (frag 91/100)[download]  91.9% of ~ 222.64MiB at    4.83MiB/s ETA 00:03 (frag 91/100)[download]  92.0% of ~ 222.64MiB at    5.44MiB/s ETA 00:03 (frag 91/100)[download]  92.0% of ~ 222.64MiB at    5.29MiB/s ETA 00:03 (frag 92/100)[download]  92.0% of ~ 222.66MiB at    167.97B/s ETA 30:55:14 (frag 92/100)[download]  92.0% of ~ 222.66MiB at    251.88B/s ETA 20:37:10 (frag 92/100)[download]  92.0% of ~ 222.66MiB at    419.68B/s ETA 12:22:28 (frag 92/100)[download]  92.0% of ~ 222.66MiB at    755.20B/s ETA 06:52:33 (frag 92/100)[download]  92.0% of ~ 222.66MiB at    1.39KiB/s ETA 03:38:25 (frag 92/100)[download]  92.0% of ~ 222.66MiB at    2.70KiB/s ETA 01:52:30 (frag 92/100)[download]  92.0% of ~ 222.66MiB at    5.32KiB/s ETA 57:05 (frag 92/100)   [download]  92.0% of ~ 222.66MiB at   10.56KiB/s ETA 28:43 (frag 92/100)[download]  92.0% of ~ 222.66MiB at   21.02KiB/s ETA 14:22 (frag 92/100)[download]  92.1% of ~ 222.66MiB at   41.95KiB/s ETA 07:09 (frag 92/100)[download]  92.2% of ~ 222.66MiB at   83.75KiB/s ETA 03:31 (frag 92/100)[download]  92.4% of ~ 222.66MiB at  167.30KiB/s ETA 01:43 (frag 92/100)[download]  92.9% of ~ 222.66MiB at  334.00KiB/s ETA 00:48 (frag 92/100)[download]  93.0% of ~ 222.66MiB at  374.82KiB/s ETA 00:42 (frag 92/100)[download]  93.0% of ~ 222.66MiB at  374.18KiB/s ETA 00:42 (frag 93/100)[download]  93.0% of ~ 222.57MiB at    592.79B/s ETA 07:37:00 (frag 93/100)[download]  93.0% of ~ 222.57MiB at   1009.08B/s ETA 04:28:27 (frag 93/100)[download]  93.0% of ~ 222.57MiB at    1.80KiB/s ETA 02:27:08 (frag 93/100)[download]  93.0% of ~ 222.57MiB at    3.42KiB/s ETA 01:17:18 (frag 93/100)[download]  93.0% of ~ 222.57MiB at    6.66KiB/s ETA 39:40 (frag 93/100)   [download]  93.0% of ~ 222.57MiB at   13.14KiB/s ETA 20:06 (frag 93/100)[download]  93.1% of ~ 222.57MiB at   26.08KiB/s ETA 10:07 (frag 93/100)[download]  93.1% of ~ 222.57MiB at   51.92KiB/s ETA 05:04 (frag 93/100)[download]  93.1% of ~ 222.57MiB at  103.53KiB/s ETA 02:31 (frag 93/100)[download]  93.2% of ~ 222.57MiB at  206.37KiB/s ETA 01:15 (frag 93/100)[download]  93.4% of ~ 222.57MiB at  411.55KiB/s ETA 00:36 (frag 93/100)[download]  93.7% of ~ 222.57MiB at  819.25KiB/s ETA 00:17 (frag 93/100)[download]  94.0% of ~ 222.57MiB at    1.22MiB/s ETA 00:10 (frag 93/100)[download]  94.0% of ~ 222.57MiB at    1.21MiB/s ETA 00:10 (frag 94/100)[download]  93.9% of ~ 222.70MiB at    3.61KiB/s ETA 01:03:46 (frag 94/100)[download]  93.9% of ~ 222.70MiB at   10.75KiB/s ETA 21:23 (frag 94/100)   [download]  93.9% of ~ 222.70MiB at   24.93KiB/s ETA 09:13 (frag 94/100)[download]  94.0% of ~ 222.70MiB at   53.08KiB/s ETA 04:19 (frag 94/100)[download]  94.0% of ~ 222.70MiB at  108.93KiB/s ETA 02:06 (frag 94/100)[download]  94.0% of ~ 222.70MiB at  219.69KiB/s ETA 01:02 (frag 94/100)[download]  94.0% of ~ 222.70MiB at  439.62KiB/s ETA 00:31 (frag 94/100)[download]  94.1% of ~ 222.70MiB at  873.95KiB/s ETA 00:15 (frag 94/100)[download]  94.2% of ~ 222.70MiB at    1.69MiB/s ETA 00:07 (frag 94/100)[download]  94.4% of ~ 222.70MiB at    3.32MiB/s ETA 00:03 (frag 94/100)[download]  94.8% of ~ 222.70MiB at    6.45MiB/s ETA 00:01 (frag 94/100)[download]  95.0% of ~ 222.70MiB at    7.46MiB/s ETA 00:01 (frag 94/100)[download]  95.0% of ~ 222.70MiB at    7.25MiB/s ETA 00:01 (frag 95/100)[download]  95.0% of ~ 222.61MiB at    175.89B/s ETA 18:17:10 (frag 95/100)[download]  95.0% of ~ 222.61MiB at    263.71B/s ETA 12:11:44 (frag 95/100)[download]  95.0% of ~ 222.61MiB at    439.39B/s ETA 07:19:08 (frag 95/100)[download]  95.0% of ~ 222.61MiB at    790.65B/s ETA 04:04:00 (frag 95/100)[download]  95.0% of ~ 222.61MiB at    1.46KiB/s ETA 02:09:10 (frag 95/100)[download]  95.0% of ~ 222.61MiB at    2.83KiB/s ETA 01:06:31 (frag 95/100)[download]  95.1% of ~ 222.61MiB at    5.57KiB/s ETA 33:44 (frag 95/100)   [download]  95.1% of ~ 222.61MiB at   11.05KiB/s ETA 16:57 (frag 95/100)[download]  95.1% of ~ 222.61MiB at   22.01KiB/s ETA 08:27 (frag 95/100)[download]  95.2% of ~ 222.61MiB at   43.91KiB/s ETA 04:11 (frag 95/100)[download]  95.3% of ~ 222.61MiB at   87.68KiB/s ETA 02:03 (frag 95/100)[download]  95.5% of ~ 222.61MiB at  175.13KiB/s ETA 00:58 (frag 95/100)[download]  95.9% of ~ 222.61MiB at  349.64KiB/s ETA 00:26 (frag 95/100)[download]  96.0% of ~ 222.61MiB at  373.66KiB/s ETA 00:24 (frag 95/100)[download]  96.0% of ~ 222.61MiB at  372.50KiB/s ETA 00:24 (frag 96/100)[download]  96.0% of ~ 222.64MiB at    2.64KiB/s ETA 57:49 (frag 96/100)[download]  96.0% of ~ 222.64MiB at    7.86KiB/s ETA 19:23 (frag 96/100)[download]  96.0% of ~ 222.64MiB at   18.26KiB/s ETA 08:20 (frag 96/100)[download]  96.0% of ~ 222.64MiB at   38.93KiB/s ETA 03:54 (frag 96/100)[download]  96.0% of ~ 222.64MiB at   80.03KiB/s ETA 01:53 (frag 96/100)[download]  96.0% of ~ 222.64MiB at  161.71KiB/s ETA 00:56 (frag 96/100)[download]  96.0% of ~ 222.64MiB at  324.24KiB/s ETA 00:27 (frag 96/100)[download]  96.1% of ~ 222.64MiB at  647.23KiB/s ETA 00:13 (frag 96/100)[download]  96.2% of ~ 222.64MiB at    1.25MiB/s ETA 00:06 (frag 96/100)[download]  96.4% of ~ 222.64MiB at    2.48MiB/s ETA 00:03 (frag 96/100)[download]  96.9% of ~ 222.64MiB at    4.86MiB/s ETA 00:01 (frag 96/100)[download]  97.0% of ~ 222.64MiB at    5.44MiB/s ETA 00:01 (frag 96/100)[download]  97.0% of ~ 222.64MiB at    5.33MiB/s ETA 00:01 (frag 97/100)[download]  97.0% of ~ 222.61MiB at    3.05KiB/s ETA 37:14 (frag 97/100)[download]  97.0% of ~ 222.61MiB at    9.09KiB/s ETA 12:28 (frag 97/100)[download]  97.0% of ~ 222.61MiB at   21.09KiB/s ETA 05:22 (frag 97/100)[download]  97.0% of ~ 222.61MiB at   44.89KiB/s ETA 02:31 (frag 97/100)[download]  97.0% of ~ 222.61MiB at   92.20KiB/s ETA 01:13 (frag 97/100)[download]  97.0% of ~ 222.61MiB at  186.11KiB/s ETA 00:36 (frag 97/100)[download]  97.1% of ~ 222.61MiB at  372.87KiB/s ETA 00:17 (frag 97/100)[download]  97.1% of ~ 222.61MiB at  743.30KiB/s ETA 00:08 (frag 97/100)[download]  97.2% of ~ 222.61MiB at    1.44MiB/s ETA 00:04 (frag 97/100)[download]  97.5% of ~ 222.61MiB at    2.84MiB/s ETA 00:01 (frag 97/100)[download]  97.9% of ~ 222.61MiB at    5.46MiB/s ETA 00:00 (frag 97/100)[download]  98.0% of ~ 222.61MiB at    5.87MiB/s ETA 00:00 (frag 97/100)[download]  98.0% of ~ 222.61MiB at    5.73MiB/s ETA 00:00 (frag 98/100)[download]  98.0% of ~ 222.60MiB at    2.54KiB/s ETA 29:50 (frag 98/100)[download]  98.0% of ~ 222.60MiB at    7.58KiB/s ETA 09:59 (frag 98/100)[download]  98.0% of ~ 222.60MiB at   17.60KiB/s ETA 04:17 (frag 98/100)[download]  98.0% of ~ 222.60MiB at   37.55KiB/s ETA 02:00 (frag 98/100)[download]  98.0% of ~ 222.60MiB at   77.25KiB/s ETA 00:58 (frag 98/100)[download]  98.0% of ~ 222.60MiB at  156.04KiB/s ETA 00:28 (frag 98/100)[download]  98.1% of ~ 222.60MiB at  312.94KiB/s ETA 00:14 (frag 98/100)[download]  98.1% of ~ 222.60MiB at  618.13KiB/s ETA 00:06 (frag 98/100)[download]  98.2% of ~ 222.60MiB at    1.20MiB/s ETA 00:03 (frag 98/100)[download]  98.5% of ~ 222.60MiB at    2.37MiB/s ETA 00:01 (frag 98/100)[download]  98.9% of ~ 222.60MiB at    4.64MiB/s ETA 00:00 (frag 98/100)[download]  99.0% of ~ 222.60MiB at    5.10MiB/s ETA 00:00 (frag 98/100)[download]  99.0% of ~ 222.60MiB at    4.92MiB/s ETA 00:00 (frag 99/100)[download]  98.9% of ~ 222.80MiB at    3.28KiB/s ETA 12:36 (frag 99/100)[download]  98.9% of ~ 222.80MiB at    9.79KiB/s ETA 04:13 (frag 99/100)[download]  98.9% of ~ 222.80MiB at   22.71KiB/s ETA 01:49 (frag 99/100)[download]  98.9% of ~ 222.80MiB at   48.36KiB/s ETA 00:51 (frag 99/100)[download]  98.9% of ~ 222.80MiB at   99.30KiB/s ETA 00:24 (frag 99/100)[download]  98.9% of ~ 222.80MiB at  200.32KiB/s ETA 00:12 (frag 99/100)[download]  99.0% of ~ 222.80MiB at  401.19KiB/s ETA 00:05 (frag 99/100)[download]  99.0% of ~ 222.80MiB at  798.31KiB/s ETA 00:02 (frag 99/100)[download]  99.1% of ~ 222.80MiB at    1.54MiB/s ETA 00:01 (frag 99/100)[download]  99.4% of ~ 222.80MiB at    3.04MiB/s ETA 00:00 (frag 99/100)[download]  99.8% of ~ 222.80MiB at    5.91MiB/s ETA 00:00 (frag 99/100)[download] 100.0% of ~ 222.80MiB at    7.10MiB/s ETA 00:00 (frag 99/100)[download] 100.0% of ~ 222.80MiB at    6.61MiB/s ETA 00:00 (frag 100/100)[download] 100% of  222.80MiB in 00:01:14 at 3.00MiB/s                   
+[debug] ffprobe command line: ffprobe -hide_banner -show_format -show_streams -print_format json 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 1.mp4'
+[debug] ffmpeg command line: ffprobe -show_streams 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 1.mp4'
+[FixupM3u8] Fixing MPEG-TS in MP4 container of "/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 1.mp4"
+[debug] ffmpeg command line: ffmpeg -y -loglevel repeat+info -i 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 1.mp4' -map 0 -dn -ignore_unknown -c copy -f mp4 -bsf:a aac_adtstoasc -movflags +faststart 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 1.temp.mp4'
+[Metadata] Adding metadata to "/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 1.mp4"
+[debug] ffmpeg command line: ffmpeg -y -loglevel repeat+info -i 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 1.mp4' -map 0 -dn -ignore_unknown -c copy -write_id3v1 1 -metadata 'title=Log #2023-0001622 BWC 1' -metadata date=20230501 -metadata 'description=BWC 1 | Shooting Officer' -metadata 'synopsis=BWC 1 | Shooting Officer' -metadata purl=https://vimeo.com/822714320 -metadata comment=https://vimeo.com/822714320 -metadata 'artist=COPA Chicago' -movflags +faststart 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 1.temp.mp4'
+[download] Downloading item 29 of 1941
+[vimeo] Extracting URL: https://vimeo.com/822714261
+[vimeo] 822714261: Downloading webpage
+[vimeo] 822714261: Downloading JSON metadata
+[vimeo] 822714261: Downloading JSON metadata
+[vimeo] 822714261: Downloading jwt token
+[vimeo] 822714261: Downloading JSON metadata
+[vimeo] 822714261: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714261: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714261: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714261: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714261: Downloading google_mediacdn m3u8 information
+ERROR: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1514, in https_open
+    return self.do_open(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1560, in wrapper
+    return func(self, *args, **kwargs)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1688, in __extract_info
+    ie_result = ie.extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 710, in extract
+    ie_result = self._real_extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 948, in _real_extract
+    info_dict_config = self._parse_config(config, video_id)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 169, in _parse_config
+    fmts, subs = self._extract_m3u8_formats_and_subtitles(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 1960, in _extract_m3u8_formats_and_subtitles
+    res = self._download_webpage_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 898, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data, headers=headers, query=query, expected_status=expected_status)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 837, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query))
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 3863, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1519, in https_open
+    raise YoutubeDLError('SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect')
+yt_dlp.utils.YoutubeDLError: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+
+[download] Downloading item 30 of 1941
+[vimeo] Extracting URL: https://vimeo.com/822714218
+[vimeo] 822714218: Downloading webpage
+[vimeo] 822714218: Downloading JSON metadata
+[vimeo] 822714218: Downloading JSON metadata
+[vimeo] 822714218: Downloading jwt token
+[vimeo] 822714218: Downloading JSON metadata
+[vimeo] 822714218: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714218: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714218: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714218: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714218: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 822714218: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 822714218: Downloading akfire_interconnect_quic MPD information
+[vimeo] 822714218: Downloading akfire_interconnect_quic MPD information
+[vimeo] 822714218: Downloading fastly_skyfire MPD information
+[vimeo] 822714218: Downloading fastly_skyfire MPD information
+[vimeo] 822714218: Downloading google_mediacdn MPD information
+[vimeo] 822714218: Downloading google_mediacdn MPD information
+[debug] Sort order given by extractor: quality, res, fps, hdr:12, source
+[debug] Formats sorted by: hasvid, ie_pref, quality, res, fps, hdr:12(7), source, lang, vcodec:vp9.2(10), channels, acodec, size, br, asr, proto, vext, aext, hasaud, id
+[info] 822714218: Downloading 1 format(s): http-720p
+[debug] Invoking http downloader on "https://vod-progressive.akamaized.net/exp=1688686918~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4542%2F32%2F822714218%2F3596976203.mp4~hmac=fbb23efab55b24a46ba0f44acc4c3c025017970e6bdbf902f7af16403490ba00/vimeo-prod-skyfire-std-us/01/4542/32/822714218/3596976203.mp4"
+[download] Destination: /project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 3.mp4
+[download]   0.0% of  209.86MiB at  236.61KiB/s ETA 15:15[download]   0.0% of  209.86MiB at  500.49KiB/s ETA 07:10[download]   0.0% of  209.86MiB at 1006.59KiB/s ETA 03:34[download]   0.0% of  209.86MiB at    1.86MiB/s ETA 01:53[download]   0.0% of  209.86MiB at    2.73MiB/s ETA 01:17[download]   0.0% of  209.86MiB at    1.63MiB/s ETA 02:08[download]   0.1% of  209.86MiB at    1.95MiB/s ETA 01:47[download]   0.1% of  209.86MiB at    2.74MiB/s ETA 01:16[download]   0.2% of  209.86MiB at    4.36MiB/s ETA 00:47[download]   0.5% of  209.86MiB at    6.49MiB/s ETA 00:32[download]   1.0% of  209.86MiB at    5.41MiB/s ETA 00:38[download]   1.9% of  209.86MiB at   10.24MiB/s ETA 00:20[download]   3.8% of  209.86MiB at   13.80MiB/s ETA 00:14[download]   5.7% of  209.86MiB at   16.80MiB/s ETA 00:11[download]   7.6% of  209.86MiB at   13.01MiB/s ETA 00:14[download]   9.5% of  209.86MiB at    6.71MiB/s ETA 00:28[download]  10.6% of  209.86MiB at    6.92MiB/s ETA 00:27[download]  12.5% of  209.86MiB at    7.06MiB/s ETA 00:25[download]  14.4% of  209.86MiB at    6.67MiB/s ETA 00:26[download]  16.3% of  209.86MiB at    6.30MiB/s ETA 00:27[download]  18.2% of  209.86MiB at    6.14MiB/s ETA 00:27[download]  20.1% of  209.86MiB at    6.05MiB/s ETA 00:27[download]  22.1% of  209.86MiB at    6.31MiB/s ETA 00:25[download]  24.0% of  209.86MiB at    6.59MiB/s ETA 00:24[download]  25.9% of  209.86MiB at    7.01MiB/s ETA 00:22[download]  27.8% of  209.86MiB at    6.91MiB/s ETA 00:21[download]  29.7% of  209.86MiB at    7.18MiB/s ETA 00:20[download]  31.6% of  209.86MiB at    7.38MiB/s ETA 00:19[download]  33.5% of  209.86MiB at    6.94MiB/s ETA 00:20[download]  35.1% of  209.86MiB at    6.97MiB/s ETA 00:19[download]  37.1% of  209.86MiB at    7.16MiB/s ETA 00:18[download]  39.0% of  209.86MiB at    7.38MiB/s ETA 00:17[download]  40.9% of  209.86MiB at    7.64MiB/s ETA 00:16[download]  42.8% of  209.86MiB at    7.88MiB/s ETA 00:15[download]  44.7% of  209.86MiB at    8.05MiB/s ETA 00:14[download]  46.6% of  209.86MiB at    8.15MiB/s ETA 00:13[download]  48.5% of  209.86MiB at    8.43MiB/s ETA 00:12[download]  50.4% of  209.86MiB at    8.49MiB/s ETA 00:12[download]  52.3% of  209.86MiB at    8.71MiB/s ETA 00:11[download]  54.2% of  209.86MiB at    8.85MiB/s ETA 00:10[download]  56.1% of  209.86MiB at    8.99MiB/s ETA 00:10[download]  58.0% of  209.86MiB at    9.12MiB/s ETA 00:09[download]  59.9% of  209.86MiB at    9.11MiB/s ETA 00:09[download]  61.8% of  209.86MiB at    9.23MiB/s ETA 00:08[download]  63.7% of  209.86MiB at    9.35MiB/s ETA 00:08[download]  65.6% of  209.86MiB at    9.43MiB/s ETA 00:07[download]  67.5% of  209.86MiB at    9.27MiB/s ETA 00:07[download]  69.5% of  209.86MiB at    9.48MiB/s ETA 00:06[download]  71.4% of  209.86MiB at    9.53MiB/s ETA 00:06[download]  73.3% of  209.86MiB at    9.59MiB/s ETA 00:05[download]  75.2% of  209.86MiB at    9.55MiB/s ETA 00:05[download]  77.1% of  209.86MiB at    9.65MiB/s ETA 00:04[download]  79.0% of  209.86MiB at    9.87MiB/s ETA 00:04[download]  80.9% of  209.86MiB at    9.93MiB/s ETA 00:04[download]  82.8% of  209.86MiB at    9.88MiB/s ETA 00:03[download]  84.7% of  209.86MiB at    9.96MiB/s ETA 00:03[download]  86.6% of  209.86MiB at   10.04MiB/s ETA 00:02[download]  88.5% of  209.86MiB at   10.00MiB/s ETA 00:02[download]  90.4% of  209.86MiB at   10.18MiB/s ETA 00:01[download]  92.3% of  209.86MiB at   10.19MiB/s ETA 00:01[download]  94.2% of  209.86MiB at   10.26MiB/s ETA 00:01[download]  96.1% of  209.86MiB at   10.28MiB/s ETA 00:00[download]  98.0% of  209.86MiB at   10.42MiB/s ETA 00:00[download] 100.0% of  209.86MiB at   10.35MiB/s ETA 00:00[download] 100.0% of  209.86MiB at   10.35MiB/s ETA 00:00[download] 100% of  209.86MiB in 00:00:20 at 10.24MiB/s  
+[Metadata] Adding metadata to "/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 3.mp4"
+[debug] ffmpeg command line: ffmpeg -y -loglevel repeat+info -i 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 3.mp4' -map 0 -dn -ignore_unknown -c copy -write_id3v1 1 -metadata 'title=Log #2023-0001622 BWC 3' -metadata date=20230501 -metadata 'description=BWC 3 | After OIS | Graphic content' -metadata 'synopsis=BWC 3 | After OIS | Graphic content' -metadata purl=https://vimeo.com/822714218 -metadata comment=https://vimeo.com/822714218 -metadata 'artist=COPA Chicago' -movflags +faststart 'file:/project/6003167/slee67/bodycam/videos/Chicago_raw/Log #2023-0001622 BWC 3.temp.mp4'
+[download] Downloading item 31 of 1941
+[vimeo] Extracting URL: https://vimeo.com/822714162
+[vimeo] 822714162: Downloading webpage
+[vimeo] 822714162: Downloading JSON metadata
+[vimeo] 822714162: Downloading JSON metadata
+[vimeo] 822714162: Downloading jwt token
+[vimeo] 822714162: Downloading JSON metadata
+[vimeo] 822714162: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714162: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714162: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714162: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714162: Downloading google_mediacdn m3u8 information
+ERROR: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1514, in https_open
+    return self.do_open(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1560, in wrapper
+    return func(self, *args, **kwargs)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1688, in __extract_info
+    ie_result = ie.extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 710, in extract
+    ie_result = self._real_extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 948, in _real_extract
+    info_dict_config = self._parse_config(config, video_id)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 169, in _parse_config
+    fmts, subs = self._extract_m3u8_formats_and_subtitles(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 1960, in _extract_m3u8_formats_and_subtitles
+    res = self._download_webpage_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 898, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data, headers=headers, query=query, expected_status=expected_status)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 837, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query))
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 3863, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1519, in https_open
+    raise YoutubeDLError('SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect')
+yt_dlp.utils.YoutubeDLError: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+
+[download] Downloading item 32 of 1941
+[vimeo] Extracting URL: https://vimeo.com/822714139
+[vimeo] 822714139: Downloading webpage
+[vimeo] 822714139: Downloading JSON metadata
+[vimeo] 822714139: Downloading JSON metadata
+[vimeo] 822714139: Downloading jwt token
+[vimeo] 822714139: Downloading JSON metadata
+[vimeo] 822714139: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714139: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714139: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714139: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714139: Downloading google_mediacdn m3u8 information
+ERROR: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1514, in https_open
+    return self.do_open(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1560, in wrapper
+    return func(self, *args, **kwargs)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1688, in __extract_info
+    ie_result = ie.extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 710, in extract
+    ie_result = self._real_extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 948, in _real_extract
+    info_dict_config = self._parse_config(config, video_id)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 169, in _parse_config
+    fmts, subs = self._extract_m3u8_formats_and_subtitles(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 1960, in _extract_m3u8_formats_and_subtitles
+    res = self._download_webpage_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 898, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data, headers=headers, query=query, expected_status=expected_status)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 837, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query))
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 3863, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1519, in https_open
+    raise YoutubeDLError('SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect')
+yt_dlp.utils.YoutubeDLError: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+
+[download] Downloading item 33 of 1941
+[vimeo] Extracting URL: https://vimeo.com/822714104
+[vimeo] 822714104: Downloading webpage
+[vimeo] 822714104: Downloading JSON metadata
+[vimeo] 822714104: Downloading JSON metadata
+[vimeo] 822714104: Downloading jwt token
+[vimeo] 822714104: Downloading JSON metadata
+[vimeo] 822714104: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714104: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714104: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714104: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714104: Downloading google_mediacdn m3u8 information
+ERROR: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1514, in https_open
+    return self.do_open(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1560, in wrapper
+    return func(self, *args, **kwargs)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1688, in __extract_info
+    ie_result = ie.extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 710, in extract
+    ie_result = self._real_extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 948, in _real_extract
+    info_dict_config = self._parse_config(config, video_id)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 169, in _parse_config
+    fmts, subs = self._extract_m3u8_formats_and_subtitles(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 1960, in _extract_m3u8_formats_and_subtitles
+    res = self._download_webpage_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 898, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data, headers=headers, query=query, expected_status=expected_status)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 837, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query))
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 3863, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1519, in https_open
+    raise YoutubeDLError('SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect')
+yt_dlp.utils.YoutubeDLError: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+
+[download] Downloading item 34 of 1941
+[vimeo] Extracting URL: https://vimeo.com/822714067
+[vimeo] 822714067: Downloading webpage
+[vimeo] 822714067: Downloading JSON metadata
+[vimeo] 822714067: Downloading JSON metadata
+[vimeo] 822714067: Downloading jwt token
+[vimeo] 822714067: Downloading JSON metadata
+[vimeo] 822714067: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714067: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714067: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714067: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714067: Downloading google_mediacdn m3u8 information
+ERROR: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1514, in https_open
+    return self.do_open(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1560, in wrapper
+    return func(self, *args, **kwargs)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1688, in __extract_info
+    ie_result = ie.extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 710, in extract
+    ie_result = self._real_extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 948, in _real_extract
+    info_dict_config = self._parse_config(config, video_id)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 169, in _parse_config
+    fmts, subs = self._extract_m3u8_formats_and_subtitles(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 1960, in _extract_m3u8_formats_and_subtitles
+    res = self._download_webpage_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 898, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data, headers=headers, query=query, expected_status=expected_status)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 837, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query))
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 3863, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1519, in https_open
+    raise YoutubeDLError('SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect')
+yt_dlp.utils.YoutubeDLError: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+
+[download] Downloading item 35 of 1941
+[vimeo] Extracting URL: https://vimeo.com/822714020
+[vimeo] 822714020: Downloading webpage
+[vimeo] 822714020: Downloading JSON metadata
+[vimeo] 822714020: Downloading JSON metadata
+[vimeo] 822714020: Downloading jwt token
+[vimeo] 822714020: Downloading JSON metadata
+[vimeo] 822714020: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714020: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822714020: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714020: Downloading fastly_skyfire m3u8 information
+[vimeo] 822714020: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 822714020: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 822714020: Downloading akfire_interconnect_quic MPD information
+[vimeo] 822714020: Downloading akfire_interconnect_quic MPD information
+[vimeo] 822714020: Downloading fastly_skyfire MPD information
+[vimeo] 822714020: Downloading fastly_skyfire MPD information
+[vimeo] 822714020: Downloading google_mediacdn MPD information
+[vimeo] 822714020: Downloading google_mediacdn MPD information
+ERROR: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+Traceback (most recent call last):
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1282, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1328, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1277, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1037, in _send_output
+    self.send(msg)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 975, in send
+    self.connect()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/http/client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 512, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1070, in _create
+    self.do_handshake()
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/ssl.py", line 1341, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1514, in https_open
+    return self.do_open(
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1560, in wrapper
+    return func(self, *args, **kwargs)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 1688, in __extract_info
+    ie_result = ie.extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 710, in extract
+    ie_result = self._real_extract(url)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 948, in _real_extract
+    info_dict_config = self._parse_config(config, video_id)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/vimeo.py", line 180, in _parse_config
+    fmts, subs = self._extract_mpd_formats_and_subtitles(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 2522, in _extract_mpd_formats_and_subtitles
+    res = self._download_xml_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 1028, in download_handle
+    res = self._download_webpage_handle(
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 898, in _download_webpage_handle
+    urlh = self._request_webpage(url_or_request, video_id, note, errnote, fatal, data=data, headers=headers, query=query, expected_status=expected_status)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/extractor/common.py", line 837, in _request_webpage
+    return self._downloader.urlopen(self._create_request(url_or_request, data, headers, query))
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/YoutubeDL.py", line 3863, in urlopen
+    return self._opener.open(req, timeout=self._socket_timeout)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 519, in open
+    response = self._open(req, data)
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib/python3.10/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+  File "/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/yt_dlp/utils/_utils.py", line 1519, in https_open
+    raise YoutubeDLError('SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect')
+yt_dlp.utils.YoutubeDLError: SSLV3_ALERT_HANDSHAKE_FAILURE: Try using --legacy-server-connect
+
+[download] Downloading item 36 of 1941
+[vimeo] Extracting URL: https://vimeo.com/822713981
+[vimeo] 822713981: Downloading webpage
+[vimeo] 822713981: Downloading JSON metadata
+[vimeo] 822713981: Downloading JSON metadata
+[vimeo] 822713981: Downloading jwt token
+[vimeo] 822713981: Downloading JSON metadata
+[vimeo] 822713981: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822713981: Downloading akfire_interconnect_quic m3u8 information
+[vimeo] 822713981: Downloading fastly_skyfire m3u8 information
+[vimeo] 822713981: Downloading fastly_skyfire m3u8 information
+[vimeo] 822713981: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 822713981: Downloading google_mediacdn m3u8 information
+WARNING: [vimeo] Failed to download m3u8 information: HTTP Error 403: Forbidden
+[vimeo] 822713981: Downloading akfire_interconnect_quic MPD information
+[vimeo] 822713981: Downloading akfire_interconnect_quic MPD information
+[vimeo] 822713981: Downloading fastly_skyfire MPD information
+[vimeo] 822713981: Downloading fastly_skyfire MPD information
+[vimeo] 822713981: Downloading google_mediacdn MPD information
+[vimeo] 822713981: Downloading google_mediacdn MPD information
+[debug] Sort order given by extractor: quality, res, fps, hdr:12, source
+[debug] Formats sorted by: hasvid, ie_pref, quality, res, fps, hdr:12(7), source, lang, vcodec:vp9.2(10), channels, acodec, size, br, asr, proto, vext, aext, hasaud, id
+slurmstepd: error: *** JOB 6698207 ON cdr650 CANCELLED AT 2023-07-06T15:42:51 DUE TO TIME LIMIT ***

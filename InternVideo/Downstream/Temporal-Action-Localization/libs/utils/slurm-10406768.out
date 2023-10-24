@@ -1,0 +1,66 @@
+/var/spool/slurmd/job10406768/slurm_script: line 9: ::: command not found
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cuda/11.0     2) openmpi/4.0.3
+
+Thu Aug 24 16:54:32 2023       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 530.30.02              Driver Version: 530.30.02    CUDA Version: 12.1     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                  Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf            Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Tesla P100-PCIE-12GB            On | 00000000:83:00.0 Off |                    0 |
+| N/A   26C    P0               24W / 250W|      0MiB / 12288MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+Testing...
+-------------------------------------------
+True
+-------------------------------------------
+running install
+/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/setuptools/command/easy_install.py:156: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running bdist_egg
+running egg_info
+writing manifest file 'nms_1d_cpu.egg-info/SOURCES.txt'
+running install_lib
+running build_ext
+Emitting ninja build file /project/6003167/slee67/bodycam/InternVideo/Downstream/Temporal-Action-Localization/libs/utils/build/temp.linux-x86_64-3.10/build.ninja...
+Compiling objects...
+Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
+ninja: no work to do.
+g++ -shared -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/libffi/3.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/libffi/3.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/libffi/3.3/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/libffi/3.3/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib64 -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/lib /project/6003167/slee67/bodycam/InternVideo/Downstream/Temporal-Action-Localization/libs/utils/build/temp.linux-x86_64-3.10/./csrc/nms_cpu.o -L/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/torch/lib -L/cvmfs/soft.computecanada.ca/easybuild/software/2020/avx2/Core/python/3.10.2/lib -lc10 -ltorch -ltorch_cpu -ltorch_python -o build/lib.linux-x86_64-3.10/nms_1d_cpu.cpython-310-x86_64-linux-gnu.so
+creating build/bdist.linux-x86_64/egg
+byte-compiling build/bdist.linux-x86_64/egg/nms_1d_cpu.py to nms_1d_cpu.cpython-310.pyc
+creating build/bdist.linux-x86_64/egg/EGG-INFO
+copying nms_1d_cpu.egg-info/PKG-INFO -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying nms_1d_cpu.egg-info/SOURCES.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying nms_1d_cpu.egg-info/dependency_links.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+copying nms_1d_cpu.egg-info/top_level.txt -> build/bdist.linux-x86_64/egg/EGG-INFO
+zip_safe flag not set; analyzing archive contents...
+__pycache__.nms_1d_cpu.cpython-310: module references __file__
+removing 'build/bdist.linux-x86_64/egg' (and everything under it)
+removing '/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/nms_1d_cpu-0.0.0-py3.10-linux-x86_64.egg' (and everything under it)
+creating /project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/nms_1d_cpu-0.0.0-py3.10-linux-x86_64.egg
+Extracting nms_1d_cpu-0.0.0-py3.10-linux-x86_64.egg to /project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages
+byte-compiling /project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/nms_1d_cpu-0.0.0-py3.10-linux-x86_64.egg/nms_1d_cpu.py to nms_1d_cpu.cpython-310.pyc
+nms-1d-cpu 0.0.0 is already the active version in easy-install.pth
+
+Installed /project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages/nms_1d_cpu-0.0.0-py3.10-linux-x86_64.egg
+Processing dependencies for nms-1d-cpu==0.0.0
+Finished processing dependencies for nms-1d-cpu==0.0.0

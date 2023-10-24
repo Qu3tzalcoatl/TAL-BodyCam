@@ -1,0 +1,1 @@
+export PYTHONPATH="${PYTHONPATH}:/project/6003167/slee67/bodycam/ENV/lib/python3.10/site-packages"

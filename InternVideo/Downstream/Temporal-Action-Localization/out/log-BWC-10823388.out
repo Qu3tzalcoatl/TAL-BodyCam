@@ -1,0 +1,40 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) libfabric/1.10.1     2) openmpi/4.0.3     3) ucx/1.8.0
+
+
+Lmod is automatically replacing "intel/2020.1.217" with "gcc/9.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cuda/11.0     2) openmpi/4.0.3
+
+Tue Aug 29 18:01:44 2023       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 530.30.02              Driver Version: 530.30.02    CUDA Version: 12.1     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                  Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf            Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  Tesla P100-PCIE-12GB            On | 00000000:83:00.0 Off |                    0 |
+| N/A   29C    P0               25W / 250W|      0MiB / 12288MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+Testing...
+Traceback (most recent call last):
+  File "/project/6003167/slee67/bodycam/InternVideo/Downstream/Temporal-Action-Localization/./train_eval.py", line 17, in <module>
+    from libs.datasets import make_dataset, make_data_loader
+  File "/project/6003167/slee67/bodycam/InternVideo/Downstream/Temporal-Action-Localization/libs/datasets/__init__.py", line 3, in <module>
+    from . import  thumos14, anet # other datasets go here
+  File "/project/6003167/slee67/bodycam/InternVideo/Downstream/Temporal-Action-Localization/libs/datasets/thumos14.py", line 15, in <module>
+    from petrel_client.client import Client
+ModuleNotFoundError: No module named 'petrel_client'
